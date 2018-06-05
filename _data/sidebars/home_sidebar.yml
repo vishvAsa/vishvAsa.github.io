@@ -1,0 +1,80 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: Parts
+contents:
+  - title: Home
+    url: /index.html
+  - title: Motivation
+    url: /pages/motivation.html
+  - title: Blog
+    url: /pages/blog/index.html
+  - title: Content- Publish & Read
+    contents:
+      - title: General info
+        url: /pages/content/misc.html
+      - title: Books
+        url: /pages/content/books.html
+      - title: Audio
+        url: /pages/content/audio.html
+      - title: Translations
+        url: /pages/content/translations.html
+      - title: Deep reading
+        url: /pages/content/deep-reading.html
+      - title: Fonts
+        url: /pages/content/fonts.html
+      - title: Digitization/ OCR
+        contents:
+          - title: Intro
+            url: /pages/content/ocr/intro.html
+          - title: Procedure
+            url: /pages/content/ocr/ocr-ing.html
+          - title: Corrections
+            url: /pages/content/ocr/corrections.html
+      - title: Law
+        url: /pages/content/law.html
+      - title: Wikis
+        url: /pages/content/wikis.html
+      - title: Websites and blogs
+        url: /pages/websites.html
+      - title: Offline web
+        url: /pages/content/offline-web.html
+  - title: Input
+    contents:
+      - title: Intro
+        url: /pages/input/intro.html
+      - title: IME/ Typing
+        url: /pages/input/ime.html
+      - title: OPTITRANS
+        url: /pages/input/optitrans.html
+  - title: Dictionaries
+    contents:
+      - title: Intro
+        url: /pages/dictionaries/intro.html
+      - title: Offline
+        url: /pages/dictionaries/offline.html
+      - title: Spell check
+        url: /pages/dictionaries/spellcheck.html
+      - title: Flashcards
+        url: /pages/dictionaries/flashcards.html
+  - title: Grammar
+    contents:
+      - title: Word from root
+        url: /pages/grammar/word-from-root.html
+      - title: Parsing
+        url: /pages/grammar/parsing.html
+      - title: Sandhi and samAsa
+        url: /pages/grammar/sandhi-samAsa.html
+      - title: Miscellaneous
+        url: /pages/grammar/misc.html
+  - title: General tips
+    contents:
+      - title: License
+        url: /pages/tips/license.html
+      - title: Dev tools
+        url: /pages/tips/dev-tools.html
+      - title: Python unicode
+        url: /pages/tips/py-unicode.html
+  - title: Astronomy
+    url: /pages/astronomy.html
+  - title: Misc tools
+    url: /pages/misc-tools.html

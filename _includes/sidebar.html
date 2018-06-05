@@ -1,0 +1,16 @@
+{% assign item = site.data.sidebars[page.sidebar] %}
+
+<ul id="displayed_sidebar" class="nav">
+    <li class="sidebarTitle">{{item.title}}</li>
+    {% for subitem in item.contents %}
+    {% include /functions/recursive_item_to_list.html item=subitem level=1 %}
+    {% endfor %}
+    {% comment %} if you aren't using the accordion, uncomment this block:
+    <p class="external">
+        <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+    </p>
+    {% endcomment %}
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
