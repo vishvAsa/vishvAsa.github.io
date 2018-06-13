@@ -32,7 +32,7 @@ I very rarely (almost never) use instant messengers.
 
 ## Professional and Social Networking websites:
 
-In case we know each other, you may keep track of me (and discuss common interests) on these sites[.](http://vishvas-vasuki.appspot.com/privy/info/contactDetailsExtra.htm):
+In case we know each other, you may keep track of me (and discuss common interests) on these sites:
 
 - [LinkedIn](http://www.linkedin.com/in/vishvas) (Rarely used).
 
