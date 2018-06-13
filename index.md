@@ -16,16 +16,15 @@ summary: Welcome page.
 
 Why are you here? Probably for one of the following reasons:
 
-- You're interested in me as a computer programmer or researcher.
-  - If so, yes I am an engineer. I graduated from the Computer Science department of the University of Texas at Austin with an MS in Computer Science. You'll find my CV and details somewhere on this site.
-  - If you're confused about my current job - don't be - it's quite possible that I am working like mad on personal projects and not selling my freedom to get a few dollars from some company.
 - You just want to check me and my interests out.
   - If so, welcome, click around.
+- You're interested in me as a computer programmer or researcher.
+  - If so, yes I am an engineer. I graduated from the Computer Science department of the University of Texas at Austin with an MS in Computer Science. You'll find my CV and details somewhere on this site.
+- You're interested in me as a contributor to sanskrit learning and processing.
+  - Oh, you're more likely to be in luck. Look around. But you'll probably not find my best work here. Instead head over to [github](https://github.com/vvasuki) (especially the coder organizations I participate in) and the mailing lists.
 - You're interested in my views on certain topics.
   - If so, in some sensitive cases (rituals, politics, etc..) you'll be disappointed and not find what you seek in this public place.
   - In other cases, you can visit my [notes site](notes/).
-- You're interested in me as a contributor to sanskrit learning.
-  - Oh, you're more likely to be in luck. Look around. But you'll probably not find my best work here. Instead head over to github and the mailing lists.
   
 Like most people, I have dreams and a non-insignificant potential for good. Rest assured: My most frankest observations remain hidden. As they say: अतिपरिचयात् अवज्ञा। So, try not to form rather strong opinions based on this allegedly "personal" web page - this interaction is not satisfactorily deep! 
 
