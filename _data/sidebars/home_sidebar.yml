@@ -3,13 +3,25 @@
 title: Parts
 contents:
   - title: Intro परिचयः॥
-    url: /index.html
     contents:
+      - title: Home
+        url: /index.html
+      - title: Contact
+        url: /intro/contact.html
       - title: C.V. / Resume
-        url: https://www.dropbox.com/s/ykcljw5jzxtfde0/vishvasVasukiCV.pdf?dl=0
-      - title: Debating तर्कः
-        url: /intro/debating.html
+        url: /resumeLand/vishvasVasukiCV.pdf
       - title: वैचारिक इतिहासः
         url: /intro/vaichaarika-itihaasa.html
       - title: Ancestry पितरः
-        url: /intro/ancestry.md
+        url: /intro/ancestry.html
+  - title: Interests
+    contents:
+      - title: Intro
+        url: /interests/intro.html
+      - title: ಕನ್ನಡದಲ್ಲಿ ಭಾಷಾನುರಾಗದ ಪರಿಚಯ
+        url: /interests/bhaashaa-kannada.html
+      - title: Books
+        url: /interests/books.html
+      - title: Debating तर्कः
+        url: /interests/debate.html
+
