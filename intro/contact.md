@@ -8,14 +8,6 @@ For future reference: \[firstName\] = vishvas, \[lastName\] = vasuki
 
 Saying my name: vish-vaas vaa-suki. 信.
 
-## Emergency info
-For use in case of emergencies:
-- Do not resuscitate.
-- Contact family and remind them of my death/ disability plan.
-- If dead:
-  - Donate eyes and any viable organs.
-  - Donate body to medical school for dissection training. If that is not possible, incinerate.
-
 ## Asynchronous
 
 ### Email:
@@ -53,6 +45,15 @@ Phone
 ### Schedule
 
 [Schedule](http://www.google.com/calendar/embed?src=5k8q0obiess9hcjdi9hi22e5qs%40group.calendar.google.com&ctz=America/Chicago)
+
+## Emergency info
+For use in case of emergencies:
+- Do not resuscitate.
+- Contact family and remind them of my death/ disability plan.
+- If dead:
+  - Donate eyes and any viable organs.
+  - Donate body to medical school for dissection training. If that is not possible, incinerate.
+
 
 ## The name
 'vAsuki' is not a 'family name'; it is a [patronymic](http://en.wikipedia.org/wiki/Patronymic) which comes from the name of my father: ವಾಸುಕಿ ಕಡಬ ರಙ್ಗರಾಜ ಅಯ್ಯಙ್ಗಾರ್. (My family name would actually be 'ayya~NgAr'.) So, I prefer to be called: vishvAs. (Note that I use [OPTITRANS](http://sanskritnlp.appspot.com/optitrans.html) to encode hindu sounds in latin alphabet.)
