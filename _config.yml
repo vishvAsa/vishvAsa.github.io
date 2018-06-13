@@ -61,10 +61,10 @@ exclude:
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-feedback_text: "Email?"
+feedback_text: "Contact"
 # if you uncomment the previous line, it changes the Feedback text
 
-# feedback_link: "https://groups.google.com/forum/#!forum/sanskrit-programmers"
+feedback_link: "/intro/contact.html"
 # if you uncomment the previous line, it changes where the feedback link points to
 
 highlighter: rouge
@@ -95,7 +95,7 @@ defaults:
       comments: true
       search: true
       sidebar: home_sidebar
-      topnav: topnav
+      topnav: home_sidebar
   -
     scope:
       path: ""
@@ -105,7 +105,7 @@ defaults:
       comments: true
       search: true
       sidebar: home_sidebar
-      topnav: topnav
+      topnav: home_sidebar
       permalink: /posts/:slug:output_ext
 # these are defaults used for the frontmatter for these file types
 
