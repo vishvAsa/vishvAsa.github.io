@@ -1,5 +1,5 @@
 ---
-title: "Vishvas's notes"
+title: "Vishvas's website विश्वासस्य जालक्षेत्रम्।"
 tags: [getting_started]
 sidebar: home_sidebar
 permalink: index.html
