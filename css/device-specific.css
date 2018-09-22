@@ -1,0 +1,92 @@
+
+/*
+ * Let's target IE to respect aspect ratios and sizes for img tags containing SVG files
+ *
+ * [1] IE9
+ * [2] IE10+
+ */
+/* 1 */
+.ie9 img[src$=".svg"] {
+    width: 100%;
+}
+
+/* 2
+The @media rule is used in media queries to apply different styles for different media types/devices.
+*/
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    img[src$=".svg"] {
+        width: 100%;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+        color: #444;
+    }
+}
+
+@media (max-width: 990px) {
+    #displayed_sidebar {
+        position: relative;
+    }
+}
+
+@media (min-width: 1000px) {
+
+    ul#displayed_sidebar {
+        width: 225px;
+    }
+}
+
+@media (max-width: 900px) {
+
+    ul#displayed_sidebar {
+        max-width: 100%;
+    }
+}
+
+@media only screen and (min-width: 900px), only screen and (min-device-width: 900px) {
+    .col-md-9 img {
+        max-width: 700px;
+        max-height: 700px;
+    }
+}
+
+/******************************************/
+/*set navbar breakpoint so that it converts to hamburger earlier */
+
+@media (max-width: 1200px) {
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+}

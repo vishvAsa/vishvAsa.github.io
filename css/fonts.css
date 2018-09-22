@@ -1,0 +1,13 @@
+/************************************************************/
+/*Font section*/
+/* Directly linking to the latest version of the font in the Github repo. */
+@font-face {
+    font-family: 'Noto Sans Devanagari From Github Hinted';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://raw.githubusercontent.com/googlei18n/noto-fonts/master/hinted/NotoSansDevanagari-Regular.ttf) format('truetype');
+}
+/************************************************************/
+
+
+/************************************************************/
