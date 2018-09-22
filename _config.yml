@@ -121,3 +121,10 @@ description: विश्वासस्य जालक्षेत्रम्
 # needed for sitemap.xml file only
 url: http://vvasuki.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
+
+remote_theme: sanskrit-coders/sanskrit-documentation-theme
+
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-sitemap
