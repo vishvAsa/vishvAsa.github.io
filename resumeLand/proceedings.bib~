@@ -1,0 +1,56 @@
+% This file was created with JabRef 2.6.
+% Encoding: UTF-8
+
+@INPROCEEDINGS{jalaliDGM,
+  author = {Ali Jalali and Pradeep Ravikumar and Vishvas Vasuki and Sujay Sanghavi},
+  title = {On Learning Discrete Graphical Models using Group-Sparse Regularization},
+  booktitle = {JMLR Workshop and Conference Proceedings: AISTATS 2011},
+  year = {2011},
+  volume = {15},
+  note = {\href{http://vishvas-vasuki.appspot.com/work/probabilisticModels/discreteGraphicalModelLearning/aistats2011/dgm_aistats.pdf}{pdf},
+	\href{http://vishvas-vasuki.appspot.com/resumeLand/proceedings.bib}{bib}},
+  owner = {vvasuki},
+  timestamp = {2010.11.01}
+}
+
+@ARTICLE{wsnIIsc10,
+  author = {SmartDetect Project Team},
+  title = {Wireless Sensor Networks for human intruder detection},
+  journal = {Journal of the Indian Institute of Science},
+  year = {2010},
+  volume = {Vo. 90, No. 3},
+  pages = {pp. 347-380.},
+  note = {\href{http://vishvas-vasuki.appspot.com/work/computerNetworks/drdo_wsn_iisc_journal.pdf}{pdf},
+	\href{http://vishvas-vasuki.appspot.com/resumeLand/proceedings.bib}{bib}},
+  owner = {vvasuki},
+  timestamp = {2011.02.21}
+}
+
+@INPROCEEDINGS{vasukiAffiliationRec,
+  author = {Vishvas Vasuki and Nagarajan Natarajan and Zhengdong Lu and Inderjit.S
+	Dhillon},
+  title = {Affiliation Recommendations using Auxiliary Friendship Networks},
+  booktitle = {RecSys '10: Proceedings of the third ACM conference on Recommender
+	systems},
+  year = {2010},
+  address = {Barcelona, Spain},
+  note = {\href{http://vishvas-vasuki.appspot.com/work/graphTheory/communityRecommendation/paper/groupRecommendation.pdf}{pdf},
+	\href{http://vishvas-vasuki.appspot.com/resumeLand/proceedings.bib}{bib}},
+  location = {Barcelona, Spain},
+  owner = {vvasuki},
+  url = {http://vishvas-vasuki.appspot.com/work/graphTheory/communityRecommendation/paper/groupRecommendation.pdf}
+}
+
+@ARTICLE{vasukiScalableAffiliationRec,
+  author = {Vishvas Vasuki and Nagarajan Natarajan and Zhengdong Lu and Berkant
+	Savas and Inderjit.S Dhillon},
+  title = {Scalable Affiliation Recommendations using Auxiliary Friendship Networks},
+  journal = {ACM Transactions on Intelligent Systems and Technology special issue
+	on Social Recommender Systems},
+  year = {2011},
+  note = {\href{http://vishvas-vasuki.appspot.com/work/graphTheory/communityRecommendation/journalPaper/groupRecommendation.pdf}{pdf},
+	\href{http://vishvas-vasuki.appspot.com/resumeLand/proceedings.bib}{bib}},
+  location = {Barcelona, Spain},
+  owner = {vvasuki}
+}
+
