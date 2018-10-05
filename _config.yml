@@ -1,11 +1,3 @@
-repository: vvasuki/site
-
-output: web
-# this property is useful for conditional filtering of content that is separate from the PDF.
-
-topnav_title: विश्वासस्य जालक्षेत्रम् Vishvas Vasuki's website.
-# this appears on the top navigation bar next tog the home button
-
 site_title: विश्वासस्य जालक्षेत्रम् Vishvas Vasuki's website.
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
@@ -42,17 +34,6 @@ google_custom_search_code: "
 </script>
 <gcse:search></gcse:search>
 "
-
-host: 127.0.0.1
-# the preview server used. Leave as is.
-
-port: 4000
-# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
-
-exclude:
-  - .gitignore
-# these are the files and directories that jekyll will exclude from the build
-
 # feedback_subject_line: Jekyll documentation theme
 
 # feedback_email: tomjoht@gmail.com
@@ -66,24 +47,6 @@ feedback_text: "Contact"
 
 feedback_link: "/intro/contact.html"
 # if you uncomment the previous line, it changes where the feedback link points to
-
-highlighter: rouge
-# library used for syntax highlighting
-
-markdown: kramdown
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
- syntax_highlighter: rouge
-
-# filter used to process markdown. note that kramdown differs from github-flavored markdown in some subtle ways
-
-collections:
-  tooltips:
-    output: false
-# collections are declared here. this renders the content in _tooltips and processes it, but doesn't output it as actual files in the output unless you change output to true
-
 # Order matters below.
 defaults:
   -
