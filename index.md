@@ -12,7 +12,7 @@ summary: Welcome page.
 
  \[Upscale [test](http://waifu2x.udp.jp/): [1](http://i.imgur.com/qnW6VIL.png).\]
 
-  
+
 
 Why are you here? Probably for one of the following reasons:
 
@@ -23,10 +23,10 @@ Why are you here? Probably for one of the following reasons:
 - You're interested in me as a contributor to sanskrit learning and processing.
   - Oh, you're more likely to be in luck. Look around. But you'll probably not find my best work here. Instead head over to [github](https://github.com/vvasuki) (especially the coder organizations I participate in) and the mailing lists.
 - You're interested in my views on certain topics.
-  - If so, in some sensitive cases (rituals, politics, etc..) you'll be disappointed and not find what you seek in this public place.
+  - If so, in some sensitive cases (rituals, politics, etc..) you'll be disappointed and not find what you seek in this public place. Though there will be loads of public notes at [saMskAra notes site](saMskAra/).
   - In other cases, you can visit my [notes site](notes/).
-  
-Like most people, I have dreams and a non-insignificant potential for good. Rest assured: My most frankest observations remain hidden. As they say: अतिपरिचयात् अवज्ञा। So, try not to form rather strong opinions based on this allegedly "personal" web page - this interaction is not satisfactorily deep! 
+
+Like most people, I have dreams and a non-insignificant potential for good. Rest assured: My most frankest observations remain hidden. As they say: अतिपरिचयात् अवज्ञा। So, try not to form rather strong opinions based on this allegedly "personal" web page - this interaction is not satisfactorily deep!
 
 ### Formal summary
 
