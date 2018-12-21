@@ -11,7 +11,7 @@ title: स्तोत्राणि
 दिनम् \- 2014 Jun 30  
 प्रेरणा \- पद्यपाने [पद्यपुरणम्](http://padyapaana.com/?p=2238#comment-18740)।
 
-प्रकाशनम् \- [अत्र](http://vishvasvasuki.wordpress.com/2014/06/30/%E0%A4%9A%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%83%E0%A5%A5/)।
+प्रकाशनम् \- [अत्र](http://agnimaan.wordpress.com/2014/06/30/%E0%A4%9A%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%BF%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%83%E0%A5%A5/)।
 
 \[अत्र क्रमशः पाद-ऊरु-जठर-स्तन-बाहु-मुख-वर्णनम्।\]
 
