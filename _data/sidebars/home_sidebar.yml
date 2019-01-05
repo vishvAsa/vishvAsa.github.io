@@ -24,20 +24,9 @@ contents:
         url: /interests/texts.md
   - title: Notes and wiki
     url: /notes/index.html
-  - title: पद्यानि
-    contents:
-      - title: Intro
-        url: /padya/intro.html
-      - title: चित्र-बन्धः
-        url: /padya/chitra.html
-      - title: प्रवास-काव्यम्
-        url: /padya/pravaasa.html
-      - title: मन्त्र-बन्ध-यत्नः
-        url: /padya/mantra.html
-      - title: स्तोत्राणि
-        url: /padya/stotra.html
-      - title: २०१३ तः
-        url: /padya/2013-on-dump.html
-
+  - title: संस्काराः
+    url: /saMskAra/
+  - title: Poetry काव्यम्
+    url: /kAvya/
   - title: Blog
     url: /assets/blog/index.html
