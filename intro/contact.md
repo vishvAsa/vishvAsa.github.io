@@ -56,7 +56,7 @@ For use in case of emergencies:
 
 
 ## The name
-'vAsuki' is not a 'family name'; it is a [patronymic](http://en.wikipedia.org/wiki/Patronymic) which comes from the name of my father: ವಾಸುಕಿ ಕಡಬ ರಙ್ಗರಾಜ ಅಯ್ಯಙ್ಗಾರ್. (My family name would actually be 'ayya~NgAr'.) So, I prefer to be called: vishvAs. (Note that I use [OPTITRANS](http://sanskritnlp.appspot.com/optitrans.html) to encode hindu sounds in latin alphabet.)
+'vAsuki' is not a 'family name'; it is a [patronymic](http://en.wikipedia.org/wiki/Patronymic) which comes from the name of my father: ವಾಸುಕಿ ಕಡಬ ರಙ್ಗರಾಜ ಅಯ್ಯಙ್ಗಾರ್. (My family name would actually be 'ayya~NgAr'.) So, I prefer to be called: vishvAs. (Note that I use [OPTITRANS](https://sanskrit-coders.github.io/input/optitrans/) to encode hindu sounds in latin alphabet.)
 
 ## Sites leading here
 This info is useful in case of moving website location.
