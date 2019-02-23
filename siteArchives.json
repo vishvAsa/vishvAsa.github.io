@@ -1,7 +1,7 @@
 [
   {
-    "url": "https://github.com/vvasuki/saMskAra/archive/gh-pages.zip",
-    "baseUrl": "https://vvasuki.github.io/saMskAra/",
+    "url": "https://github.com/vvasuki/saMskAra/archive/offline-android.zip",
+    "baseUrl": "file:///storage/emulated/0/notesData/saMskAra",
     "destinationPathSuffix": "vvasuki.github.io/saMskAra/"
   }
 ]
