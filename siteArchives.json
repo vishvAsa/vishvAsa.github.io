@@ -1,7 +1,8 @@
 [
   {
     "url": "https://github.com/vvasuki/saMskAra/archive/offline_android.zip",
-    "baseUrl": "file:///storage/emulated/0/notesData/saMskAra",
+    "baseUrlStringsToReplace": ["/storage/emulated/0/notesData/saMskAra", "\/storage\/emulated\/0\/notesData\/saMskAra"],
+    "replacementBaseUrlString": "/sdcard/static_sites/vvasuki.github.io/saMskAra/saMskAra-offline_android/",
     "destinationPathSuffix": "vvasuki.github.io/saMskAra/"
   }
 ]
