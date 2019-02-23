@@ -2,6 +2,6 @@
   {
     "url": "https://github.com/vvasuki/saMskAra/archive/gh-pages.zip",
     "baseUrl": "https://vvasuki.github.io/saMskAra/",
-    "destinationSuffix": "vvasuki.github.io/saMskAra/"
+    "destinationPathSuffix": "vvasuki.github.io/saMskAra/"
   }
 ]
