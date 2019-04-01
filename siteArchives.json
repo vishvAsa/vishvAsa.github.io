@@ -5,5 +5,19 @@
     "replacemeantBaseUrlSuffix": "vvasuki.github.io/saMskAra/saMskAra-offline_android",
     "startPage": "vvasuki.github.io/saMskAra/saMskAra-offline_android/index.html",
     "destinationPathSuffix": "vvasuki.github.io/saMskAra/"
+  },
+  {
+    "url": "https://github.com/vvasuki/kAyva/archive/offline_android.zip",
+    "baseUrlStringsToReplace": [ "/storage/emulated/0/notesData/kAyva", "\\/storage\\/emulated\\/0\\/notesData\\/kAyva" ],
+    "replacemeantBaseUrlSuffix": "vvasuki.github.io/kAyva/kAyva-offline_android",
+    "startPage": "vvasuki.github.io/kAyva/kAyva-offline_android/index.html",
+    "destinationPathSuffix": "vvasuki.github.io/kAyva/"
+  },
+  {
+    "url": "https://github.com/vvasuki/notes/archive/offline_android.zip",
+    "baseUrlStringsToReplace": [ "/storage/emulated/0/notesData/notes", "\\/storage\\/emulated\\/0\\/notesData\\/notes" ],
+    "replacemeantBaseUrlSuffix": "vvasuki.github.io/notes/notes-offline_android",
+    "startPage": "vvasuki.github.io/notes/notes-offline_android/index.html",
+    "destinationPathSuffix": "vvasuki.github.io/notes/"
   }
 ]
