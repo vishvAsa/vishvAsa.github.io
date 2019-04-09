@@ -9,7 +9,7 @@ Donate to dharma via Vishvas if you:
 - agree with his worldview
 - trust him to honestly use all money received here towards dharma.
 
-PS: I'm an individual - donations made via me are not tax-deductible.
+PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
 ## Donation avenues
 - [donorbox.org/dharma-via-vishvas](https://donorbox.org/dharma-via-vishvas) (USD)
