@@ -1,11 +1,6 @@
-# Jekyll stuff
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
-
-# Intellij files.
-*.iml
+.wercker
+/resources
+build_github
 
 # Latex stuff.
 *.aux

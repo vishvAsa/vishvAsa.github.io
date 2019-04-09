@@ -20,8 +20,10 @@ You can verify my messages by using:
 ### Voice-messaging IM!
 
 - telegram
-- whatsapp
 - zoom.us (Highly recommended for screen sharing and professional video conferencing)
+
+I don't like the below but rarely use them:
+- whatsapp
 - Duo
 
 ### Internet chat:

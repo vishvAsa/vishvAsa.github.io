@@ -1,0 +1,24 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: Parts
+contents:
+  - title: Intro परिचयः॥
+    contents:
+      - title: Home
+        url: /
+      - title: C.V. / Resume
+        url: /resumeLand/vishvasVasukiCV.pdf
+      - url: dir://intro/
+  - title: Interests
+    contents:
+      - url: dir://interests/
+  - title: Notes and wiki
+    url: /notes/
+  - title: संस्काराः
+    url: /saMskAra/
+  - title: Poetry काव्यम्
+    url: /kAvya/
+  - title: Blog
+    url: /blog/
+  - title: Donate Via Vishvas
+    url: /interests/dharma-via-vishvas/
