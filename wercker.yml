@@ -22,11 +22,6 @@ build:
         version: "0.53"
         theme: "sanskrit-documentation-theme-hugo"
         flags: --buildDrafts=true
-    - arjen/hugo-build:
-        version: "0.53"
-        theme: "sanskrit-documentation-theme-hugo"
-        flags: --buildDrafts=true
-        config: config_offline_android.toml
     # - lordlothar99/git-push:
     #   The push below fails for unknown reasons.
     #      host: github.com
@@ -41,7 +36,3 @@ deploy:
         token: $GIT_TOKEN
         basedir: build_github
         branch: master
-    - sf-zhou/gh-pages@0.2.6:
-        token: $GIT_TOKEN
-        basedir: build_offline_android
-        branch: offline_android
