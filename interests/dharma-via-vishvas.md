@@ -12,4 +12,5 @@ Donate to dharma via Vishvas if you:
 PS: I'm an individual - donations made via me are not tax-deductible.
 
 ## Donation avenues
-- [donorbox.org/dharma-via-vishvas](https://donorbox.org/dharma-via-vishvas)
+- [donorbox.org/dharma-via-vishvas](https://donorbox.org/dharma-via-vishvas) (USD)
+- Paypal (allows credit cards) [here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LX6ZHMR989AJU&item_name=dharma+via+vishvas&currency_code=USD&source=url).
