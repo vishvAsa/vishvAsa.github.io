@@ -1,6 +1,6 @@
 ---
 title: संपर्कः Contact
----  
+---
 
 I love feedback: +ve or -ve. I am serious about it: I have a special folder for compliments and critiques (though I tend to then consciously reject the former in accordance with father manu - "सम्मानाद्ब्राह्मणो नित्य- मुद्विजेत विषादिव । अमृतस्येव चाकाङ्क्षे- दवमानस्य सर्वदा ।।"). So, don't hesitate!  
 
