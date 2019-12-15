@@ -4,8 +4,12 @@ title = "विश्वासस्य जालक्षेत्रम् Vis
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
+
 [params]
   githubEditMePathBase = "https://github.com/vvasuki/vvasuki.github.io/edit/hugo-source/content/"
   contactLink = "https://github.com/vvasuki/vvasuki.github.io/issues/new"
   env = "production"
   disqusShortcode = "vvasuki-site"
+
+[markup.goldmark.renderer]
+  unsafe= true
