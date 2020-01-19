@@ -12,6 +12,7 @@ Donate to _Dharma via Vishvas_ if you:
 PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
 ## Donation avenues
+- Sponsor some projects? [Contact](../../intro/contact/) Vishvas.
 - [donorbox.org/dharma-via-vishvas](https://donorbox.org/dharma-via-vishvas) (USD. Preferred for ACH.)
   - +++(Charges we incur as of 2019:  No donorbox fees upto 1k$. Payment processing [costs](https://donorbox.org/pricing): 2.9% + 30c via stripe/ paypal, 0.8% + A Cap Of $5 ACH bank transfers)+++
 - Paypal (allows credit cards) [here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LX6ZHMR989AJU&item_name=dharma+via+vishvas&currency_code=USD&source=url).

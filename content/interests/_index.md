@@ -1,5 +1,5 @@
 ---
-title: Intro
+title: +Interests
 ---
 
 - I have pursued far too many interests to list here (snowboarding, hiking, music, films, web surfing, karate, dog walking, travelling, mysticism (Damn that memory!), personal finance).
