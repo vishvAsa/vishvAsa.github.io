@@ -21,7 +21,7 @@ Why are you here? Probably for one of the following reasons:
 - You're interested in me as a computer programmer or researcher.
   - If so, yes I am an engineer. I worked in some fancy corporations of my time, and graduated from the Computer Science department of the University of Texas at Austin with an MS in Computer Science. I keep engineering software for the sanskrit community. You'll find my CV and details somewhere on this site.
 - You're interested in me as a contributor to sanskrit learning and processing.
-  - Oh, you're more likely to be in luck. Look around. But you'll probably not find my best work here. Instead head over to [github](https://github.com/vvasuki) (especially the coder organizations I participate in) and the mailing lists.
+  - Oh, you're more likely to be in luck. Look around. But you'll probably not find my best work here. Instead head over to [github](https://github.com/vvasuki) (especially the coder organizations I participate in) and the mailing lists. And checkout [dyugangA](https://sanskrit.github.io/groups/dyuganga/).
 - You're interested in my views on certain topics.
   - If so, in some sensitive cases (rituals, politics, etc..) you'll be disappointed and not find what you seek in this public place. Though there will be loads of public notes at [saMskAra notes site](saMskAra/).
   - In other cases, you can visit my [notes site](notes/).
