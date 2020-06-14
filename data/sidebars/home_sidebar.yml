@@ -8,10 +8,10 @@ contents:
         url: /
       - title: C.V. / Resume
         url: /resumeLand/vishvasVasukiCV.pdf
-      - url: dir://intro/
+      - url: recdir://intro/
   - title: Interests
     contents:
-      - url: dir://interests/
+      - url: recdir://interests/
   - title: Notes and wiki
     url: /notes/
   - title: संस्काराः
