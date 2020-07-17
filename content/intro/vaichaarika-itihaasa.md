@@ -27,6 +27,10 @@ title: वैचारिक इतिहासः
 - सुसंस्कृतानां संस्कृति-भक्तियुक्तानां समाजे भागं‌ वोढुं प्रयते।
 
 ### सांस्कृतिको वैचारिकश्च इतिहासः॥
+#### English summary
+I've gone through the following phases: devout childhood, scientific-minded buddhist obsessed with android like mental perfection, reactionary anti-theist and currently a pretty traditional and sincere hindu practitioner.
+
+Triggers for the last transition: Going to USA, coming back for a couple of months and observing the striking difference wrt brAhmaNa culture; reading with wonder about tirumalAi kRShNamAchArya's life, benefitting from yogAbhyAsa, restarting sanskrit studies to memorize yoga-sUtra,  reading mAnasatarangiNI articles. I was particularly struck by the dedication to learning (or even living) as a ***sacred*** pursuit + non-decadence of a proper hindu v1 lifestyle.
 
 #### मुग्धो वैदिकः॥
 
