@@ -12,5 +12,4 @@ build_github
 *.lg
 *.log
 *.out
-*.png
 *.sty
