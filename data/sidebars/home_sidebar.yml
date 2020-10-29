@@ -12,17 +12,21 @@ contents:
   - title: Interests
     contents:
       - url: recdir://interests/
-  - title: Notes and wiki
-    url: /notes/
-  - title: संस्काराः
-    url: /saMskAra/
-  - title: संस्कृतम्
-    url: /sanskrit/
-  - title: मीमांसा
-    url: /mImAMsA/
-  - title: काव्यम्
-    url: /kAvya/
-  - title: Poetry काव्यम्
-    url: /kAvya/
+  - title: सङ्ग्रहान्तरम्
+    contents:
+      - title: Notes and wiki
+        url: /notes/
+      - title: ज्यौतिषम्
+        url: /jyotiSham/
+      - title: संस्कृतम्
+        url: /sanskrit/
+      - title: मीमांसा
+        url: /mImAMsA/
+      - title: Notes Home
+        url: /notes/
+      - title: काव्यम्
+        url: /kAvya/
+      - title: संस्काराः
+        url: /saMskAra/
   - title: Blog
     url: /blog/
