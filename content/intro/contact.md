@@ -9,6 +9,8 @@ For future reference: \[firstName\] = vishvas, \[lastName\] = vasuki
 Saying my name: vish-vaas vaa-suki. 信.
 
 ## Asynchronous
+### Anon message
+You can send me an anon message [here](https://rebrand.ly/anon_to_vishvas).
 
 ### Email:
 
