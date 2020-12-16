@@ -14,19 +14,25 @@ contents:
       - url: recdir://interests/
   - title: सङ्ग्रहान्तरम्
     contents:
-      - title: Notes and wiki
-        url: /notes/
       - title: ज्यौतिषम्
-        url: /jyotiSham/
+        url: ../jyotiSham/
       - title: संस्कृतम्
-        url: /sanskrit/
-      - title: मीमांसा
-        url: /mImAMsA/
+        url: ../sanskrit/
+      - title: संस्कारः
+        url: ../saMskAra/
       - title: Notes Home
-        url: /notes/
+        url: ../notes/
+      - title: वेदाः
+        url: ../vedAH/
+      - title: पुराणम्
+        url: ../purANam/
       - title: काव्यम्
-        url: /kAvya/
-      - title: संस्काराः
-        url: /saMskAra/
+        url: ../kAvya/
+      - title: मीमांसा
+        url: ../mImAMsA/
+      - title: त्रिपिटकम्
+        url: ../tipiTaka/
+      - title: पाळयः
+        url: ../pALi/
   - title: Blog
     url: /blog/
