@@ -5,7 +5,7 @@ title: Dharma Via Vishvas
 ## Intro
 Donate to _Dharma via Vishvas_ if you:
 
-- like his creations and endeavors (Eg - inline comments for [mantras](https://vvasuki.github.io/saMskAra/mantra/somaH/paravastu-saama/AdIShAdiyyam/), [shAstra](https://vvasuki.github.io/saMskAra/kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/pAtra/Ashrama/samAvRtta/)-s and [kAvyas](https://vvasuki.github.io/kAvya/TIkA/champU/nIti/panchatantra/mitrabheda/00-vardhamAnakathA/), open source software [code](https://github.com/sanskrit-coders/), [audio curation and recording projects](https://sanskrit.github.io/projects/) etc..), to which he is incidentally dedicated **full-time**
+- like his creations and endeavors (Eg - inline comments for [mantras](https://vvasuki.github.io/saMskAra/mantra/somaH/paravastu-saama/AdIShAdiyyam/), [shAstra](https://vvasuki.github.io/saMskAra/kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/pAtra/Ashrama/samAvRtta/)-s and [kAvyas](https://vvasuki.github.io/kAvyam/TIkA/champU/nIti/panchatantra/mitrabheda/00-vardhamAnakathA/), open source software [code](https://github.com/sanskrit-coders/), [audio curation and recording projects](https://sanskrit.github.io/projects/) etc..), to which he is incidentally dedicated **full-time**
 - agree with his worldview
 - trust him to honestly use all money received here towards dharma.
 
