@@ -5,14 +5,12 @@ title: Ancestry पितरः
 
 ## Migratory hypotheses
 
-- Out of Africa routes
+- Out of Africa routes
     - NatGeo [2011](http://voices.nationalgeographic.com/2011/11/03/modern-humans-wandered-out-of-africa-via-arabia/).
 
 ## Genetics
 
-- Neanderthals - [![](http://i.imgur.com/PfLO0gj.png)](http://i.imgur.com/PfLO0gj.png)
-        
-          
+- Neanderthal ancestry accounts for less than ~2 percent of your DNA. "Out of the 2,872 variants we tested, we found 225 variants in your DNA that trace back to the Neanderthals."
         
 ### R1a1a* (Paternal)
 {{< figure src="../r1a1a_map.png" title="R1A1A distribution" class="thumbnail">}}
@@ -38,7 +36,7 @@ title: Ancestry पितरः
                 "
 
 
-### R30a (Maternal line) Haplogroup: R, a subgroup of N
+### R30a (Maternal line) Haplogroup: R, a subgroup of N
 - Distribution
     - [![](http://i.imgur.com/dtJzFQL.png)](http://i.imgur.com/dtJzFQL.png)        
 - Haplogroup R
@@ -48,9 +46,9 @@ title: Ancestry पितरः
 
 - भार्गव-च्यावन-आप्नवान-और्व-जामदग्न्य-प्रवरः।
 - [भार्गवविषयोऽत्र](https://sites.google.com/site/samskrtamsfo/kavyam/itihasah/vansah/bhargavah)।
-- ಹೆಬ್ಬಾರ್ ಅಯ್ಯಂಗಾರ್ ಎಮ್ಬ ಸಮುದಾಯವು. ಹೆಬ್ಬಾರ\-ಶಬ್ದದ ಉತ್ಪತ್ತಿಯು \- ಇಲ್ಲಿ [ಪದಾರ್ಥಚಿನ್ತಾಮಣಿಯಲ್ಲಿ](https://www.facebook.com/groups/padarthachintamani/permalink/918075908244357/?comment_id=918291561556125&offset=0&total_comments=23) (ಹೆಬ್ಬ ಹರುವ. ಪಾರ್ → ನೋಡು ಪಾರ್ಪನು -\> ಹಾರುವನು / ಹರುವ. ).
+- ಹೆಬ್ಬಾರ್ ಅಯ್ಯಂಗಾರ್ ಎಮ್ಬ ಸಮುದಾಯವು. ಹೆಬ್ಬಾರ\-ಶಬ್ದದ ಉತ್ಪತ್ತಿಯು \- ಇಲ್ಲಿ [ಪದಾರ್ಥಚಿನ್ತಾಮಣಿಯಲ್ಲಿ](https://www.facebook.com/groups/padarthachintamani/permalink/918075908244357/?comment_id=918291561556125&offset=0&total_comments=23) (ಹೆಬ್ಬ ಹರುವ. ಪಾರ್ → ನೋಡು ಪಾರ್ಪನು -\> ಹಾರುವನು / ಹರುವ. ).
 
 ## Projects
 
-- Some genes affecting human intelligence here: [MT](https://manasataramgini.wordpress.com/2007/10/31/genes-affecting-human-intelligence/) and [23andme1](https://www.23andme.com/you/community/thread/717/).
+- Some genes affecting human intelligence here: [MT](https://manasataramgini.wordpress.com/2007/10/31/genes-affecting-human-intelligence/) and [23andme1](https://www.23andme.com/you/community/thread/717/).
 - Genetic haplotypes marking gotra-kartR-s.
