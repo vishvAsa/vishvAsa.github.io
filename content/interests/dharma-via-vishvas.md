@@ -5,18 +5,33 @@ title: Dharma Via Vishvas
 ## Intro
 Donate to _Dharma via Vishvas_ if you:
 
-- like his creations and endeavors (Eg - inline comments for [mantras](https://vvasuki.github.io/saMskAra/mantra/somaH/paravastu-saama/AdIShAdiyyam/), [shAstra](https://vvasuki.github.io/saMskAra/kalpa/sUtra/Apastamba/pramANAni/dharma-sUtra/pAtra/Ashrama/samAvRtta/)-s and [kAvyas](https://vvasuki.github.io/kAvyam/TIkA/champU/nIti/panchatantra/mitrabheda/00-vardhamAnakathA/), open source software [code](https://github.com/sanskrit-coders/), [audio curation and recording projects](https://sanskrit.github.io/projects/) etc..), to which he is incidentally dedicated **full-time**
+- like his creations and endeavors (described below), to which he is incidentally dedicated **full-time**
 - agree with his worldview
 - trust him to honestly use all money received here towards dharma.
 
 PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
+### Sponsorship will support
+Sponsorship will help with these **open source** projects:
+
+- Free open source software - See various repos under orgs such as [sanskrit-programmers](https://github.com/sanskrit-coders/), [jyotisha](https://github.com/jyotiSham/), [indic-dict](https://github.com/indic-dict/) etc. (Full list under github [profile](github.com/vvasuki/)).
+- Book digitizations. Examples - 
+  - [saMskAraratnamAlA](https://vvasuki.github.io/vedAH/taittirIyam/sUtram/hiraNyakeshI/paddhatiH/saMskAraratnamAlA/), an excellent KYV paddhati text especially popular in mahArAShTra (albeit belonging to the closely related hiraNyakeshI sUtra). This was executed by saMskRtabhAratI people (at their expense) after I suggested the text to them.
+  - Ongoing work pertaining to SC Vasu's commentary on aShTAdhyAyI ( example [here](https://ashtadhyayi.github.io/sutra-details/?sutra=1.1.6) ), sponsored by shrI nIlesh of [ashyadhyayi.com](http://ashyadhyayi.com) .
+- Publishing and distributing useful dictionaries - See repos under [indic-dict](https://github.com/indic-dict) for example.
+- Producing audio books and recordings - See [here](https://sanskrit.github.io/projects/audio/) for example.
+- Original, easy to follow, commentary on (mostly sanskrit) classical texts. Examples: 
+  - Apastamba [gRhya](
+https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dharma](https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/) sUtra-s
+  - The [first prapAThaka of first kANDa of kRShNa yajurveda](https://vvasuki.github.io/vedAH/taittirIyam/saMhitA/1/1/) 
+
+
 ## Donation avenues
 - Sponsor some projects? [Contact](../../intro/contact/) Vishvas.
 - [donorbox.org/dharma-via-vishvas](https://donorbox.org/dharma-via-vishvas) (USD. Preferred for ACH.)
-  - +++(Charges we incur as of 2019:  No donorbox fees upto 1k$. Payment processing [costs](https://donorbox.org/pricing):
+  - Charges we incur as of 2019:  No donorbox fees upto 1k$. Payment processing [costs](https://donorbox.org/pricing):
     - 2.9% + 30c via stripe/ paypal
-    - 0.8% + A Cap Of $5 ACH bank transfers)+++
+    - 0.8% + A Cap Of $5 ACH bank transfers
 - [Patreon](https://www.patreon.com/mantraComment)
   - Fees we incur as of 2020:
     - $3 or less → 5% + $0.10
