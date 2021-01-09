@@ -36,7 +36,7 @@ https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dhar
   - The [first prapAThaka of first kANDa of kRShNa yajurveda](https://vvasuki.github.io/vedAH/taittirIyam/saMhitA/1/1/) 
 
 ### Execution
-- I do much of the work myself. I also take paid support from other people via the [dyuganga](http://sanskrit.github.io/groups/dyuganga/) org.
+- I do much of the work myself. I also take (well-)paid support from other learned people via the [dyuganga](http://sanskrit.github.io/groups/dyuganga/) org.
 
 ## Donation avenues
 - Sponsor some projects? [Contact](../../intro/contact/) Vishvas.
