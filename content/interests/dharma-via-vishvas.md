@@ -35,6 +35,8 @@ Sponsorship will help with these **open source** projects:
 https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dharma](https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/) sUtra-s
   - The [first prapAThaka of first kANDa of kRShNa yajurveda](https://vvasuki.github.io/vedAH/taittirIyam/saMhitA/1/1/) 
 
+### Execution
+- I do much of the work myself. I also take paid support from other people via the [dyuganga](http://sanskrit.github.io/groups/dyuganga/) org.
 
 ## Donation avenues
 - Sponsor some projects? [Contact](../../intro/contact/) Vishvas.
