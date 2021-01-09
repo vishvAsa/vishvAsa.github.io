@@ -42,6 +42,7 @@ https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dhar
   - Charges we incur as of 2019:  No donorbox fees upto 1k$. Payment processing [costs](https://donorbox.org/pricing):
     - 2.9% + 30c via stripe/ paypal
     - 0.8% + A Cap Of $5 ACH bank transfers
+- [Github sponsors](https://github.com/vvasuki) - Just use the sponsor button on the profile page. [Intro](https://github.blog/2019-05-23-announcing-github-sponsors-a-new-way-to-contribute-to-open-source/).
 - [Patreon](https://www.patreon.com/mantraComment)
   - Fees we incur as of 2020:
     - $3 or less → 5% + $0.10
