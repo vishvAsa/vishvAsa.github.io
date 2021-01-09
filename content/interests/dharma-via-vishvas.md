@@ -11,7 +11,9 @@ Donate to _Dharma via Vishvas_ if you:
 
 PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
-### Sponsorship will support
+### Sponsor what?
+Briefly, sponsorship will support **open source** (sanskrit/ jyotisha etc..) software, book digitization/ presentation, audio recording/ presentation, dictionary, text commentary projects. For details, examples and links, please see [Dharma via Vishvas page](https://vvasuki.github.io/interests/dharma-via-vishvas/). 
+
 Sponsorship will help with these **open source** projects:
 
 - Free open source software - See various repos under orgs such as [sanskrit-programmers](https://github.com/sanskrit-coders/), [jyotisha](https://github.com/jyotiSham/), [indic-dict](https://github.com/indic-dict/) etc. (Full list under github [profile](github.com/vvasuki/)).
@@ -47,4 +49,4 @@ https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dhar
     - Additional 1% for non-US PayPal payments
     - 0.25$ when we move money received to bank account. 
 - Paypal (allows credit cards) [here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LX6ZHMR989AJU&item_name=dharma+via+vishvas&currency_code=USD&source=url).
-  - +++([Charges](https://www.paypal.com/us/webapps/mpp/fundraising) we incur as of 2019: 2.9% + 30c)+++
+  - [Charges](https://www.paypal.com/us/webapps/mpp/fundraising) we incur as of 2019: 2.9% + 30c
