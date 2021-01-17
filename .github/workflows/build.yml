@@ -3,6 +3,8 @@ name: Build Hugo site
 on:
   push:
     branches: [ hugo-source ]
+  pull_request:
+    branches: [ hugo-source ]
 
 jobs:
   transform:
@@ -14,6 +16,11 @@ jobs:
       with:
         submodules: true
         fetch-depth: 1
+    - name: Update submodules
+      if: ${{ github.event_name != 'pull_request'}}
+      run: |
+        git pull --recurse-submodules --depth 1
+        git submodule update --recursive --remote
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
@@ -26,6 +33,7 @@ jobs:
       run: |
         hugo
     - name: Deploy
+      if: ${{ github.event_name != 'pull_request'}}
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
