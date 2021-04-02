@@ -40,6 +40,9 @@ https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dhar
 
 ## Donation avenues
 - Sponsor some projects? [Contact](../../intro/contact/) Vishvas.
+- UPI (Unified Payment Interface, for use in GooglePay, PhonePe, PayTM etc..):
+  - vishvas.vasuki@okaxis
+  - Or use my phone number
 - [donorbox.org/dharma-via-vishvas](https://donorbox.org/dharma-via-vishvas) (USD. Preferred for ACH.)
   - Charges we incur as of 2019:  No donorbox fees upto 1k$. Payment processing [costs](https://donorbox.org/pricing):
     - 2.9% + 30c via stripe/ paypal
