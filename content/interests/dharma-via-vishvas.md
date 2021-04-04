@@ -54,5 +54,7 @@ https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dhar
     - over $3 → 2.9% + $0.30 
     - Additional 1% for non-US PayPal payments
     - 0.25$ when we move money received to bank account. 
-- Paypal (allows credit cards) [here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LX6ZHMR989AJU&item_name=dharma+via+vishvas&currency_code=USD&source=url).
+- Paypal personal transfer - [paypal.me/vishvasv](https://paypal.me/vishvasv) , [charges](https://www.paypal.com/us/webapps/mpp/paypal-fees)
+  - Within US: No fee if using bank account, 2.9% + fixed fee if using credit card
+- Paypal biz (allows credit cards) [here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LX6ZHMR989AJU&item_name=dharma+via+vishvas&currency_code=USD&source=url) .
   - [Charges](https://www.paypal.com/us/webapps/mpp/fundraising) we incur as of 2019: 2.9% + 30c
