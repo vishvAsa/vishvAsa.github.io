@@ -12,28 +12,28 @@ Donate to _Dharma via Vishvas_ if you:
 PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
 ### Sponsor what?
-Briefly, sponsorship will support **open source** (sanskrit/ jyotisha etc..) software, book digitization/ presentation, audio recording/ presentation, dictionary, text commentary projects. For details, examples and links, please see [Dharma via Vishvas page](https://vvasuki.github.io/interests/dharma-via-vishvas/). 
+Briefly, sponsorship will support **open source** (sanskrit/ jyotisha etc..) software, book digitization/ presentation, audio recording/ presentation, dictionary, text commentary projects. For details, examples and links, please see [Dharma via Vishvas page](https://vishvAsa.github.io/interests/dharma-via-vishvas/). 
 
 Sponsorship will help with these **open source** projects:
 
 - Free open source software - See various repos under orgs such as [sanskrit-programmers](https://github.com/sanskrit-coders/), [jyotisha](https://github.com/jyotiSham/), [indic-dict](https://github.com/indic-dict/) etc. (Full list under github [profile](github.com/vvasuki/)).
 - Book digitizations. Examples - 
-  - [saMskAraratnamAlA](https://vvasuki.github.io/vedAH/taittirIyam/sUtram/hiraNyakeshI/paddhatiH/saMskAraratnamAlA/), an excellent KYV paddhati text especially popular in mahArAShTra (albeit belonging to the closely related hiraNyakeshI sUtra). This was executed by saMskRtabhAratI people (at their expense) after I suggested the text to them.
+  - [saMskAraratnamAlA](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/hiraNyakeshI/paddhatiH/saMskAraratnamAlA/), an excellent KYV paddhati text especially popular in mahArAShTra (albeit belonging to the closely related hiraNyakeshI sUtra). This was executed by saMskRtabhAratI people (at their expense) after I suggested the text to them.
   - Ongoing work pertaining to SC Vasu's commentary on aShTAdhyAyI ( example [here](https://ashtadhyayi.github.io/sutra-details/?sutra=1.1.6) ), sponsored by shrI nIlesh of [ashyadhyayi.com](http://ashyadhyayi.com) .
 - Publishing and distributing useful dictionaries - See repos under [indic-dict](https://github.com/indic-dict) for example.
 - Producing audio books and recordings - See [here](https://sanskrit.github.io/projects/audio/) for example. 
 - Presentation of corrected, flowing text with audio tracks. The text will (just like our audio files) be made available for free in markdown format - anyone can copy and reuse. Examples of such text with audio presentations:
-    - [rAmAyaNa](https://vvasuki.github.io/purANam/rAmAyaNam/AndhrapAThaH/1_bAlakANDam/01-kathAmukham/001_sanxepa/) 
-    - [raghuvaMsha](https://vvasuki.github.io/kAvyam/TIkA/padyam/kAlidAsaH/raghuvaMsham/01/) 
-    - [kumArasambhava](https://vvasuki.github.io/kAvyam/TIkA/padyam/kAlidAsaH/kumArasambhavam/02/) 
-    - [durgA saptashatI](https://vvasuki.github.io/purANam/durgA-saptashatI/01-prathama-charitam/)
-    - [rAmacharitamAnasa](https://vvasuki.github.io/kAvyam/TIkA/padyam/purANam/rAmacharitamAnasa-TIkA/02_ayodhyAkANDa/)
-    - [nArAyaNIyam](https://vvasuki.github.io/kAvyam/TIkA/padyam/purANam/nArAyaNIyam/003/)
+    - [rAmAyaNa](https://vishvAsa.github.io/purANam/rAmAyaNam/AndhrapAThaH/1_bAlakANDam/01-kathAmukham/001_sanxepa/) 
+    - [raghuvaMsha](https://vishvAsa.github.io/kAvyam/TIkA/padyam/kAlidAsaH/raghuvaMsham/01/) 
+    - [kumArasambhava](https://vishvAsa.github.io/kAvyam/TIkA/padyam/kAlidAsaH/kumArasambhavam/02/) 
+    - [durgA saptashatI](https://vishvAsa.github.io/purANam/durgA-saptashatI/01-prathama-charitam/)
+    - [rAmacharitamAnasa](https://vishvAsa.github.io/kAvyam/TIkA/padyam/purANam/rAmacharitamAnasa-TIkA/02_ayodhyAkANDa/)
+    - [nArAyaNIyam](https://vishvAsa.github.io/kAvyam/TIkA/padyam/purANam/nArAyaNIyam/003/)
     - several sAmans etc.. 
 - Original, easy to follow, commentary on (mostly sanskrit) classical texts. Examples: 
   - Apastamba [gRhya](
-https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dharma](https://vvasuki.github.io/vedAH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/) sUtra-s
-  - The [first prapAThaka of first kANDa of kRShNa yajurveda](https://vvasuki.github.io/vedAH/taittirIyam/saMhitA/1/1/) 
+https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dharma](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/) sUtra-s
+  - The [first prapAThaka of first kANDa of kRShNa yajurveda](https://vishvAsa.github.io/vedAH/taittirIyam/saMhitA/1/1/) 
 
 ### Execution
 - I do much of the work myself. I also take (well-)paid support from other learned people via the [dyuganga](http://sanskrit.github.io/groups/dyuganga/) org.
