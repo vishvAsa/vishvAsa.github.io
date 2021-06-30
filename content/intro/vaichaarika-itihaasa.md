@@ -2,6 +2,21 @@
 title: वैचारिक इतिहासः
 ---
   
+## Top intellectual influences
+- Darwin
+- Euclid and geometers
+- pANini/ patanjali
+- Newton
+- Gaius Sallustius Crispus
+- Apastamba + dharmashAstrakRts
+- MT @blog_supplement
+- tirumalai kRShNamAchArya
+- UG Krishnamurti
+- shatAvadhAnI gaNeshaH
+- @GuruAnaerobic
+- @Rjrasva 
+- @nntaleb 
+
 
 ## कुतो ऽयम् आलेखः?
 
@@ -34,7 +49,7 @@ Triggers for the last transition: Going to USA, coming back for a couple of mont
 
 #### मुग्धो वैदिकः॥
 
-द्व्यशीतितमवर्षेऽहम्  हेब्बार्श्रीवैष्णवे कुले।  
+द्व्यशीतितमवर्षेऽहम् हेब्बार्श्रीवैष्णवे कुले।  
 बेङ्गळूरौ हि जातो यत्संस्कृतिः पत्त्रवत् कृशा ॥  
 बाल्ये च दैवभक्तिर्मे ह्यसामान्याऽभवत् पुरा।  
 सन्ध्यावन्दनपूजादौ दृढा श्रद्धा यतो ऽस्फुरत्॥  
