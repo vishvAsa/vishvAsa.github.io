@@ -12,6 +12,7 @@ title: वैचारिक इतिहासः
 - MT @blog_supplement
 - tirumalai kRShNamAchArya
 - UG Krishnamurti
+- Computer programming
 - shatAvadhAnI gaNeshaH
 - @GuruAnaerobic
 - @Rjrasva 
