@@ -4,7 +4,7 @@ title: Texts
 
 
 ## Intro
-Notes regarding notes [here](/notes/artha/skills/learning/notes./).
+Notes regarding notes [here](/notes/artha/skills/learning/notes/).
 
 ## Collections
 - [kalpa and mantras](/saMskAra/) (and other notes in the same site.)
