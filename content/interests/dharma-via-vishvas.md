@@ -21,7 +21,7 @@ Sponsorship will help with these **open source** projects:
   - [saMskAraratnamAlA](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/hiraNyakeshI/paddhatiH/saMskAraratnamAlA/), an excellent KYV paddhati text especially popular in mahArAShTra (albeit belonging to the closely related hiraNyakeshI sUtra). This was executed by saMskRtabhAratI people (at their expense) after I suggested the text to them.
   - Ongoing work pertaining to SC Vasu's commentary on aShTAdhyAyI ( example [here](https://ashtadhyayi.github.io/sutra-details/?sutra=1.1.6) ), sponsored by shrI nIlesh of [ashyadhyayi.com](http://ashyadhyayi.com) .
 - Publishing and distributing useful dictionaries - See repos under [indic-dict](https://github.com/indic-dict) for example.
-- Producing audio books and recordings - See [here](https://sanskrit.github.io/projects/audio/) for example. 
+- Producing audio books and recordings - See [here](https://sanskrit.github.io/groups/dyuganga/projects/audio/) for example. 
 - Presentation of corrected, flowing text with audio tracks. The text will (just like our audio files) be made available for free in markdown format - anyone can copy and reuse. Examples of such text with audio presentations:
     - [rAmAyaNa](https://vishvAsa.github.io/purANam/rAmAyaNam/AndhrapAThaH/1_bAlakANDam/01-kathAmukham/001_sanxepa/) 
     - [raghuvaMsha](https://vishvAsa.github.io/kAvyam/TIkA/padyam/kAlidAsaH/raghuvaMsham/01/) 
