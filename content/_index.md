@@ -10,7 +10,7 @@ summary: Welcome page.
 
 [![](http://i.imgur.com/qnW6VIL.png)](http://i.imgur.com/qnW6VIL.png)
 
- \[Upscale [test](http://waifu2x.udp.jp/): [1](http://i.imgur.com/qnW6VIL.png).\]
+\[Upscale [test](http://waifu2x.udp.jp/): [1](http://i.imgur.com/qnW6VIL.png).\]
 
 
 
