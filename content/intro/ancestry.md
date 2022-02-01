@@ -40,10 +40,9 @@ title: Ancestry पितरः
     - R arose in the Near East about 60,000 years ago, not long after humans first spread out of Africa into southwestern Asia.
 
 ## गोत्रादिकम्
-
 - भार्गव-च्यावन-आप्नवान-और्व-जामदग्न्य-प्रवरः।
-- [भार्गवविषयोऽत्र](https://sites.google.com/site/samskrtamsfo/kavyam/itihasah/vansah/bhargavah)।
-- ಹೆಬ್ಬಾರ್ ಅಯ್ಯಂಗಾರ್ ಎಮ್ಬ ಸಮುದಾಯವು. ಹೆಬ್ಬಾರ\-ಶಬ್ದದ ಉತ್ಪತ್ತಿಯು \- ಇಲ್ಲಿ [ಪದಾರ್ಥಚಿನ್ತಾಮಣಿಯಲ್ಲಿ](https://www.facebook.com/groups/padarthachintamani/permalink/918075908244357/?comment_id=918291561556125&offset=0&total_comments=23) (ಹೆಬ್ಬ ಹರುವ. ಪಾರ್ → ನೋಡು ಪಾರ್ಪನು → ಹಾರುವನು / ಹರುವ. ).
+  - [भार्गवविषयोऽत्र](/notes/history/homo/sapiens/Aryan/satem/indo-iranian/indo-aryan/v1/persons/sage-bloodlines/bhRguH/dvitIyajanmani_bhRguH/chyavanaH/ApnavAna/aurvaH/jamadagniH/) ।
+- ಹೆಬ್ಬಾರ್ ಅಯ್ಯಂಗಾರ್ ಎಮ್ಬ [ಸಮುದಾಯವು](/notes/history/homo/sapiens/Aryan/satem/indo-iranian/indo-aryan/v1/hebbAr-iyengAr/). 
 
 ## Projects
 
