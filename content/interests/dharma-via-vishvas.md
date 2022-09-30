@@ -14,7 +14,7 @@ Donate to _Dharma via Vishvas_ if you:
 PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
 ### Sponsor what?
-Briefly, sponsorship will support **open source** (sanskrit/ jyotisha etc..) software, book digitization/ presentation, audio recording/ presentation, dictionary, text commentary projects. For details, examples and links, please see [Dharma via Vishvas page](https://vishvAsa.github.io/interests/dharma-via-vishvas/). 
+Briefly, sponsorship will support **open source** (sanskrit/ jyotisha etc..) software, book digitization/ presentation, audio recording/ presentation, dictionary, text commentary projects. 
 
 Sponsorship will help with these **open source** projects:
 
@@ -33,15 +33,14 @@ Sponsorship will help with these **open source** projects:
     - [nArAyaNIyam](https://vishvAsa.github.io/kAvyam/laxyam/padyam/purANam/nArAyaNIyam/003/)
     - several sAmans etc.. 
 - Original, easy to follow, commentary on (mostly sanskrit) classical texts. Examples: 
-  - Apastamba [gRhya](
-https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dharma](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/) sUtra-s
+  - Apastamba [gRhya](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dharma](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/) sUtra-s
   - The [first prapAThaka of first kANDa of kRShNa yajurveda](https://vishvAsa.github.io/vedAH/taittirIyam/saMhitA/1/1/) 
 
 ### Execution
-- I do much of the work myself. I also take (well-)paid support from other learned people via the [dyuganga](http://sanskrit.github.io/groups/dyuganga/) org.
+- I do much of the work myself. I also take (well-)paid support from other learned people via the [dyuganga](http://sanskrit.github.io/groups/dyuganga/) team.
 
 ## Donation avenues
-- Sponsor some projects? [Contact](../../intro/contact/) Vishvas.
+- Sponsor some projects? [Contact](/intro/contact/) Vishvas.
 - UPI (Unified Payment Interface, for use in GooglePay, PhonePe, PayTM etc..):
   - vishvas.vasuki@okaxis
   - Or use my phone number
