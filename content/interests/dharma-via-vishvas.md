@@ -9,7 +9,7 @@ Donate to _Dharma via Vishvas_ if you:
 
 - like his creations and endeavors (described below), to which he is incidentally dedicated **full-time**
 - trust him to honestly use all money received here towards dharma.
-- preferably, but not necessarily - agree with his worldview
+- either agree with his worldview, or acknowledge to yourself that it differs from yours.
 
 PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
@@ -48,6 +48,7 @@ Sponsorship will help with these **open source** projects:
   - Or use my phone number
 
 ### USA and others
+- Use xoom.com to send money to UPI id mentioned for India above.
 - [donorbox.org/dharma-via-vishvas](https://donorbox.org/dharma-via-vishvas) (USD. Preferred for ACH.)
   - Charges we incur as of 2019:  No donorbox fees upto 1k$. Payment processing [costs](https://donorbox.org/pricing):
     - 2.9% + 30c via stripe/ paypal
