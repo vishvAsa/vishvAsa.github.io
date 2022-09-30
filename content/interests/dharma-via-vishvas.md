@@ -8,8 +8,8 @@ PS: In case you're wondering - the below sponsorship invitation has mostly been 
 Donate to _Dharma via Vishvas_ if you:
 
 - like his creations and endeavors (described below), to which he is incidentally dedicated **full-time**
-- agree with his worldview
 - trust him to honestly use all money received here towards dharma.
+- preferably, but not necessarily - agree with his worldview
 
 PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
