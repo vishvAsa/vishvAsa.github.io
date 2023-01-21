@@ -60,7 +60,7 @@ A Vedic pandita and devoted śaivite coming within a long lineage of Kālī prie
 </details>
 
 
-- खपतड-सच्चिदानन्दस् (१८८०-१९९६) तस्य योगे गुरुः (1990-96)। शास्त्रेषु तान्त्रिकान् प्रश्नान् उत्तरति स्म, तन्मन इव जानाति स्म।
+- खप्तड-सच्चिदानन्दस् (१८८०-१९९६) तस्य योगे गुरुः (1990-96)। शास्त्रेषु तान्त्रिकान् प्रश्नान् उत्तरति स्म, तन्मन इव जानाति स्म।
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -79,7 +79,7 @@ Rāmānanda Giri was a disciple of the great Maheśānanda Giri from Śaṅkara 
 </details>
 
 
-- त्रिकशास्त्रे - Rāmaji Mālavīya ← शङ्कर-चैतन्य-भारती, बगलामुखि-शक्तिपीठश् च। 
+- त्रिक-शास्त्रे - Rāmaji Mālavīya ← शङ्कर-चैतन्य-भारती, बगलामुखि-शक्तिपीठश् च। 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -94,7 +94,7 @@ Vidyānāth Upādhyāya Bhaṭṭa is an important contemporary Sarvāmnāya Tan
 </details>
 
 
-- तन्त्रशास्त्रे - Vraja Vallabha Dvivedi and Hemendra Nath Chakravarty ← गोपीनाथ-कविराजः 
+- तन्त्र-शास्त्रे - Vraja Vallabha Dvivedi and Hemendra Nath Chakravarty ← गोपीनाथ-कविराजः 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
