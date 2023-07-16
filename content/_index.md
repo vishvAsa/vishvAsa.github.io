@@ -6,7 +6,7 @@ summary: Welcome page.
 
 हरिः ॐ! स्वागतम्!
 
-{{< figure src="../images/vv-2013.png" title="Roughly 2013" class="thumbnail">}}
+{{< figure src="images/vv-2013.png" title="Roughly 2013" class="thumbnail">}}
 
 Why are you here? Probably for one of the following reasons:
 
