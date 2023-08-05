@@ -25,9 +25,17 @@ Why are you here? Probably for one of the following reasons:
 
 Like most people, I have dreams and a non-insignificant potential for good. 
 
-<details><summary>Pretentious intro</summary>
+<details><summary>Pretentious intros</summary>
 
-A pretentious intro I wrote for myself in the third person for some lecture:
+Some pretentious intros I originally wrote for myself in the third person for some lectures:
 
-Vishvāsa, son of Vāsuki, is a practicing Hindu, a lover of both hard rationality and tender aesthetic sensitivity. He is content following the three life-values (puruṣartha-s), cognizant of his gratitude towards the deva-s, sages, his ancestors, society and nature at large. He spends much of his free time learning, propagating and adding to saṃskṛta shāstra-s and kāvya-s. He also follows and occassionally debates on a wide variety of issues affecting the Hindu ethos and humanity in general. He speaks Saṃskṛtam, Kannaḍa, Hindī, Hebbār Tamiḷ and English - in roughly that order of preference. Originally from southern Karnāṭaka, his body is borne by the ??? area. He was a professional computer programmer, and has sampled academic research - and occasionally utilizes those skills for his projects. Other interests include snowboarding, music, films, hiking, web surfing etc.. He organizes some of his thoughts at [vishvAsa.github.io](http://vishvAsa.github.io) and welcomes comments and criticism.
+विश्वासो वासुकिपुत्रो जामदग्न्यो
+भगवत्कैङ्कर्यैकरसिको गृहस्थाश्रमोचितैः पञ्चमहायज्ञैर् यथाशास्त्रं यथाशक्ति च सोल्लासं भारतवर्षे कर्णाटेषु कल्याणपुर्यां वर्तमानः,  
+भगवत्प्रीत्यर्थं स्वाधीत्यै स्वापत्यादिशिक्षणानुकूल्याय च  
+द्युगङ्गाख्येन प्राचीनग्रन्थोद्धारप्रकाशनोद्यमं https://sanskrit.github.io/groups/dyuganga/ इत्यत्र दृश्यमानं चालयन्  
+यथासम्भवं सज्जनसहकारं भगवदनुमतं काङ्क्षते।  
+सम्प्रदायाद्यभिनिवेशं विना प्रमाणपरतन्त्रतया शास्त्रकाव्याद्यनुसन्धाने विशिष्टा रुचिः।  
+ततो विस्तारो ऽत्र - https://vishvasa.github.io/ ।
+
+Vishvāsa, son of Vāsuki, is a practicing Hindu, a lover of both hard rationality and tender aesthetic sensitivity. He is content following the three life-values (puruṣartha-s), cognizant of his gratitude towards the deva-s, sages, his ancestors, society and nature at large. He spends much of his free time learning, propagating and adding to saṃskṛta shāstra-s and kāvya-s - especially see https://sanskrit.github.io/groups/dyuganga/. He also follows and occassionally debates on a wide variety of issues affecting the Hindu ethos and humanity in general. He speaks Saṃskṛtam, Kannaḍa, Hindī, Hebbār Tamiḷ and English - in roughly that order of preference. Originally from southern Karnāṭaka, his body is borne by the ??? area. He was a professional computer programmer, and has sampled academic research - and occasionally utilizes those skills for his projects. Other interests include snowboarding, music, films, hiking, web surfing etc.. He organizes some of his thoughts at [vishvAsa.github.io](http://vishvAsa.github.io) and welcomes comments and criticism.
 </details>
