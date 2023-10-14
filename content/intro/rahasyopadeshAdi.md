@@ -47,6 +47,13 @@ title = "रहस्योपदेशादि"
 Prem Chetan Brahmacāri was born in Baglung district of Nepal. He studied in the gurukula of his guru, after whom he is named, located in Chisa Kola. Under the elder Premacaitanya (himself a disciple of the Jyotirmāṭh Śaṅkarācārya and Śrīvidyā siddha, Svāmī Brahmānanda Sarasvatī) he learned sādhanā, until when the guru passed on and the gurukula ceased to be active. He then went to  do sādhanā in Baglung Kālikā Bhagavatī Temple for years. 
 
 He finally came to Kathmandu, staying in a place just adjacent to Paśupatināth temple, where he came under his guru Vidyāraṇya Svāmī (who was known after the way he playfully called himself, as Mūrkhāraṇya), one of the greatest tantrics in all of the XXth Century (one of whose tantric teachers was Sarvāmnāya Master Dhana Shumsher Jung Bahadur Rana). Under those and other teachers Prem Chetan was taught the full structure of Sarvāmnāya Tantra, which he went on to teach his disciple, Ācārya Sthaneshwar Timalsina, in the course of 14 years of training.
+
+A vegetarian (did not matter who cooked, where he ate), did not drink.
+</details>
+
+<details><summary>Vidyāraṇya Svāmī (aka Mūrkhāraṇya) (द्रष्टुं नोद्यम्)</summary>
+
+Never ate grains - just fruits and milk. Slept on kusha grass mat. Maintained silence, long mantra-japas. Source: [TW](https://www.youtube.com/watch?v=WpDADIrYn0E)
 </details>
 
 
@@ -57,6 +64,8 @@ He finally came to Kathmandu, staying in a place just adjacent to Paśupatināth
 Śaṅkara Caitanya Bhāratī was born in Kashmir, where he joined his guru in Śāradā Māṭha. He eventually moved to Varanasi, where he became known by many as Varanasi's greatest knower of Vedānta and Trika philosophies. He used to visit Nepal frequently and was a fully-consecrated ācārya of the Sarvāmnāya Tantra. After Prem Chetan's passing, he became Ācārya Sthaneshwar Timalsina's dīkṣa guru and completed his training in the tradition, granting him, as culmination, his ācārya abhīṣeka (consecration as ācārya).
 
 Śaṅkara Caitanya Bhāratī is named after his own Kashmiri guru, who is the well-known author of two of the greatest works of Indian Philosophy of the XXth Century: Darśana Sarvasva and the Śāradā Vyākhya commentary on Khaṇḍana Khaṇḍa Khāḍya. He was considered by his contemporaries as a Bhairavarūpa: an embodiment of Yoga, Jñāna and Vairagya. 
+
+Strict dietary rules.
 </details>
 
 - दीक्षागुरुः - Tanka Prasad Timalsina
