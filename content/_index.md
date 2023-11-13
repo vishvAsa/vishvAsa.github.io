@@ -17,7 +17,7 @@ Why are you here? Probably for one of the following reasons:
 - You're interested in my views on certain topics. If so -
   - There will be loads of public notes (with books and articles I've gathered/ annotated) at multiple sites such as [Agama](AgamaH/) and [notes](notes/) sites (use the sidebar/ topbar to navigate).
   - My most valuable thoughts, which I hope will survive beyond my body's demise, especially in my progeny 
-    - [२१-तम-शतक-पदार्थ-शास्त्र-परिष्कारः](/AgamaH/AryaH/hinduism/branches/nyAya-vaisheShike/21ce-padArtha-shAstra-pariShkAraH/)
+    - [साङ्गणक-दर्शनम् - २१-तम-शतक-पदार्थ-शास्त्र-परिष्कारः](/AgamaH/AryaH/hinduism/branches/sAngaNakaH/vaishvAsam/)
     - [भार्गवाग्निः](/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/bhArgava-mantraH)
   - In some sensitive cases (rituals, politics, etc..) you'll be disappointed and not find what you seek in this public place. Rest assured: My most frankest observations remain hidden. As they say: अतिपरिचयात् अवज्ञा। So, try not to form rather strong opinions based on this allegedly "personal" web page - this interaction is not satisfactorily deep!
 - You're interested in me as a computer programmer or researcher.
