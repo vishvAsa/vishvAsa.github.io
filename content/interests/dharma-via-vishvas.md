@@ -20,20 +20,20 @@ Sponsorship will help with these **open source** projects:
 
 - Free open source software - See various repos under orgs such as [sanskrit-programmers](https://github.com/sanskrit-coders/), [jyotisha](https://github.com/jyotiSham/), [indic-dict](https://github.com/indic-dict/) etc. (Full list under github [profile](github.com/vvasuki/)).
 - Book digitizations. Examples - 
-  - [saMskAraratnamAlA](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/hiraNyakeshI/paddhatiH/saMskAraratnamAlA/), an excellent KYV paddhati text especially popular in mahArAShTra (albeit belonging to the closely related hiraNyakeshI sUtra). This was executed by saMskRtabhAratI people (at their expense) after I suggested the text to them.
+  - [saMskAraratnamAlA](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/paddhatiH/saMskAraratnamAlA/), an excellent KYV paddhati text especially popular in mahArAShTra (albeit belonging to hiraNyakeshI sUtra). This was executed by saMskRtabhAratI people (at their expense) after I suggested the text to them.
   - SC Vasu's English commentary on aShTAdhyAyI ( example [here](https://ashtadhyayi.github.io/sutra-details/?sutra=1.1.6) ), sponsored by shrI nIlesh of [ashyadhyayi.com](http://ashyadhyayi.com) .
 - Publishing and distributing useful dictionaries - See repos under [indic-dict](https://github.com/indic-dict) for example.
 - Producing audio books and recordings - See [here](https://sanskrit.github.io/groups/dyuganga/projects/audio/) for example. 
 - Presentation of corrected, flowing text with audio tracks. The text will (just like our audio files) be made available for free in markdown format - anyone can copy and reuse. Examples of such text with audio presentations:
-    - [rAmAyaNa](https://vishvAsa.github.io/purANam/rAmAyaNam/) 
-    - [raghuvaMsha](https://vishvAsa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH//) 
+    - [rAmAyaNa](https://vishvAsa.github.io/purANam_vaiShNavam/rAmAyaNam/) 
+    - [raghuvaMsha](https://vishvAsa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/) 
     - [kumArasambhava](https://vishvAsa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/kumArasambhavam/) 
     - [durgA saptashatI](https://vishvAsa.github.io/purANam/durgA-saptashatI/01-prathama-charitam/)
-    - [rAmacharitamAnasa](https://vishvAsa.github.io/kAvyam/laxyam/padyam/purANam/rAmacharitamAnasa-TIkA/02_ayodhyAkANDa/)
+    - [rAmacharitamAnasa](https://vishvasa.github.io/bhAShAntaram/prakIrNAryabhAShAH/padya/tulasIdAsa/rAmacharitamAnasa/)
     - [nArAyaNIyam](https://vishvAsa.github.io/kAvyam/laxyam/padyam/purANam/nArAyaNIyam/003/)
     - several sAmans etc.. 
 - Original, easy to follow, commentary on (mostly sanskrit) classical texts. Examples: 
-  - Apastamba [gRhya](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dharma](https://vishvAsa.github.io/vedAH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/) sUtra-s
+  - Apastamba [gRhya](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/gRhyam/) and [dharma](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/dharma-sUtram/) sUtra-s
   - The [first prapAThaka of first kANDa of kRShNa yajurveda](https://vishvAsa.github.io/vedAH/taittirIyam/saMhitA/1/1/) 
 
 ### Execution
