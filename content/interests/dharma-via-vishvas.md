@@ -14,9 +14,9 @@ Donate to _Dharma via Vishvas_ if you:
 PS: Vishvas is an individual - donations made via him are not tax-deductible.
 
 ### Sponsor what?
-Briefly, sponsorship will support **open source** (sanskrit/ jyotisha etc..) software, book digitization/ presentation, audio recording/ presentation, dictionary, text commentary projects. 
+Briefly, sponsorship will support **open source** (sanskrit/ jyotisha etc..) software, book digitization/ presentation, audio recording/ presentation, dictionary, text commentary projects. (Details- [dyuganga](http://sanskrit.github.io/groups/dyuganga/) org page.)
 
-Sponsorship will help with these **open source** projects:
+Briefly, sponsorship will help with these **open source** projects:
 
 - Free open source software - See various repos under orgs such as [sanskrit-programmers](https://github.com/sanskrit-coders/), [jyotisha](https://github.com/jyotiSham/), [indic-dict](https://github.com/indic-dict/) etc. (Full list under github [profile](github.com/vvasuki/)).
 - Book digitizations. Examples - 
