@@ -16,7 +16,3 @@ Lots of stuff you see on this subdomain, as mentioned in the main page. Notes re
   - [Ekal-vidyAlaya](http://www.ekal.org/): education (rooted in the dharma) of tribal children, for as low as $1 per day per school.
   - [संस्कृत-भारती](http://samskritabharati.org/sb/), of course.  
 
-## The stars
-- In a world(s?) of limited resources, we, and our "civilization" will grind to a halt, likely on this very "Spaceship Earth" - sooner or later, gracefully or otherwise based on whether wisdom is in charge. The wise amongst us may not have much chance, but while we're around, may our consciousness expand to the limits reachable. 
-
-{{< figure src="../images/Aldrin_Apollo_11.jpg" title="" class="thumbnail">}}
