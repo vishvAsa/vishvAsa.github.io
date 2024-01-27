@@ -25,7 +25,7 @@ Briefly, sponsorship will help with these **open source** projects:
 - Publishing and distributing useful dictionaries - See repos under [indic-dict](https://github.com/indic-dict) for example.
 - Producing audio books and recordings - See [here](https://sanskrit.github.io/groups/dyuganga/projects/audio/) for example. 
 - Presentation of corrected, flowing text with audio tracks. The text will (just like our audio files) be made available for free in markdown format - anyone can copy and reuse. Examples of such text with audio presentations:
-    - [rAmAyaNa](https://vishvAsa.github.io/purANam_vaiShNavam/rAmAyaNam/) 
+    - [rAmAyaNa](https://vishvAsa.github.io/rAmAyaNam/vAlmIkIyam//) 
     - [raghuvaMsha](https://vishvAsa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/raghuvaMsham/sarva-prastutiH/) 
     - [kumArasambhava](https://vishvAsa.github.io/kAvyam/laxyam/padyam/kAlidAsaH/kumArasambhavam/) 
     - [durgA saptashatI](https://vishvAsa.github.io/purANam/durgA-saptashatI/01-prathama-charitam/)
