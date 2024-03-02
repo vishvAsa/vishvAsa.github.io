@@ -90,7 +90,9 @@ Khaptad Baba was a Kashmiri saint who traveled along the Himalayan mountains and
 
 Rāmānanda Giri was a disciple of the great Maheśānanda Giri from Śaṅkara Māṭha in Mount Abu, India. Ācārya Sthaneshwar met him in Kathmandu and from that same day started learning Vedānta, Nyāya and Mīmāṁsā from him, which training continued in a daily basis for full 12 years. Ācārya Sthaneshwar also studied the Upaniṣads with paramguru Maheśānanda in Varanasi. Rāmanānda later became the founder of one of the best centers of traditional learning in the whole of Nepal, the Mahesh Sanskrit Gurukula in Devghat.
 
-> श्यामचेतन बाबा अस्ति। यदाहं वेदन्तं पठामिस्म रामानन्देन सह, श्यामचेतनः सर्वान्चायपानं ददातिस्म। अहमचिन्तयम्, एष खलु कश्चन चायवाला बाबा भवेदिति, चायं नाहं पिबामिस्म। यदा रामानन्दोऽजानत्, तद्दत्तं चायं न पिबामि, सोऽवदत्, अहन्तु पुस्तकानि पाठयामि वेदान्तस्य, यदि साक्षात्कारमिच्छसि. तस्य चायं पिब। स खलु अपरो महासिद्धः।  
+> श्यामचेतन बाबा अस्ति। यदाहं वेदन्तं पठामिस्म रामानन्देन सह, श्यामचेतनः सर्वान्चायपानं ददातिस्म। अहमचिन्तयम्, एष खलु कश्चन चायवाला बाबा भवेदिति, चायं नाहं पिबामिस्म।  
+> यदा रामानन्दोऽजानत्, तद्दत्तं चायं न पिबामि, सोऽवदत्, अहन्तु पुस्तकानि पाठयामि वेदान्तस्य, यदि साक्षात्कारमिच्छसि.  
+> तस्य चायं पिब। स खलु अपरो महासिद्धः।  
 > इति स्थानेश्वरः। 
 </details>
 
