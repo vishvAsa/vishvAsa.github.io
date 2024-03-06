@@ -1,0 +1,17 @@
+.noPrint {
+    display: none;
+}
+
+header {
+    font-size: x-small;
+}
+
+div[name="contentRow"] {
+    font-size: x-large;
+}
+
+.print-two-col {
+    column-count: 2;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+}
