@@ -12,10 +12,11 @@ Why are you here? Probably for one of the following reasons:
 
 - You just want to check me and my interests out.
   - If so, welcome - click around.
-- You're interested in me as a contributor to sanskrit learning and processing.
+- You're interested in me as a contributor to sanskrit (shAstra/ kAvya ...) learning and processing.
   - Oh, you're more likely to be in luck. Look around. But you'll probably not find my best work here. Instead head over to [github](https://github.com/vvasuki) (especially the coder organizations I participate in) and the mailing lists. And checkout [dyugangA](https://sanskrit.github.io/groups/dyuganga/).
+  - If you want to contribute (ie publish online) some digitized text - please contact me.
 - You're interested in my views on certain topics. If so -
-  - There will be loads of public notes (with books and articles I've gathered/ annotated) at multiple sites such as [Agama](AgamaH/) and [notes](notes/) sites (use the sidebar/ topbar to navigate).
+  - There will be loads of public notes (with books and articles I've gathered/ annotated) at multiple sites such as [AgamaH_vaiShNavaH](AgamaH_vaiShNavaH/) and [notes](notes/) sites (use the sidebar/ topbar to navigate).
   - My most valuable thoughts, which I hope will survive beyond my body's demise, especially in my progeny 
     - [साङ्गणक-दर्शनम् - २१-तम-शतक-पदार्थ-शास्त्र-परिष्कारः](/AgamaH/AryaH/hinduism/branches/sAngaNakaH/vaishvAsam/)
     - Presentations [here](/kriyA-nishchayaH/meta-ritual/presentations/), esp. [prajNA-dhArAH](/kriyA-nishchayaH/meta-ritual/presentations/praJNA-dhArAH_saMskRtaM).
