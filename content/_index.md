@@ -1,5 +1,5 @@
 ---
-title: "Vishvas's website विश्वासस्य जालक्षेत्रम्।"
+title: "प्रवेशः Entry"
 sidebar: home_sidebar
 summary: Welcome page.
 ---

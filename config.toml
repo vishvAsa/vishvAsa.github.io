@@ -1,6 +1,6 @@
 baseURL = "https://vishvAsa.github.io/"
 languageCode = "en-us"
-title = "विश्वासस्य जालक्षेत्रम् Vishvas Vasuki's website"
+title = "विश्वासस्य जालक्षेत्रम् Vishvas's website"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
