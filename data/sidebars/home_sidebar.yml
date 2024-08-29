@@ -5,7 +5,7 @@ contents:
   - title: Intro परिचयः॥
     contents:
       - title: Home
-        url: /
+        url: /index.html
       - title: C.V. / Resume
         url: /resumeLand/vishvasVasukiCV.pdf
       - url: recdir://intro/
