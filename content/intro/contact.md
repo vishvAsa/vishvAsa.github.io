@@ -2,16 +2,11 @@
 title: संपर्कः Contact
 ---
 
-I love feedback: +ve or -ve. I am serious about it: I have a special folder for compliments and critiques (though I tend to then consciously reject the former in accordance with father manu - "सम्मानाद्ब्राह्मणो नित्य- मुद्विजेत विषादिव । अमृतस्येव चाकाङ्क्षे- दवमानस्य सर्वदा ।।"). So, don't hesitate!  
-
 For future reference:\[firstName\]= vishvas,\[lastName\]= vasuki
 
 Saying my name: vish-vaas vaa-suki. 信.
 
 ## Asynchronous
-### Anon message
-You can send me an anon message [here](https://rebrand.ly/anon_to_vishvas).
-
 ### Email:
 
 - \[firstName\].\[lastName\]ATT gmail.com
@@ -19,14 +14,11 @@ You can send me an anon message [here](https://rebrand.ly/anon_to_vishvas).
 You can verify my messages by using:
 - [this public PGP key](https://keybase.io/vvasuki/pgp_keys.asc?fingerprint=1e8b3e346bd2d91b394bd6a9483963b3ff487bfb).  
 
-### Voice-messaging IM!
+### Voice/text-messaging IM!
+Number used below +९१ ९५९१२६८५०६
 
-- telegram
-- zoom.us (Highly recommended for screen sharing and professional video conferencing)
-
-I don't like the below but rarely use them:
-- whatsapp
-- Duo
+- telegram (preferred)
+- whatsapp (don't like it, but I do check it)
 
 ### Internet chat:
 
@@ -34,21 +26,33 @@ I very rarely (almost never) use instant messengers.
 
 - Google talk, yahoo, skype:first name \[dot\] last name.
 
+### Anon message
+You can send me an anon message [here](https://rebrand.ly/anon_to_vishvas).
+
 ## Professional and Social Networking websites:
 
 In case we know each other, you may keep track of me (and discuss common interests) on these sites:
 
+- [x.com/dyugangaa](http://x.com/dyugangaa)
 - [LinkedIn](http://www.linkedin.com/in/vishvas)(Rarely used).
 
 ## Synchronous
+My phone is set not to ring on calls from unknown numbers (too much spam) - so whatsapp message me first.
 
-Phone +९१ ९५९१२६८५०६
+I use the below rarely for scheduled meetings
 
-(In USA): ...
+- zoom.us
+- google meet
+- teamviewer
+
 
 ### Schedule
 
 [Schedule](http://www.google.com/calendar/embed?src=5k8q0obiess9hcjdi9hi22e5qs%40group.calendar.google.com&ctz=America/Chicago)
+
+
+## On feedback
+I love feedback: +ve or -ve. I am serious about it: I have a special folder for compliments and critiques (though I tend to then consciously reject the former in accordance with father manu - "सम्मानाद्ब्राह्मणो नित्य- मुद्विजेत विषादिव । अमृतस्येव चाकाङ्क्षे- दवमानस्य सर्वदा ।।"). So, don't hesitate!
 
 ## Emergency info
 For use in case of emergencies:
