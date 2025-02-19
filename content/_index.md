@@ -21,7 +21,7 @@ Why are you here? Probably for one of the following reasons:
     - [साङ्गणक-दर्शनं वैश्वासम्](/AgamaH/AryaH/hinduism/branches/sAngaNakaH/vaishvAsam/)
     - Presentations [here](/kriyA-nishchayaH/meta-ritual/presentations/), esp. [prajNA-dhArAH](/kriyA-nishchayaH/meta-ritual/presentations/praJNA-dhArAH_saMskRtaM).
     - [विश्वास-नित्य-स्मृतिः](/kAvyam/laxyam/padyam/vishvAsaH/saMyamaH/vishvAsa-nitya-smRtiH)
-  - In some sensitive cases (rituals, politics, etc..) you'll be disappointed and not find what you seek in this public place. Rest assured: My most frankest observations remain hidden. As they say: अतिपरिचयात् अवज्ञा। So, try not to form rather strong opinions based on this allegedly "personal" web page - this interaction is not satisfactorily deep!
+  - In some sensitive cases (rituals, politics, etc..) you'll mostly find opinions attributed to others. My frankest observations remain hidden, as they must be in societies lacking honesty and free speech. Suffice to say: "नारायण-परा वयम्"। Even so: अतिपरिचयात् अवज्ञा। So, try not to form strong opinions based on this allegedly "personal" web page - this interaction is not satisfactorily deep!
 - You're interested in me as a computer programmer or researcher.
   - If so, yes I am an engineer. I worked in some fancy corporations of my time, and graduated from the Computer Science department of the University of Texas at Austin with an MS in Computer Science. I keep engineering software for the sanskrit community and my text/ audio curation needs. You'll find my CV and details somewhere on this site.
 
