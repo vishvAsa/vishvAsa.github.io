@@ -20,7 +20,7 @@ Briefly, sponsorship will help with these **open source** projects:
 
 - Free open source software - See various repos under orgs such as [sanskrit-programmers](https://github.com/sanskrit-coders/), [jyotisha](https://github.com/jyotiSham/), [indic-dict](https://github.com/indic-dict/) etc. (Full list under github [profile](github.com/vvasuki/)).
 - Book digitizations. Examples - 
-  - [saMskAraratnamAlA](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/paddhatiH/saMskAraratnamAlA/), an excellent KYV paddhati text especially popular in mahArAShTra (albeit belonging to hiraNyakeshI sUtra). This was executed by saMskRtabhAratI people (at their expense) after I suggested the text to them.
+  - [saMskAra-ratna-mAlA](https://vishvAsa.github.io/vedAH_yajuH/taittirIyam/sUtram/hiraNyakeshI/paddhatiH/saMskAra-ratna-mAlA/), an excellent KYV paddhati text especially popular in mahArAShTra (albeit belonging to hiraNyakeshI sUtra). This was executed by saMskRtabhAratI people (at their expense) after I suggested the text to them.
   - SC Vasu's English commentary on aShTAdhyAyI ( example [here](https://ashtadhyayi.github.io/sutra-details/?sutra=1.1.6) ), sponsored by shrI nIlesh of [ashyadhyayi.com](http://ashyadhyayi.com) .
 - Publishing and distributing useful dictionaries - See repos under [indic-dict](https://github.com/indic-dict) for example.
 - Producing audio books and recordings - See [here](https://sanskrit.github.io/groups/dyuganga/projects/audio/) for example. 
