@@ -1,6 +1,5 @@
 ---
 title:  "कालिफ़ोर्नियायां कार्यकर्तृदृढीकरणकार्यक्रमः"
-published: true
 summary: ""
 tags: [news]
 ---
