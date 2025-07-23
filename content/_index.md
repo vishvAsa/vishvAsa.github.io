@@ -41,3 +41,13 @@ Some pretentious intros I originally wrote for myself in the third person for so
 
 Vishvāsa, son of Vāsuki, is a practicing Hindu, a lover of both hard rationality and tender aesthetic sensitivity. He is content following the three life-values (puruṣartha-s), cognizant of his gratitude towards the deva-s, sages, his ancestors, society and nature at large. He spends much of his free time learning, propagating and adding to saṃskṛta shāstra-s and kāvya-s - especially see https://sanskrit.github.io/groups/dyuganga/. He also follows and occassionally debates on a wide variety of issues affecting the Hindu ethos and humanity in general. He speaks Saṃskṛtam, Kannaḍa, Hindī, Hebbār Tamiḷ and English - in roughly that order of preference. Originally from southern Karnāṭaka, his body is borne by the ??? area. He was a professional computer programmer, and has sampled academic research - and occasionally utilizes those skills for his projects. Other interests include snowboarding, music, films, hiking, web surfing etc.. He organizes some of his thoughts at [vishvAsa.github.io](http://vishvAsa.github.io) and welcomes comments and criticism.
 </details>
+
+<details><summary>श्रीवैष्णवेषु परिचयः</summary>
+
+दादस्य मे नाम विश्वास इति।  
+कल्याणपुर्यां वासः, गृहस्थः,  
+काञ्चीतातार्येभ्यो लब्धपञ्चसंस्कारः,  
+सारसारज्ञ-राजगोपालार्य-सुत-लक्ष्मीनृसिंह-च्छात्रश् च।  
+
+श्रीवैष्णवग्रन्थानाम् उट्टङ्क्यान्तर्जाले मादृश-भागवत-प्रयोजनाय रक्षणेनानुज्ञाकैङ्कर्ये दासस्याभिनिवेशः।  
+</details>
