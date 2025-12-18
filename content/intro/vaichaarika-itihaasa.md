@@ -129,9 +129,3 @@ Triggers for the last transition: Going to USA, coming back for a couple of mont
 
 ततो वित्तमात्र-प्रेरित-दास्यं त्यक्त्वा  
 अधुना संस्कृत-शास्त्र-प्रचारानुकूल-तन्त्रांश-लेखने रतो ऽस्मि सतां सहकारेन।
-
-## चित्राणि॥
-
-- [बाल्ये अध्ययनलीला](https://plus.google.com/photos/109000762913288837175/albums/5977851566004206353)।  
-- [बाल्ये भावाः](https://plus.google.com/photos/109000762913288837175/albums/5977850703572927361)।
-- अन्यानि।
