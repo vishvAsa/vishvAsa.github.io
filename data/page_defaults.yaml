@@ -9,7 +9,7 @@
     unicode_script: devanagari
 -
   scope:
-    pathPrefix: "groups/dyuganga"
+    pathPrefix: "conversations"
   values:
     layout: "page"
     comments: true
