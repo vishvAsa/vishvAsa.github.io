@@ -7,3 +7,11 @@
     search: true
     sidebar: home_sidebar
     unicode_script: devanagari
+-
+  scope:
+    pathPrefix: "groups/dyuganga"
+  values:
+    layout: "page"
+    comments: true
+    search: true
+    sidebar: conversations_sidebar
