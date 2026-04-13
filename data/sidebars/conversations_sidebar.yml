@@ -1,5 +1,5 @@
 - title: Conversations
   contents:
     - url: recdir://conversations/
-- title: Blog
-  url: /blog/
+    - title: Blog
+      url: /blog/
