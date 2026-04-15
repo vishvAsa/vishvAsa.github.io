@@ -46,7 +46,7 @@ From: @Tiruvadi
 As far as the two kalai-s are concerned, there is no shared "doctrinal clarity" or "unity" in many critical points.  
 If you say "there is", then one can say the same about shrI-vaiShNava-s and shAnkaras; or about hindus and muslims. That then is the trap of sickularism.
 
-As dignity - we shouldn't hanker after it. If we deserve it, we will get it. Otherwise, it is good to know our place in the world, and avoid false pride.
+As to dignity - we shouldn't hanker after it. If we deserve it, we will get it. Otherwise, it is good to know our place in the world, and avoid false pride.
 
 Also - I subscribe to the below, quoted by a shAnkaran friend -
 
