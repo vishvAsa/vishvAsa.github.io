@@ -43,10 +43,10 @@ From: @Tiruvadi
 
 > restraint be exercised in the creation and dissemination of content that may adversely affect the dignity, unity, or doctrinal clarity of the sampradāya.
 
-As far as the two kalai-s are concerned, there is no shared "doctrinal clarity" or "unity" in many critical points.  
+As far as the two kalai-s are concerned, there is no shared "**doctrinal clarity**" or "**unity**" in many critical points.  
 If you say "there is", then one can say the same about shrI-vaiShNava-s and shAnkaras; or about hindus and muslims. That then is the trap of sickularism.
 
-As to dignity - we shouldn't hanker after it. If we deserve it, we will get it. Otherwise, it is good to know our place in the world, and avoid false pride.
+As to **dignity** - we shouldn't hanker after it. If we deserve it, we will get it. Otherwise, it is good to know our place in the world, and avoid false pride.
 
 Also - I subscribe to the below, quoted by a shAnkaran friend -
 
@@ -54,6 +54,7 @@ Also - I subscribe to the below, quoted by a shAnkaran friend -
 वयं पञ्च च ते शतम् ।  
 परैस्तु विग्रहे प्राप्ते  
 वयं पञ्चाधिकं शतम् ॥
+
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
@@ -89,3 +90,59 @@ In light of the foregoing, it is respectfully urged that restraint be exercised 
 
 I pray that better sense prevails, and that personal intelligence be guided by Bhagavān toward the propagation of His glory and that of our tradition. This communication is not intended as a personal reproach, but is offered in the larger interest of preserving the integrity and well-being of the Śrīvaiṣṇava sampradāya.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Mahodaya,
+
+Thank you for sharing the verse:
+
+परस्परविरोधे तु
+वयं पञ्च च ते शतम् ।
+परैस्तु विग्रहे प्राप्ते
+वयं पञ्चाधिकं शतम् ॥
+
+This sentiment, reflective of the spirit seen in the Mahabharata, is indeed worthy of appreciation. It emphasizes that internal differences must give way to unity when faced with larger concerns.
+
+However, its application in the present context requires careful consideration.
+
+The concern raised is not about denying doctrinal differences or creating an artificial uniformity. Differences within the sampradāya are acknowledged and have historically existed. The issue is about the manner of articulation—how such differences are expressed in public forums.
+
+There is an important distinction:
+
+Recognizing doctrinal divergence is legitimate
+Expressing it in a way that diminishes, provokes, or creates division is a matter of conduct (ācāra)
+
+The comparison with entirely distinct traditions does not hold here. The kalai distinctions exist within a shared framework—common pramāṇas, a connected ācārya-paramparā, and a shared commitment to Bhagavān. The disagreements are internal, not civilizationally disjoint.
+
+Further, the question of “not hankering after dignity” must be properly understood. The concern expressed is not about personal dignity, but about preserving the dignity of the sampradāya and its ācārya lineage. That is not pride—it is responsibility.
+
+Indeed, the very verse cited reinforces this: if unity is expected in the face of external challenges, it follows that internal discourse should not be conducted in a manner that weakens cohesion.
+
+It is in this spirit that I have stated what I believe to be the appropriate course. Every individual is endowed with intelligence; however, its application varies. In some, it is guided by humility and discernment; in others, it may be influenced by pride or preconceived notions; and in certain cases, it may even be shaped—consciously or otherwise—by forces that thrive on discord and seek to undermine traditional foundations. It is not for me to determine where any individual stands.
+
+At this point, I will refrain from further elaboration and leave it to your discretion as to how you wish to proceed. The intent of this communication is neither personal nor adversarial, but rooted in concern for preserving the integrity and harmony of the sampradāya.
+
+I pray that better sense prevails
+</details>
+
+
+## Respect
+>   these examples acknowledge the mutual respects irrespective of differences. - @Tiruvadi
+
+
+> The original commenter is right, using terms like "fraud", "degenerate" etc. makes it look like you are not ready to debate respectfully. - @ChipSqueax
+
+But what respect you want us to show to frauds?
+
+If we find our fellows faking quotes left and right (from shruti, venkaTanAtha, Apastamba etc.. ),  
+and promoting degeneracy based on that,  
+it is better that we admit their fault  
+and distance ourselves from them.  
+It would be worse if someone external needs to show us their mistakes.
+
+> Srinivasa Rajan on the other hand, did not have to use such words to put forth his opinion. - @ChipSqueax
+
+Srinivasa Rajan did not address the alleged frauds (beyond showing vAsudevasaMhitA's existence) at all -  
+and was infact was himself fooled by the fraudulent sachcharitra-raxA quote.
+

@@ -67,6 +67,8 @@ For use in case of emergencies:
 'vAsuki' is not a 'family name'; it is a [patronymic](http://en.wikipedia.org/wiki/Patronymic) which comes from the name of my father: ವಾಸುಕಿ ಕಡಬ ರಙ್ಗರಾಜ ಅಯ್ಯಙ್ಗಾರ್. (My "family name" would actually be 'अय्यङ्गार्'.) So, I prefer to be called: vishvAs. (Note that I use [OPTITRANS](https://sanskrit-coders.github.io/input/optitrans/) to encode hindu sounds in latin alphabet.)
 
 ## Sites leading here
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
 This info is useful in case of moving website location.
 
 Profiles at:
@@ -74,6 +76,8 @@ Profiles at:
 - linkedin
 - github.com
 - stackexchange
+</details>
+
 
 ## Language
 
