@@ -156,7 +156,7 @@ Our tradition does not tolerate forgery, or expect us to shower reverence on for
 
 Your's requires you to tolerate and hide forgeries?  That's unfortunate. It's telling that you are more concerned with "the tone" rather than the **actual crime of forgery**; and furthermore suggest the "influence, encouragement, or support—whether from missionaries, madrasas, communist ideologies".  
 
-Atleast it might be better than 20th CE kAnchi aNNangarAchArya's, who for example, has very cheaply maligned mahAparakAla yati ("this sannyAsi") in four languages without any valid evidence (https://youtu.be/cwlrsQ_KepA).
+Atleast it might be better than 20th CE kAnchi aNNangarAchArya's, who for example, has very cheaply maligned (with cheap expressions too)  mahAparakAla yati in four languages without any valid evidence (https://youtu.be/cwlrsQ_KepA).
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
