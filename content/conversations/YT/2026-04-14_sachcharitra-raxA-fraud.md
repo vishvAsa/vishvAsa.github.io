@@ -154,5 +154,23 @@ Our tradition does not tolerate forgery, or expect us to shower reverence on for
 
 इति वेदान्तदेशिकः शतदूषण्याम्। 
 
-Your's requires you to tolerate and hide forgeries?  That's unfortunate.  
+Your's requires you to tolerate and hide forgeries?  That's unfortunate. It's telling that you are more concerned with "the tone" rather than the **actual crime of forgery**; and furthermore suggest the "influence, encouragement, or support—whether from missionaries, madrasas, communist ideologies".  
+
 Atleast it might be better than 20th CE kAnchi aNNangarAchArya's, who for example, has very cheaply maligned mahAparakAla yati ("this sannyAsi") in four languages without any valid evidence (https://youtu.be/cwlrsQ_KepA).
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+I have offered my comments with the sincere intent of ensuring that apachārams are avoided and that a sense of balance and sanity is maintained in our discourse.
+
+It is often said that certain tendencies are difficult to correct; however, it is indeed surprising to observe instances where conduct exceeds even such expectations. This is not stated in derision, but in concern over the direction and tone being adopted.
+
+If such expressions are reflective of what has been received or understood from one’s teachers, it would be worthwhile to reflect deeply on whether they truly align with the spirit and discipline of the sampradāya. Ultimately, your words, your life, and your choices remain your own responsibility.
+
+At the same time, if there is, in any manner, influence, encouragement, or support—whether from missionaries, madrasas, communist ideologies, or any external entities—driving the dissemination of such derogatory expressions, it would be a matter of serious concern and deep misfortune. Acting in a manner that deliberately demeans one’s own tradition, under any such influence, carries consequences that are not merely social but profoundly enduring.
+
+What remains immediately relevant, however, is the nature of the content being expressed and whether it aligns with the standards of conduct and reverence expected within the tradition.
+
+If you hold that there is a Supreme Being who stands as sākṣī, it is worth reflecting whether such expressions align with that awareness. If, however, one considers oneself the sole repository of knowledge, then the consequences of such a stance also rest entirely with the individual.
+
+I end my posts here and will not engage further on this matter.
+</details>
