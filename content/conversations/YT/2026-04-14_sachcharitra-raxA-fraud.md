@@ -148,8 +148,11 @@ and was infact was himself fooled by the fraudulent sachcharitra-raxA quote.
 ### sampradAya standards
 > What remains immediately relevant, however, is the nature of the content being expressed and whether it aligns with the standards of conduct and reverence expected within the tradition. - @Tiruvadi
 
-Our tradition does not tolerate forgery, or expect us to shower reverence on forgers. Your's does? That's unfortunate.
+Our tradition does not tolerate forgery, or expect us to shower reverence on forgers. 
 
 > अतो युष्मत्-कूटस्थ-पक्ष-पातिनां प्रक्षेपस् तथा स्याद् वा न वेति समीचीन-दृष्ट्या भावय ।
 
 इति वेदान्तदेशिकः शतदूषण्याम्। 
+
+Your's requires you to tolerate and hide forgeries?  That's unfortunate.  
+Atleast it might be better than 20th CE kAnchi aNNangarAchArya's, who for example, has very cheaply maligned mahAparakAla yati ("this sannyAsi") in four languages without any valid evidence.
