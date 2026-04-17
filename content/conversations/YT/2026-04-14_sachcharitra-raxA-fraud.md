@@ -130,7 +130,6 @@ I pray that better sense prevails
 ## Respect
 >   these examples acknowledge the mutual respects irrespective of differences. - @Tiruvadi
 
-
 > The original commenter is right, using terms like "fraud", "degenerate" etc. makes it look like you are not ready to debate respectfully. - @ChipSqueax
 
 But what respect you want us to show to frauds?
@@ -143,6 +142,14 @@ It would be worse if someone external needs to show us their mistakes.
 
 > Srinivasa Rajan on the other hand, did not have to use such words to put forth his opinion. - @ChipSqueax
 
-Srinivasa Rajan did not address the alleged frauds (beyond showing vAsudevasaMhitA's existence) at all -  
+Srinivasa Rajan did not address the alleged frauds at all (beyond showing vAsudevasaMhitA's existence) -  
 and was infact was himself fooled by the fraudulent sachcharitra-raxA quote.
 
+### sampradAya standards
+> What remains immediately relevant, however, is the nature of the content being expressed and whether it aligns with the standards of conduct and reverence expected within the tradition. - @Tiruvadi
+
+Our tradition does not tolerate forgery, or expect us to shower reverence on forgers. Your's does? That's unfortunate.
+
+> अतो युष्मत्-कूटस्थ-पक्ष-पातिनां प्रक्षेपस् तथा स्याद् वा न वेति समीचीन-दृष्ट्या भावय ।
+
+इति वेदान्तदेशिकः शतदूषण्याम्। 
