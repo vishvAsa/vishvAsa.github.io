@@ -155,4 +155,4 @@ Our tradition does not tolerate forgery, or expect us to shower reverence on for
 इति वेदान्तदेशिकः शतदूषण्याम्। 
 
 Your's requires you to tolerate and hide forgeries?  That's unfortunate.  
-Atleast it might be better than 20th CE kAnchi aNNangarAchArya's, who for example, has very cheaply maligned mahAparakAla yati ("this sannyAsi") in four languages without any valid evidence.
+Atleast it might be better than 20th CE kAnchi aNNangarAchArya's, who for example, has very cheaply maligned mahAparakAla yati ("this sannyAsi") in four languages without any valid evidence (https://youtu.be/cwlrsQ_KepA).
