@@ -51,7 +51,9 @@ I rarely use the below for scheduled meetings
 [Schedule](http://www.google.com/calendar/embed?src=5k8q0obiess9hcjdi9hi22e5qs%40group.calendar.google.com&ctz=America/Chicago)
 
 ## On feedback
-I love feedback: +ve or -ve. I am serious about it: I have a special folder for compliments and critiques (though I tend to then consciously reject the former in accordance with father manu - "सम्मानाद्ब्राह्मणो नित्य- मुद्विजेत विषादिव । अमृतस्येव चाकाङ्क्षेद् अवमानस्य सर्वदा ॥"). So, don't hesitate!
+I love feedback: +ve or -ve. I am serious about it (though I tend to then consciously reject the former in accordance with father manu - "सम्मानाद्ब्राह्मणो नित्य- मुद्विजेत विषादिव । अमृतस्येव चाकाङ्क्षेद् अवमानस्य सर्वदा ॥"). So, don't hesitate!
+
+But a note to set expectations - Feedack is welcome _for consideration_, and not for _blind acceptance_. Meaning - I judge by myself how worthy they are.
 
 ## Emergency info
 For use in case of emergencies:
