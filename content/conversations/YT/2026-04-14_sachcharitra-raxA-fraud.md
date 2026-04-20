@@ -16,7 +16,7 @@ Source: [TW](https://youtu.be/KP5wNawjSZM)
 00:00 - mangalam  
 00:30 - **mahAparakAla yati's shloka**, from a khaNDana of shrI-vachana-bhUShaNa mImAMsA-bhAShya  
 02:20 - **False claim** - "venkaTanAtha says/ implies vaishvadeva is optional"
-02:55 - **sad-anuShThAna-darpaNa**/ sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam - provably fraudulent - fabricated shruti - https://youtu.be/djK61750fbM (timestamp in description). 
+02:55 - (**sad-anuShThAna-darpaNa**/ sadanushtana/sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam/ Sadanushtanadarpanam) by shuddha-sattva-varadAchArya - provably fraudulent - fabricated shruti - https://youtu.be/djK61750fbM (timestamp in description). 
 05:00 - shrInivAsa rAjan's false claim on eligibility to use vAsudevAya etc..
 06:00 - Actual **sachcharitra-rakShA text**
 07:50 - vAsudevAya etc. is **shAkhA-specific**

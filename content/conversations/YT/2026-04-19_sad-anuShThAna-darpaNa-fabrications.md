@@ -11,7 +11,7 @@ Source: [TW](https://youtu.be/Tf483EnnUsA)
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 00:00 - mangalam  
-00:30 - Intro.  
+00:30 - Intro. (**sad-anuShThAna-darpaNa**/ sadanushtana/sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam/ Sadanushtanadarpanam) by shuddha-sattva-varadAchArya. Edit - Moved further degeneracy pushe details to next video.  
 01:20 - **Error acknowledgements** - vAsudeva-saMhitA quote typo, vAsudeva-saMhitA existence. Fixed, Thanks! Error notices welcome (even about venkaTanAtha).   
 02:30 - Fabrication, misinterpretation not ruled out. Recap - satapatha-brAhmaNa https://youtu.be/djK61750fbM, sachcharitra-raxA https://youtu.be/KP5wNawjSZM .  
 04:00 - purANa insertion - ब्रह्माण्ड-पुराणे बदरिकाश्रम-माहात्म्ये  
