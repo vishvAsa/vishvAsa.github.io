@@ -13,7 +13,7 @@ title = "VedAnta deshika physics errors"
 - **Food** - A glass of raw milk typically contains 20,000 to 200,000 live somatic cells per milliliter. Beef? Since unfertilized haploid cell - Farm chicken egg. Onion. Egg in body, fertilized?
 - Carb diet & diabetes. B12 & supplements. sAttvikatA vs tamas. 
 - **Actual shAstra**, annaprAshana, shrauta-yAga, panchakAla-kriyA-dIpa.
-- **Metallurgy** - Brass Pb dangers. Roman lead pipes, chinese ceramics. Iron / Steel vessels & chaNDAlatA. Rarity.
+- **Metallurgy** - Brass Pb dangers. Roman lead pipes, Andhra coins, chinese ceramics. Iron / Steel vessels & chaNDAlatA. Rarity.
 - **History** - Archeogenetics, references. Date of ALvArs, ANDAL date, mahAbhArata, rAmAyaNa etc. vs draviDian & Aryan expansions. shankara date. AdivaN-shaThakopa date. gopAla bhaTTa tales.
 - **आपद्-धर्मः** - **Crossing seas** vs living in brahma-dviT-ruled states. Risks. bhAgavata-samRddhi.
 - **Domain of expertise** - vedAntAchArya, not physics/ biology/ metallurgy/ history/ paleontology AchArya. सारासार-विव्वकः। 
