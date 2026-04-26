@@ -196,16 +196,18 @@ The only qualities needed for refuting tenkalai heresies and lies is proper unde
 
 There are lot of people who precisely parrot diva-prabandhams, without understanding any of it. If you prefer their bladderdash, you should seek them out - there dime a dozen on this site.
 
+### Not a perfect role-model
+
+> Also, on a lighter but still sincere note what’s with the French bread in your videos? What kind of anushtana permits that? - @prathamkare694
+
+You don't like my beard, don't imitate it. I don't claim to be perfect in anuShThAna. That doesn't disqualify me from pointing out lies and fraud.
+
 
 ## bhAgavatApachAra
 
 > It is said to be a sin to find faults in Bhagavatas let alone Srivaishnavas. Whether intentional or not, this kind of content risks becoming bhagavata apacharam.  - @prathamkare694
 
 You're wrong - vedAnta deshika, manavALa mAmuni, mahAparakAla-yati, all pointed out flaws in the arguments of others. 
-
-> Also, on a lighter but still sincere note what’s with the French bread in your videos? What kind of anushtana permits that? - @prathamkare694
-
-You don't like my beard, don't imitate it. I don't claim to be perfect in anuShThAna. That doesn't disqualify me from pointing out lies and fraud.
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
