@@ -15,6 +15,7 @@ title = "VedAnta deshika physics errors"
 - **Actual shAstra**, annaprAshana, shrauta-yAga, panchakAla-kriyA-dIpa.
 - **Metallurgy** - Brass Pb dangers. Roman lead pipes, Andhra coins, chinese ceramics. Iron / Steel vessels & chaNDAlatA. Rarity.
 - **History** - Archeogenetics, references. Date of ALvArs, ANDAL date, mahAbhArata, rAmAyaNa etc. vs draviDian & Aryan expansions. shankara date. AdivaN-shaThakopa date. gopAla bhaTTa tales.
+- **avatAra-s** - प्रयोजनम्। धर्म-गुणादि-ज्ञानम्। अवतार-रहस्ये - "इदं स्व-तन्त्र--प्रपत्ति-निष्ठस्य शरण्यगुण-विशेष-ज्ञान-मुखेनोपायानुष्ठान-क्षणे महा-विश्वासादीनि स्थिरी-कुर्वत् उपकारकं भवति ।"
 - **आपद्-धर्मः** - **Crossing seas** vs living in brahma-dviT-ruled states. Risks. bhAgavata-samRddhi.
 - **Domain of expertise** - vedAntAchArya, not physics/ biology/ metallurgy/ history/ paleontology AchArya. सारासार-विव्वकः। 
 - **avatAratva** - Not hayagrIva/ vAyu/ shiva themselves. Avesha.
