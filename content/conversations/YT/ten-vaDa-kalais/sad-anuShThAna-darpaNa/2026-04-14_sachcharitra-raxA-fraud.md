@@ -194,7 +194,7 @@ You're welcome to do so - if there is something worthy of being accepted and cor
 
 The only qualities needed for refuting tenkalai heresies and lies is proper understanding of them, and their digression from true siddhAnta.
 
-There are lot of people who precisely parrot diva-prabandhams, without understanding any of it. If you prefer their bladderdash, you should seek them out - there dime a dozen on this site.
+There are lot of people who precisely parrot diva-prabandhams, without understanding any of it. If you prefer their bladderdash, you should seek them out - they're dime a dozen on YT.
 
 ### Not a perfect role-model
 
