@@ -127,10 +127,14 @@ I pray that better sense prevails
 </details>
 
 
-## Respect
+## Respect for fraud?
 >   these examples acknowledge the mutual respects irrespective of differences. - @Tiruvadi
 
 > The original commenter is right, using terms like "fraud", "degenerate" etc. makes it look like you are not ready to debate respectfully. - @ChipSqueax
+
+> There’s a clear difference between a respectful philosophical discussion and what comes across as personal attacks. - @prathamkare694
+
+
 
 But what respect you want us to show to frauds?
 
@@ -144,6 +148,8 @@ It would be worse if someone external needs to show us their mistakes.
 
 Srinivasa Rajan did not address the alleged frauds at all (beyond showing vAsudevasaMhitA's existence) -  
 and was infact was himself fooled by the fraudulent sachcharitra-raxA quote.
+
+
 
 ### sampradAya standards
 > What remains immediately relevant, however, is the nature of the content being expressed and whether it aligns with the standards of conduct and reverence expected within the tradition. - @Tiruvadi
@@ -173,4 +179,45 @@ What remains immediately relevant, however, is the nature of the content being e
 If you hold that there is a Supreme Being who stands as sākṣī, it is worth reflecting whether such expressions align with that awareness. If, however, one considers oneself the sole repository of knowledge, then the consequences of such a stance also rest entirely with the individual.
 
 I end my posts here and will not engage further on this matter.
+</details>
+
+
+### Symmetry
+> Many of us consciously choose not to mock or belittle Vadakalai texts or practices not because we can’t - @prathamkare694
+
+You're welcome to do so - if there is something worthy of being accepted and corrected, we will thank you for it.
+
+
+## Qualification
+
+> I’m not sure what qualifies you to speak on such a public platform about these matters especially when you seem to struggle with properly reciting pasurams, quoting the Divya Prabandham accurately, or even saying thaniyans correctly. - @prathamkare694
+
+The only qualities needed for refuting tenkalai heresies and lies is proper understanding of them, and their digression from true siddhAnta.
+
+There are lot of people who precisely parrot diva-prabandhams, without understanding any of it. If you prefer their bladderdash, you should seek them out - there dime a dozen on this site.
+
+
+## bhAgavatApachAra
+
+> It is said to be a sin to find faults in Bhagavatas let alone Srivaishnavas. Whether intentional or not, this kind of content risks becoming bhagavata apacharam.  - @prathamkare694
+
+You're wrong - vedAnta deshika, manavALa mAmuni, mahAparakAla-yati, all pointed out flaws in the arguments of others. 
+
+> Also, on a lighter but still sincere note what’s with the French bread in your videos? What kind of anushtana permits that? - @prathamkare694
+
+You don't like my beard, don't imitate it. I don't claim to be perfect in anuShThAna. That doesn't disqualify me from pointing out lies and fraud.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+I’ve been noticing your recent videos where you criticize the Thenacharya sampradayam, and honestly, it feels unnecessary and uncalled for. I’m not sure what qualifies you to speak on such a public platform about these matters especially when you seem to struggle with properly reciting pasurams, quoting the Divya Prabandham accurately, or even saying thaniyans correctly.
+
+There’s a clear difference between a respectful philosophical discussion and what comes across as personal attacks. The tone, along with the smirking at times, feels disrespectful. Many of us consciously choose not to mock or belittle Vadakalai texts or practices not because we can’t, but out of genuine respect for the great Vaishnavas who follow them. They are paramaekantis and prapannas, and deserve that dignity.
+
+It is said to be a sin to find faults in Bhagavatas let alone Srivaishnavas. Whether intentional or not, this kind of content risks becoming bhagavata apacharam. More importantly, it reflects poorly on the sampradayam as a whole, especially to outsiders who may not understand the internal nuances.
+
+Please take this seriously and reconsider the direction and tone of your content.
+
+Also, on a lighter but still sincere note what’s with the French bread in your videos? What kind of anushtana permits that?
+
+Hoping for more respectful and responsible content going forward.
 </details>
