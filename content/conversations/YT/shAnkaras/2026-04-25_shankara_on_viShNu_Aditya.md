@@ -34,13 +34,12 @@ This is just your prejudice and ignorant. Scholarly debate can take any of the f
 
 It is idiotic to think that video recording technology cannot be used to exchange arguments in a scholarly debate.
 
-> I have never seen you take part in any shastrartha or vakyartha discussions.
+> I have never seen you take part in any shastrartha or vakyartha discussions. - @रंजनमंडल-छ5प
 
 I am not obliged to pick some mode of debate convenient to your prejudice. Further, a video argument merits a video response.
 
 ## Qualifications
-> people does not even regard you as a scholar. Even YouTube seems to have nothing better to do than recommend such pointless content.  
-> - @रंजनमंडल-छ5प
+> people does not even regard you as a scholar. Even YouTube seems to have nothing better to do than recommend such pointless content. - @रंजनमंडल-छ5प
 
 Again this is your (and their) prejudice - it takes some basic scholarship to demonstrate flaws in the arguments put forth by a properly traditionally trained scholar (shrI jammalamadaka shrInivAsa in this case). 
 
@@ -51,13 +50,12 @@ My authority comes from an ability to use my brain and texts at hand to examine 
 
 ## Agreement with shankara
 
-> Respectfully , you have conceded to Shankara by using Vyavaharika. 
-> - @naveengubba2393
+> Respectfully , you have conceded to Shankara by using Vyavaharika.  - @naveengubba2393
 
 No - Saying that "shankara says ABC" does not mean "I agree with shankara when he says ABC".
 
 > Now , only his Vedanta of universe being a Vivarta and not a Parinama has to be accepted. 
-> This is because you cannot selectively accept Shankara as a Vaishnava but reject his Advaita Vedanta doctrine.
+> This is because you cannot selectively accept Shankara as a Vaishnava but reject his Advaita Vedanta doctrine. - @naveengubba2393
 
 shankara, who clearly said - 'परमतम् अप्रतिषिद्धं अनुमतम् भवति', would disagree with you. There is nothing wrong with saying "shankara is right about X but wrong about Y".
 
@@ -65,8 +63,7 @@ shankara, who clearly said - 'परमतम् अप्रतिषिद्�
 
 ## Misrepresentation?
 > Vidwan J Srinivasgaru is not misguiding Sankaras . He mentioned many other meanings and attributions to word Vishnu  along with those you mentioned. All of them are estabished with relevant Pramanas  also from Bashyas and finally arriving at the summary which you dont like...  
-> First go through his full Video before you try to condemn -
-@cmam.keerthichandra6517
+> First go through his full Video before you try to condemn - @cmam.keerthichandra6517
 
 Vidwan J Srinivasgaru has himself acknowledged my disagreement and how it is contrary to what he concluded.
 
