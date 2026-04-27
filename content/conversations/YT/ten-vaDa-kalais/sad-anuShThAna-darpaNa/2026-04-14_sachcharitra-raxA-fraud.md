@@ -160,9 +160,12 @@ Our tradition does not tolerate forgery, or expect us to shower reverence on for
 
 इति वेदान्तदेशिकः शतदूषण्याम्। 
 
-Your's requires you to tolerate and hide forgeries?  That's unfortunate. It's telling that you are more concerned with "the tone" rather than the **actual crime of forgery**; and furthermore suggest the "influence, encouragement, or support—whether from missionaries, madrasas, communist ideologies".  
+Your tradition requires you to tolerate and hide forgeries?  That's unfortunate. It's telling that you are more concerned with "the tone" rather than the **actual crime of forgery**; and furthermore suggest the "influence, encouragement, or support—whether from missionaries, madrasas, communist ideologies".  
 
 Atleast it might be better than 20th CE kAnchi aNNangarAchArya's, who for example, has very cheaply maligned (with cheap expressions too)  mahAparakAla yati in four languages without any valid evidence (https://youtu.be/cwlrsQ_KepA).
+
+Even so, I vocally appreciate good qualities of such slanderers and people I otherwise disagree with.
+
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -202,6 +205,7 @@ There are lot of people who precisely parrot diva-prabandhams, without understan
 
 You don't like my beard, don't imitate it. I don't claim to be perfect in anuShThAna. That doesn't disqualify me from pointing out lies and fraud.
 
+Even if I did claim to be a shiShTa, or if I were your AchArya, unlike shrI shauri-rAja (the publisher of the fraudulent sadanuShThAna-darpaNa), I would expect people concerned to remember the shruti "यान्य् अस्माकं सुचरितानि, तानि त्वयोपास्यानि नो इतराणि …", and follow only practices consonant with superior pramANa-s for dharma.
 
 ## bhAgavatApachAra
 

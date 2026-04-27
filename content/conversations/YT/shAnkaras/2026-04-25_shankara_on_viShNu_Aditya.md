@@ -42,7 +42,12 @@ I am not obliged to pick some mode of debate convenient to your prejudice. Furth
 > people does not even regard you as a scholar. Even YouTube seems to have nothing better to do than recommend such pointless content.  
 > - @रंजनमंडल-छ5प
 
-Again this is your prejudice - it takes some basic scholarship to demonstrate flaws in the arguments put forth by a properly traditionally trained scholar (shrI jammalamadaka shrInivAsa in this case). 
+Again this is your (and their) prejudice - it takes some basic scholarship to demonstrate flaws in the arguments put forth by a properly traditionally trained scholar (shrI jammalamadaka shrInivAsa in this case). 
+
+
+> also dont know your  authority to qualify him saying  better scholar compared to some another person. These are all not dignfied - @cmam.keerthichandra6517
+
+My authority comes from an ability to use my brain and texts at hand to examine the validity of arguments, correctness of citations and so on. chakkilam venkatesh has been proven to forge quotes from brahma-sUtra-s and so on (eg. https://youtu.be/98pSDGX3Bm8); unlike shrI jammalamadaka shrInivAsa. So, naturally, the latter is superior.
 
 ## Agreement with shankara
 
@@ -55,3 +60,19 @@ No - Saying that "shankara says ABC" does not mean "I agree with shankara when h
 > This is because you cannot selectively accept Shankara as a Vaishnava but reject his Advaita Vedanta doctrine.
 
 shankara, who clearly said - 'परमतम् अप्रतिषिद्धं अनुमतम् भवति', would disagree with you. There is nothing wrong with saying "shankara is right about X but wrong about Y".
+
+
+
+## Misrepresentation?
+> Vidwan J Srinivasgaru is not misguiding Sankaras . He mentioned many other meanings and attributions to word Vishnu  along with those you mentioned. All of them are estabished with relevant Pramanas  also from Bashyas and finally arriving at the summary which you dont like...  
+> First go through his full Video before you try to condemn -
+@cmam.keerthichandra6517
+
+Vidwan J Srinivasgaru has himself acknowledged my disagreement and how it is contrary to what he concluded.
+
+Now if two public assertions are contrary to each other, they can't both be valid (non-misguiding).
+
+## Modern shAnkara vs shankara
+> Dont create misconceptions like modern advaitas or shankaras ...all such silly things dont work. - @cmam.keerthichandra6517  
+
+Oh but they do - otherwise, shrI J Srinivasgaru would not have made his "shankara is not a vaiShNava like you" video in the first place.
