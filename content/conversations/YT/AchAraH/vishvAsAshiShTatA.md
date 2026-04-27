@@ -4,6 +4,7 @@ title = "विश्वासाशिष्टता"
 
 > Also, on a lighter but still sincere note what’s with the French bread in your videos? What kind of anushtana permits that? - @prathamkare694
 
+With such questions, please clarify the intent of the question and the source of your objection to practice X.
 
 **Education intent**  
 If your intention is to educate me or yourself about practice X,  
