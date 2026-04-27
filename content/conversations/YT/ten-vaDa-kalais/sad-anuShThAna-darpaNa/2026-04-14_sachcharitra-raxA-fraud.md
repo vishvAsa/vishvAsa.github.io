@@ -203,9 +203,7 @@ There are lot of people who precisely parrot diva-prabandhams, without understan
 
 > Also, on a lighter but still sincere note what’s with the French bread in your videos? What kind of anushtana permits that? - @prathamkare694
 
-You don't like my beard, don't imitate it. I don't claim to be perfect in anuShThAna. That doesn't disqualify me from pointing out lies and fraud.
-
-Even if I did claim to be a shiShTa, or if I were your AchArya, unlike shrI shauri-rAja (the publisher of the fraudulent sadanuShThAna-darpaNa), I would expect people concerned to remember the shruti "यान्य् अस्माकं सुचरितानि, तानि त्वयोपास्यानि नो इतराणि …", and follow only practices consonant with superior pramANa-s for dharma.
+See [this page](/conversations/YT/AchAraH/vishvAsAshiShTatA). 
 
 ## bhAgavatApachAra
 
@@ -219,11 +217,4 @@ I’ve been noticing your recent videos where you criticize the Thenacharya samp
 
 There’s a clear difference between a respectful philosophical discussion and what comes across as personal attacks. The tone, along with the smirking at times, feels disrespectful. Many of us consciously choose not to mock or belittle Vadakalai texts or practices not because we can’t, but out of genuine respect for the great Vaishnavas who follow them. They are paramaekantis and prapannas, and deserve that dignity.
 
-It is said to be a sin to find faults in Bhagavatas let alone Srivaishnavas. Whether intentional or not, this kind of content risks becoming bhagavata apacharam. More importantly, it reflects poorly on the sampradayam as a whole, especially to outsiders who may not understand the internal nuances.
-
-Please take this seriously and reconsider the direction and tone of your content.
-
-Also, on a lighter but still sincere note what’s with the French bread in your videos? What kind of anushtana permits that?
-
-Hoping for more respectful and responsible content going forward.
-</details>
+It is said to be a sin to find faults in Bhagavatas let alone Srivaishnavas. Whether intentional or not, this kind of content risks becoming bhagavata apacharam. More importantly, it reflects poorly on the sampradayam as a whole, especially to outsiders who may not understand the interna
