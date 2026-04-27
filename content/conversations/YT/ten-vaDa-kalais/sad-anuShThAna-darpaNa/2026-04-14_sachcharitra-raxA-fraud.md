@@ -185,10 +185,18 @@ I end my posts here and will not engage further on this matter.
 </details>
 
 
+### bhAgavatApachAra
+
+> It is said to be a sin to find faults in Bhagavatas let alone Srivaishnavas. Whether intentional or not, this kind of content risks becoming bhagavata apacharam.  - @prathamkare694
+
+You're wrong - vedAnta deshika, manavALa mAmuni, mahAparakAla-yati, all pointed out flaws in the arguments of others.
+
+My intention is to serve bhAgavata-s by pointing out cases of attempts to fool and defraud them - so any incidental aspersions cast on the perpetrators is very much in service to bhAgavata-s in general. 
+
 ### Symmetry
 > Many of us consciously choose not to mock or belittle Vadakalai texts or practices not because we can’t - @prathamkare694
 
-You're welcome to do so - if there is something worthy of being accepted and corrected, we will thank you for it.
+Yet some of you do belittle rival sects and practices. Still, you're welcome to do so - if there is something worthy of being accepted and corrected, we will thank you for it.
 
 
 ## Qualification
@@ -205,15 +213,17 @@ There are lot of people who precisely parrot diva-prabandhams, without understan
 
 See [this page](/conversations/YT/AchAraH/vishvAsAshiShTatA). 
 
-## bhAgavatApachAra
-
-> It is said to be a sin to find faults in Bhagavatas let alone Srivaishnavas. Whether intentional or not, this kind of content risks becoming bhagavata apacharam.  - @prathamkare694
-
-You're wrong - vedAnta deshika, manavALa mAmuni, mahAparakAla-yati, all pointed out flaws in the arguments of others. 
-
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-I’ve been noticing your recent videos where you criticize the Thenacharya sampradayam, and honestly, it feels unnecessary and uncalled for. I’m not sure what qualifies you to speak on such a public platform about these matters especially when you seem to struggle with properly reciting pasurams, quoting the Divya Prabandham accurately, or even saying thaniyans correctly.
+I’ve been noticing your recent videos where you criticize the Thenacharya sampradayam, and honestly, it feels unnecessary and uncalled for. I’m not sure what qualifies you to speak on such a public platform about these matters especially when you seem to struggle with properly reciting pasurams, quoting the Divya Prabandham accurately, or even saying thaniyans correctly.internal nuances.
+
+Please take this seriously and reconsider the direction and tone of your content.
+
+Also, on a lighter but still sincere note what’s with the French bread in your videos? What kind of anushtana permits that?
+
+Hoping for more respectful and responsible content going forward.
+</details>
+
 
 There’s a clear difference between a respectful philosophical discussion and what comes across as personal attacks. The tone, along with the smirking at times, feels disrespectful. Many of us consciously choose not to mock or belittle Vadakalai texts or practices not because we can’t, but out of genuine respect for the great Vaishnavas who follow them. They are paramaekantis and prapannas, and deserve that dignity.
 
