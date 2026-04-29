@@ -37,3 +37,12 @@ Ref - https://vishvasa.github.io/jyotiSham/astrophysics/history/heliocentrism_sp
 52:36 - History, metallurgy, biology deficiencies.   
 53:00 - **Conclusion**. Truely following vedAnta-deshika's foundational principles. pratyaxa supremacy.   
 </details>
+
+## alaukika places
+
+> Meru, Amravati, etc. places are not necessarily to be taken as literally physical places on Earth. In his Upanishada Bhashya, in accordance with the Puranas, Bhagawatpada Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones, as it would not be of much use to include the description of a laukika thing which can be known from Pratyakshaadi pramanas, in Bhashya on Vedas. Though some Pauranikas have conflated this Adhidaivika description with the description of Laukika world, it should not be done so, as can be understood from what Parikshit is told by Yogendra Shukacharya in Bhagwata Purana. - @OkK-c4y 
+
+This opinion is fabricated by people who can't cope with their AchArya being wrong -
+
+> Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones
+
