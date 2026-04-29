@@ -50,7 +50,11 @@ My authority comes from an ability to use my brain and texts at hand to examine 
 
 > The claim  // it takes some basic scholarship to demonstrate flaws  ...// is squarely dismissed by Shankara in his Bh.Gita Bhashya:  तस्मात् असम्प्रदायवित् सर्वशास्त्रविदपि मूर्खवदेव उपेक्षणीयः ॥  - @cmam.keerthichandra6517
 
-Then why are you not doing upekShA? Instead of ignoring, you're coming here and incoherently bloviating. For that matter, shankara's sampradAya is not the comically deviant neo-shAnkaran sampradAya you represent.
+Then why are you not doing upekShA? Instead of ignoring, you're coming here and incoherently bloviating. 
+
+Also, is shankara calling himself a mUrkha? Because he apparently did not belong to or understand the sampradAya-s of pAshupata-s and pAncharAtrika-s he dismissed.
+
+For that matter, shankara's sampradAya is not the comically deviant neo-shAnkaran sampradAya you represent.
 
 ## Agreement with shankara
 
