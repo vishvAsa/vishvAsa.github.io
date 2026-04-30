@@ -2,8 +2,9 @@
 title = "VedAntin physics errors"
 +++
 
-Source: [TW](https://youtu.be/k0c-y1pzTI8)
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/k0c-y1pzTI8"></div>
 
+Source: [TW](https://youtu.be/k0c-y1pzTI8)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -20,7 +21,7 @@ Ref - https://vishvasa.github.io/jyotiSham/astrophysics/history/heliocentrism_sp
 11:50 - **shankara's error** in ChandogyopaniShat, dramiDAchArya  
 15:25 - **madhva's error** (Ananda-tIrtha)  
 16:30 - vijaya-dhvaja, vAdIrAja, appayya-dIxita, vallabha, gauDIya vishvanAtha-chakravartI etc.  
-18:30 - **venkaTanAtha's error** in tattva-muktA-kalApa (Correction - meant arrow instead of bird)  
+18:30 - **venkaTanAtha's error** in tattva-muktA-kalApa (**Correction** - meant arrow instead of bird)  
 21:30 - Relative velocity. Newton's v = u + at. See https://www.youtube.com/watch?v=_VE6RQWndTA   
 23:00 - Traditionalist **acknowledgements** - Veliyanallur Narayanachariar - https://www.youtube.com/watch?v=9e2wrJ-rcOg "ok for his time".   
 24:20 - **KS varadAchArya** - only-earth movement excuse.   
@@ -29,7 +30,7 @@ Ref - https://vishvasa.github.io/jyotiSham/astrophysics/history/heliocentrism_sp
 29:05 - **KS varadAchArya's message** - spritual science vs physical science lag. "घृष्ट्वा घृष्ट्वा परीक्षया … सम्यङ् **विनिश्चित्य वक्तव्यं** … नो चेल् **लुप्येत** श्रद्धादिः". tapas.  
 34:30 - **Limitations** acknowledged - "उपयुक्तेषु वैशद्यम्", "तत्र तूदासितव्यम्"।   
 39:00 - **Domain of expertise** - vedAntAchArya, not physics/ biology/ metallurgy/ history/ paleontology AchArya. सारासार-विवेकः  
-39:50 - **Not an avatAra** - Imagination of the astounded. "वेङ्कटेशावतारोऽयं तद्-घण्टांशो ऽथवा भवेत्। …" इति कुमारवरदः। "उत्प्रेक्ष्यते बुधजनैर् उपपत्ति-भूम्ना घण्टा हरेः समजनिष्ट यद्-आत्मनेति" इति वेङ्कटनाथः। Avesha.   
+39:50 - **Not an avatAra** - Imagination of the astounded. "उत्प्रेक्ष्यते बुधजनैर् उपपत्ति-भूम्ना घण्टा हरेः समजनिष्ट यद्-आत्मनेति" इति वेङ्कटनाथः। "वेङ्कटेशावतारोऽयं तद्-घण्टांशो ऽथवा भवेत्। …" इति कुमारवरदः। Avesha. (**Correction-** in piLLaiy-antAdi, kumAra-varada identifies venkaTanAtha as venkaTeshvara.)  
 48:00 - venkaTanAtha, madhva, shankara - Not venkaTesha/ vAyu/ shiva themselves. Limitations.  
 50:20 - Extensions to shAstra-kRts like vyAsa, brahma, etc..  
 50:50 - **Copes**  
@@ -46,3 +47,33 @@ This opinion is fabricated by people who can't cope with their AchArya being wro
 
 > Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones
 
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+It is not about whose Acharya it is. Infact, Bhashyakara himself has quoted another Acharya, whom the Tikakara has identified as Dravidacharya as you mentioned. 
+
+1. It is a Veda Bhashya. Discussing laukika phenomenon is generally aprasangika. 
+2. No use of logic seen. Use of logic is in general a clear sign that the thing talked about is laukika. Others have used logic, and their refutation is acceptable.
+3. The Bhashya itself makes it clear that what is talked about is the lives of residents of these different lokas. Had the different lokas been on earth or bhuloka itself, then where would different lifespans come from? The sun moves in a plane circle over these regions, clockwise. This again will make no sense from earth's perspective, as wherever you keep us in this model, it cannot match with the reality of day and night and the alignment of the sun's (apparent) motion. 
+
+Assuming we are at the centre of this model, the cyclical motion will never cause day and night, and we would be in eternal light. And this could never explain to us uttarayana below the tropic of cancer , for the sun will always move from east to west via south. 
+
+One cannot say that 'Dravida'charya or Shankaraacharya who would be well aware of this, would make such mistakes. It is ridiculous to think these people could not think of these very basic problems with their model, had the model been made for the physical world, that is. The Sun moves through the four regions of the four direction, but this sun, it's movement and the cities are not physical objects in the physical universe which is perceptible. 
+
+The whole structure and context of the bhashya makes it clear, the 4 puris, though associated with particular directions, are not perceptible laukika places on earth, and thus the sun's motion in these places is also of alaukika nature. 
+
+And the Brhadaranyak Bhashya quotating is not relevant at all. Night is the shadow of the earth is an interesting way to put forward something that would be true regardless of heliocentric or geocentric model. 
+
+Overall, the inclusion of Shankaracharya here seems forced here, and may I say, agenda driven. The basic distinction of Bhautika and Adhidaivika descriptions is quite well-known. Had he discussed some Jyotisha and Ganita here, as others did, then a critique was warranted for sure. But not here.
+</details>
+
+
+## meru-model plausibility
+> Assuming we are at the centre of this model, the cyclical motion will never cause day and night, and we would be in eternal light. @OkK-c4y
+
+If sun were a glowing physical ball, what you say would be true. However, if he were like a torch facing down, going around a table, regional illumination would make sense - try it out.
+
+> And this could never explain to us uttarayana below the tropic of cancer , for the sun will always move from east to west via south. 
+
+Of course it would explain. Per shankara, meru defines the "North" relative to each place. if the sun overhead moves closer to meru, it is uttarAyaNa.
