@@ -49,7 +49,9 @@ This opinion is fabricated by people who can't cope with their AchArya being wro
 
 So, it may be dismissed.
 
-> Use of logic is in general a clear sign that the thing talked about is laukika.
+_______________
+
+> Use of logic is in general a clear sign that the thing talked about is laukika. @OkK-c4y
 
 The point of a commentary (bhAShya) is that the intended meaning should be clear. If you have to do this kind of mImAMsA on a bhAShya, it means you're torturing it to make it say what you want.
 
@@ -78,7 +80,48 @@ Overall, the inclusion of Shankaracharya here seems forced here, and may I say, 
 
 If sun were a glowing physical ball, what you say would be true. However, if he were like a torch facing down, going around a table, regional illumination would make sense - try it out.
 
-> And this could never explain to us uttarayana below the tropic of cancer , for the sun will always move from east to west via south. 
+> And this could never explain to us uttarayana below the tropic of cancer , for the sun will always move from east to west via south. @OkK-c4y
 
 Of course it would explain. Per shankara, meru defines the "North" relative to each place. if the sun overhead moves closer to meru, it is uttarAyaNa.
 
+> Also, what you say still cannot explain things like mid-day. - @OkK-c4y
+
+Of course you can - this shows you haven't worked out the model properly.
+
+> On a flat world rising and setting at different times, as is implied, will not make sense.  @OkK-c4y
+
+Yes it does - take the torch over table experiment. Duration of light at the point on the diameter is longer that that on a different chord.
+
+
+## पृथिवीछायां हि शार्वरं तम आचक्षते।
+> No such invocation in Brhadaranyaka, so that too shows the statement is a rather trivial one, made from the basis of laukika knowledge.
+
+No - the whole passage is oblique - 
+
+> अयं वै लोकोऽग्निर् गौतम  
+तस्य पृथिव्य् एव समिद्  
+अग्निर् धूमो,  
+रात्रिर् अर्चिः
+
+"world is fire, earth is fuel-stick, fire is smoke" etc. 
+
+Doesn't look "trivial" in the least.
+
+> And how to recoincile this with the statement "night is the shadow of the earth" which implies that the sun goes somewhere on the opposite side of (our part) of the earth, something entirely missing in this model. - @OkK-c4y
+
+Meru's shade.  
+Or more simply, the earth element - present even in air - which blocks light.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+And how to recoincile this with the statement "night is the shadow of the earth" which implies that the sun goes somewhere on the opposite side of (our part) of the earth, something entirely missing in this model. What did Shankaracharya actually believe in? 
+Also, what you say still cannot explain things like mid-day. The sun never actually will appear on the meridian in such a model. The sun on its circular path over the cities will never actually pass over us. At most it might come closer. On a flat world rising and setting at different times, as is implied, will not make sense. 
+
+If reconciliation of the two statements of Bhashyakara are to be done, the only way to understand is that in the Chhandogya Bhashya, what is described is a non-perceptible fact about divine realms, while what the Brhadaranyaka Bhashya says is mostly about the physical universe, as is clear from the words, the amount spent to explain it (very less), the reason why it is explained, etc. 
+
+Often (but not always) other Acharyas and Puranas are invoked to know something which is actually not perceptible or inferrable. Shabda pramana. The Chhandogya Bhashya is an example. 
+
+No such invocation in Brhadaranyaka, so that too shows the statement is a rather trivial one, made from the basis of laukika knowledge.
+
+@OkK-c4y
+</details>
