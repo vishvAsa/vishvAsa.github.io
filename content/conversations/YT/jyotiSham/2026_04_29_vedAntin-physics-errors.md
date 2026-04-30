@@ -92,6 +92,13 @@ Of course you can - this shows you haven't worked out the model properly.
 
 Yes it does - take the torch over table experiment. Duration of light at the point on the diameter is longer that that on a different chord.
 
+> Our daily experience of sun rising from east into south and setting in west and disappearing in north actually corresponds to the experience of the people of Yama's loka. Are we in Yama's loka? No, it is specifically mentioned as another place. - @OkK-c4y
+
+That's bizarre - what planet is this experience from? Here our experience is like this 
+
+![](/jyotiSham/mAnam/images/equatorial/annual-sun-rise-point-movement.jpg)
+{caption="" class="thumbnail"}
+
 
 ## पृथिवीछायां हि शार्वरं तम आचक्षते।
 > No such invocation in Brhadaranyaka, so that too shows the statement is a rather trivial one, made from the basis of laukika knowledge.
@@ -110,7 +117,32 @@ Doesn't look "trivial" in the least.
 > And how to recoincile this with the statement "night is the shadow of the earth" which implies that the sun goes somewhere on the opposite side of (our part) of the earth, something entirely missing in this model. - @OkK-c4y
 
 Meru's shade.  
-Or more simply, the earth element - present even in air - which blocks light.
+Or more simply, the earth element - present even in air - which blocks light.  
+Or what anandagiri and co say (below).
+
+> Tikakara (Anandagiri's) reference in the tika on Br. U. Bhashya ... Refutes both Meru and earth element in air position promptly . @OkK-c4y
+
+Actually, their explanation is even more outlandish. 
+
+> रात्रेस् तमस्त्वावगमात् … तस्य च भू-छायात्वं श्रुतम्।  
+> तमो राहु-स्थानं, तच्च भूच्छायेति हि प्रसिद्धम् –
+>
+> > “उधृत्य पृथिवी-च्छायां  
+> निर्मितं मण्डलाकृति ।  
+> स्वर्भानोस् तु बृहत् स्थानं  
+> तृतीयं यत् तमोमयम् ॥“
+>
+> इति स्मृतेर् (लिङ्ग-पुराणम् ६१.३०?) इत्य् अर्थः
+
+Rahu-sthAna, the lunar node, is said to be made from the earth's shadow. This is said to jump about between the moon and sun - 
+
+> द्विगुणः सूर्यविस्ताराद् विस्तारः शाशिनः स्मृतः॥  
+तुल्यस्तयोस्तु स्वर्भानुर्भूत्वाधस्तात्प्रसर्पति॥ ६१.२९ ॥  
+> उधृत्य पृथिवी-च्छायां …   
+> आदित्यात्तच्च निष्क्रम्य सोमं गच्छति पर्वसु॥  
+आदित्यमेति सोमाच्च पुनः सौरेषु पर्वसु॥ ६१.३१ ॥
+
+That is what Anandagiri and sureshvara understand shankara to mean by "पृथिवीछाया" = "शार्वरं तमः".
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -124,4 +156,29 @@ Often (but not always) other Acharyas and Puranas are invoked to know something 
 No such invocation in Brhadaranyaka, so that too shows the statement is a rather trivial one, made from the basis of laukika knowledge.
 
 @OkK-c4y
+
+
+Let's see what the Br.U. Bhashya means:
+
+Fire is the world, fuel is the earth, smoke is the fire(on earth), the flames are the night and so on. The first term and the second term are related in some way. The earth is fuel because it nourishes the world i.e fire. Similarly, the night is the flame because the cause of flames is the fuel, and the cause of night is the earth, as night is the shadow of the earth. The relationship between the earth and night is correlated with the relationship between fuel and flames. The point is to have a meditation upon the world as Agni and this is facilitated by the correlations between the different phenomenon of the two. The phenomenon themselves are not very important.
+
+I do not see any need for a stretched interpretation that the earth element or meru are reason for night. Prthiviichhaaya only means shadow of earth; any extra efforts in interpretation are unnecessary. Yes the Meru and earth elements are different forms of earth itself, but they are not mentioned directly here. Tikakara also doesn't mention anything like that, he discusses the shadow of Earth itself and not some modification or part of it . 
+
+The earth element in air simply cannot explain our experience of sun's movement, rising or setting. And with regards to meru, it being in the north cannot explain the setting of the sun in the west. 
+
+Our daily experience of sun rising from east into south and setting in west and disappearing in north actually corresponds to the experience of the people of Yama's loka. Are we in Yama's loka? No, it is specifically mentioned as another place. 
+
+So what is the cause of rising and setting, the torch like sun model wherein regional light and darkness could be present, or the meru's shadow causes rising and setting? The meru's shadow model works better for the 4 puris if meru is considered to be in the centre with sun revolving around it, as it is more indicated in the scriptures. However, both of these will not work for us. 
+
+In the meru shadow model, the rising of the sun's disc cannot appear as the upper half disc; it would appear sideways. Similarly for setting. The only model that work (at least naively) for is either the helio or geocentric model, and the earth itself causing night. The same, very obvious and perceptible model wherein sun just moves east-west, then goes below causing shadow of earth, or night, is explained in Br. Bhashya.
+
+Only possible explanation: Just as Indra, Yama, Varuna, Soma are not perceptible, their worlds too are not, though associated with certain directions. The movement of the sun there is different from the one seen in our world, the beings and their lifespans are also different there. To correlate these Puranic accounts with the real world is not wise. Studying the Upanishadam, Bhashyam and the Tika, this would be  clear.
+
+Tikakara (Anandagiri's) reference in the tika on Br. U. Bhashya
+
+उद्भुत्य पृथिवीछायं निर्मितं मण्डलाकृति  
+स्वर्भनोस् तु बृहत्-स्थानं तृतीयं यत् तमोमयं
+
+Refutes both Meru and earth element in air position promptly .
 </details>
+
