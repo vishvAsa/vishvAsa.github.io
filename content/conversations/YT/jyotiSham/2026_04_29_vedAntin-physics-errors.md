@@ -6,6 +6,8 @@ title = "VedAntin physics errors"
 
 Source: [TW](https://youtu.be/k0c-y1pzTI8)
 
+vedantin physics errors- shankara, madhva, venkaTanAtha (not full-avatAras) vs AryabhaTa, bhaTTatiri
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Ref - https://vishvasa.github.io/jyotiSham/astrophysics/history/heliocentrism_spherical_flat_earth/#aryabhata-500-ad
