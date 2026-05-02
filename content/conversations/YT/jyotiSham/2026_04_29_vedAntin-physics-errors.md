@@ -23,7 +23,7 @@ Ref - https://vishvasa.github.io/jyotiSham/astrophysics/history/heliocentrism_sp
 11:50 - **shankara's error** in ChandogyopaniShat, dramiDAchArya  
 15:25 - **madhva's error** (Ananda-tIrtha)  
 16:30 - vijaya-dhvaja, vAdIrAja, appayya-dIxita, vallabha, gauDIya vishvanAtha-chakravartI etc.  
-18:30 - **venkaTanAtha's error** in tattva-muktA-kalApa (**Correction** - meant arrow instead of bird)  
+18:30 - **venkaTanAtha's error** in tattva-muktA-kalApa (**Correction** - meant arrow instead of bird?). sarvArtha-siddhi error - https://youtube.com/shorts/Bd4v38ir-jI  
 21:30 - Relative velocity. Newton's v = u + at. See https://www.youtube.com/watch?v=_VE6RQWndTA   
 23:00 - Traditionalist **acknowledgements** - Veliyanallur Narayanachariar - https://www.youtube.com/watch?v=9e2wrJ-rcOg "ok for his time".   
 24:20 - **KS varadAchArya** - only-earth movement excuse.   
@@ -40,6 +40,37 @@ Ref - https://vishvasa.github.io/jyotiSham/astrophysics/history/heliocentrism_sp
 52:36 - History, metallurgy, biology deficiencies.   
 53:00 - **Conclusion**. Truely following vedAnta-deshika's foundational principles. pratyaxa supremacy.   
 </details>
+
+
+<div class="videoEmbed"  caption="Video" src="https://youtube.com/shorts/Bd4v38ir-jI"></div>
+
+Ball thrown up on carousel returns to hand - contra-rotating-earth vedAnta-deshika-yukti fails  
+Source: [TW](https://youtube.com/shorts/Bd4v38ir-jI)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Ball thrown up on carousel/ merry-go-round returns to hand - contra-rotating-earth vedAnta-deshika-yukti fails
+
+shrI vedAnta-deshika in sarvArtha-siddhi on tattva-muktA-kalApa 1.63 ("तद्भ्रान्तौ प्राक्प्रतीचोः प्रसजति पतने पत्रिणोस्तारतम्यं") -
+
+अत्रोत्क्षिप्ताश् शर-शिलादयः  
+स्वदेशे तद्-आसन्ने वा कथं निपतेयुः,  
+नित्यं च स्वदेशपश्चिमभाग एव तेषां निपातस्स्यात् ।  
+
+Argument made by vedAnta-deshika - 
+
+In case of rotation, 
+rock/ arrow thrown up  
+would not return to it's point of origin on the rotating object,  
+but would fall at some position away from it (along the counter-rotation-direction)
+
+Result of experiment: shrI venkaTanAtha was wrong. 
+
+Likely cause of intuition error - Lack of experimentation, inadequate physics training.
+
+Implication: This yukti is not adequate for dismissing earth's rotation, proposed by AryabhaTa.
+</details>
+
 
 ## alaukika places
 
