@@ -254,3 +254,19 @@ Tikakara (Anandagiri's) reference in the tika on Br. U. Bhashya
 Refutes both Meru and earth element in air position promptly .
 </details>
 
+## Trustworthiness
+> How can Vedanta Desika’s works be trusted if he believed in a geocentric model? @beigomaacademymathsclub5873
+
+No one is asking you to "trust" vedAnta-deshika's (or anyone else's) works as works of God. If you find value in the arguments presented, take it. Otherwise leave it. We don't burn heretics on the stake or put you under house arrest as a the Euro Christians did with Galileo.
+
+> So are titles like Kavi Tarkika Simha and Sarva Tantra Svatantra merely meaningless or exaggerated? - @beigomaacademymathsclub5873
+
+They're very meaningful - his demolition of shankara and co - whether with poetry or with logic is a delight (which even appayya, a later shAnkaran savant admired).
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+How can Vedanta Desika’s works be trusted if he believed in a geocentric model? This ultimately reduces him to just another ordinary human, later hyped by his followers. It also calls into question the story of Hayagriva blessing Vedanta Desika at Tiruvaheendrapuram—was it nothing more than a fabrication? How can someone make such mistakes if he was truly blessed by none other than Hayagriva?
+So are titles like Kavi Tarkika Simha and Sarva Tantra Svatantra merely meaningless or exaggerated? Does this also imply that Vedanta Desika was not truly bestowed with “mayarvara mayarnalam”?
+
+@beigomaacademymathsclub5873
+</details>
