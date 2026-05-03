@@ -41,15 +41,41 @@ Ref - https://vishvasa.github.io/jyotiSham/astrophysics/history/heliocentrism_sp
 53:00 - **Conclusion**. Truely following vedAnta-deshika's foundational principles. pratyaxa supremacy.   
 </details>
 
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/VI-tecAz7rY"></div>
 
-<div class="videoEmbed"  caption="Video" src="https://youtube.com/shorts/Bd4v38ir-jI"></div>
-
-Ball thrown up on carousel returns to hand - contra-rotating-earth vedAnta-deshika-yukti fails  
-Source: [TW](https://youtube.com/shorts/Bd4v38ir-jI)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Ball thrown up on carousel/ merry-go-round returns to hand - contra-rotating-earth vedAnta-deshika-yukti fails
+Source: [TW](https://youtu.be/VI-tecAz7rY)
+
+https://youtu.be/VI-tecAz7rY
+vedAnta-deshika's pratyakSha, non-experimentation intuition vs Rotation, gravity, spherical earth.
+
+00:10 - mangalam
+00:40 - Intro. vedAntin physics errors. Causes and implications. Noble tradition & intent vs implementation failure.
+03:35 - Extraordinary vedAnta-deshika's sarvArthasiddhi. Our fulfillment.
+04:40 - **Erroneous intuition 1.** Object thrown up from a rotating object reaches hand. https://youtube.com/shorts/Bd4v38ir-jI Inertia. Initial velocity. vedAnta-deshika in sarvArtha-siddhi (सर्वार्थसिद्धिः) on tattva-muktA-kalApa (तत्त्व-मुक्ता-कलापः).
+08:50 - AryabhaTa's rotating disk model.
+11:30 - Lateral movement on birds and arrows from rotating object. vedAnta-deshika, varAhamihira ~600CE.
+13:55 - Rarity of air at altitude
+16:30 - **Erroneous intuition 2.** Falling weights reach ground at same time. https://youtube.com/shorts/n9F6SZiWaGw 
+19:10 - Galileo vs Aristóteles, vedAnta-deshika. 
+23:45 - **Spherical earth and gravity**. vedAnta-deshika's pUrvapaxa. 
+27:40 - Aristotle (384–322 BCE) & stars at lattitudes, ships disappear hull-first, Lunar Eclipses. 
+30:35 - Eratosthenes (c. 276 – c. 195 BCE) and shadow angles at lattitudes. Calculated radius of earth.
+32:00 - lalla of lATa 750CE, bhAskara-kaNTha. Vatasseri Parameshvara Nambudiri ( c. 1380–1460) and spherical grahas
+36:00 - venkaTanAtha's dismissal. pratyaxa-lack. 
+37:00 - **Primacy of pratyaxa**, even when **aided by gaNita/ anumAna** as per vedAnta-deshika in sarvArtha-siddhi. प्रत्यक्ष-विरोधाभावाच् च। गणितादिविरोधः।
+41:00 - **Primacy of pratyaxa** per yAmuna, rAmAnuja, vedAnta-deshika. anumAna only supports pratyaxa and shabda - can't violate.
+46:00 - Solid principles, wide knowledge of scripture and theories vs Inadequate data gathering, experimentation, measurement, mathematical modelling. Cultural defect.  
+49:40 - Jñānarāja CE 1500's **nirvAha of purANa-s**. kalpa-bheda. Cosmic being's body. dRShTi-vidhi and mImAMsA.
+51:25 - **Conclusion**. **Fulfillment** of AchAryas' principles. **Love truth** more than pride. 
+</details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Ball thrown up on carousel/ merry-go-round returns to hand - contra-rotating-earth vedAnta-deshika-yukti fails  
+Source: [TW](https://youtube.com/shorts/Bd4v38ir-jI)
 
 shrI vedAnta-deshika in sarvArtha-siddhi on tattva-muktA-kalApa 1.63 ("तद्भ्रान्तौ प्राक्प्रतीचोः प्रसजति पतने पत्रिणोस्तारतम्यं") -
 
@@ -70,6 +96,19 @@ Likely cause of intuition error - Lack of experimentation, inadequate physics tr
 
 Implication: This yukti is not adequate for dismissing earth's rotation, proposed by AryabhaTa.
 </details>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Falling weights reach ground at same time. Galileo vs Aristóteles, vedAnta-deshika  
+Source: [TW](https://youtube.com/shorts/n9F6SZiWaGw)
+
+वेदान्त-देशिकः सर्वार्थसिद्धौ -
+
+गौरव-प्रकर्ष-काष्ठा-भूताद् भू-मण्डलाद्  
+अतिलघीयसां रजः-प्रभृतीनाम् अधिक-पतन-कल्पनं चोपहास्यम् ।
+
+</details>
+
 
 
 ## alaukika places
