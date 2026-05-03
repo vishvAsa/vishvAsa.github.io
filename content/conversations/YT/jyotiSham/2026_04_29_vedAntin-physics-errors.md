@@ -54,7 +54,7 @@ vedAnta-deshika's pratyakSha, non-experimentation intuition vs Rotation, gravity
 00:10 - mangalam
 00:40 - Intro. vedAntin physics errors. Causes and implications. Noble tradition & intent vs implementation failure.
 03:35 - Extraordinary vedAnta-deshika's sarvArthasiddhi. Our fulfillment.
-04:40 - **Erroneous intuition 1.** Object thrown up from a rotating object reaches hand. https://youtube.com/shorts/Bd4v38ir-jI Inertia. Initial velocity. vedAnta-deshika in sarvArtha-siddhi (सर्वार्थसिद्धिः) on tattva-muktA-kalApa (तत्त्व-मुक्ता-कलापः).
+04:40 - **Erroneous intuition 1.** Object thrown up from a rotating object doesn't fall behind. https://youtube.com/shorts/Bd4v38ir-jI Inertia. Initial velocity. vedAnta-deshika in sarvArtha-siddhi (सर्वार्थसिद्धिः) on tattva-muktA-kalApa (तत्त्व-मुक्ता-कलापः).
 08:50 - AryabhaTa's rotating disk model.
 11:30 - Lateral movement on birds and arrows from rotating object. vedAnta-deshika, varAhamihira ~600CE.
 13:55 - Rarity of air at altitude
@@ -74,8 +74,9 @@ vedAnta-deshika's pratyakSha, non-experimentation intuition vs Rotation, gravity
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Ball thrown up on carousel/ merry-go-round returns to hand - contra-rotating-earth vedAnta-deshika-yukti fails  
 Source: [TW](https://youtube.com/shorts/Bd4v38ir-jI)
+
+Ball thrown up on carousel/ merry-go-round doesn't fall behind - contra-rotating-earth vedAnta-deshika-yukti fails
 
 shrI vedAnta-deshika in sarvArtha-siddhi on tattva-muktA-kalApa 1.63 ("तद्भ्रान्तौ प्राक्प्रतीचोः प्रसजति पतने पत्रिणोस्तारतम्यं") -
 
@@ -88,9 +89,9 @@ Argument made by vedAnta-deshika -
 In case of rotation, 
 rock/ arrow thrown up  
 would not return to it's point of origin on the rotating object,  
-but would fall at some position away from it (along the counter-rotation-direction)
+but would fall at some position backwards from it (along the counter-rotation-direction)
 
-Result of experiment: shrI venkaTanAtha was wrong. 
+Result of experiment: shrI venkaTanAtha was wrong. (Absence of centripetal force during the time in air causes the ball to proceed along the tangent at the point of release, like a slingshot (ignoring air resistence). For short heights relative to the radius, the place of return would be very close to the take-off-point.)
 
 Likely cause of intuition error - Lack of experimentation, inadequate physics training.
 
@@ -259,9 +260,12 @@ Refutes both Meru and earth element in air position promptly .
 
 No one is asking you to "trust" vedAnta-deshika's (or anyone else's) works as works of God. If you find value in the arguments presented, take it. Otherwise leave it. We don't burn heretics on the stake or put you under house arrest as a the Euro Christians did with Galileo.
 
+## Logical prowess
 > So are titles like Kavi Tarkika Simha and Sarva Tantra Svatantra merely meaningless or exaggerated? - @beigomaacademymathsclub5873
 
 They're very meaningful - his demolition of shankara and co - whether with poetry or with logic is a delight (which even appayya, a later shAnkaran savant admired).
+
+Further, flaws in physical data collection have been mentioned, not flaws in textual data collection and logic (which remain stupendous). 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
