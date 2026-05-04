@@ -2,6 +2,7 @@
 title = "VedAntin physics errors"
 +++
 
+## tattva-muktA-kalApa error
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/k0c-y1pzTI8"></div>
 
 Source: [TW](https://youtu.be/k0c-y1pzTI8)
@@ -41,6 +42,8 @@ Ref - https://vishvasa.github.io/jyotiSham/astrophysics/history/heliocentrism_sp
 53:00 - **Conclusion**. Truely following vedAnta-deshika's foundational principles. pratyaxa supremacy.   
 </details>
 
+## sarvArtha-siddhi error
+
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/VI-tecAz7rY"></div>
 
 
@@ -54,11 +57,11 @@ vedAnta-deshika's pratyakSha, non-experimentation intuition vs Rotation, gravity
 00:10 - mangalam
 00:40 - Intro. vedAntin physics errors. Causes and implications. Noble tradition & intent vs implementation failure.
 03:35 - Extraordinary vedAnta-deshika's sarvArthasiddhi. Our fulfillment.
-04:40 - **Erroneous intuition 1.** Object thrown up from a rotating object doesn't fall behind. https://youtube.com/shorts/Bd4v38ir-jI Inertia. Initial velocity. vedAnta-deshika in sarvArtha-siddhi (सर्वार्थसिद्धिः) on tattva-muktA-kalApa (तत्त्व-मुक्ता-कलापः).
+04:40 - **Erroneous intuition 1.** Object thrown up from a rotating object doesn't fall behind. https://youtube.com/shorts/Bd4v38ir-jI (**Title & description corrected.**) Inertia. Initial velocity. vedAnta-deshika in sarvArtha-siddhi (सर्वार्थसिद्धिः) on tattva-muktA-kalApa (तत्त्व-मुक्ता-कलापः).
 08:50 - AryabhaTa's rotating disk model.
 11:30 - Lateral movement on birds and arrows from rotating object. vedAnta-deshika, varAhamihira ~600CE.
 13:55 - Rarity of air at altitude
-16:30 - **Erroneous intuition 2.** Falling weights reach ground at same time. https://youtube.com/shorts/n9F6SZiWaGw 
+16:30 - **Erroneous intuition 2.** Falling weights reach ground at same time. https://youtube.com/shorts/n9F6SZiWaGw This is modulo air-resistence (https://www.youtube.com/watch?v=CUnDNk6Tqxc), which he does not recognize ("उपष्टम्भकादि-विशेषस्यानभ्युपगमात्" in the next sentence) - a separate flaw.
 19:10 - Galileo vs Aristóteles, vedAnta-deshika. 
 23:45 - **Spherical earth and gravity**. vedAnta-deshika's pUrvapaxa. 
 27:40 - Aristotle (384–322 BCE) & stars at lattitudes, ships disappear hull-first, Lunar Eclipses. 
