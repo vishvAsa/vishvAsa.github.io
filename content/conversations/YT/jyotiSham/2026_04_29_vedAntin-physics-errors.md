@@ -114,7 +114,6 @@ Source: [TW](https://youtube.com/shorts/n9F6SZiWaGw)
 </details>
 
 
-
 ## alaukika places
 
 > Meru, Amravati, etc. places are not necessarily to be taken as literally physical places on Earth. In his Upanishada Bhashya, in accordance with the Puranas, Bhagawatpada Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones, as it would not be of much use to include the description of a laukika thing which can be known from Pratyakshaadi pramanas, in Bhashya on Vedas. Though some Pauranikas have conflated this Adhidaivika description with the description of Laukika world, it should not be done so, as can be understood from what Parikshit is told by Yogendra Shukacharya in Bhagwata Purana. - @OkK-c4y 
@@ -283,4 +282,26 @@ So are titles like Kavi Tarkika Simha and Sarva Tantra Svatantra merely meaningl
 
 @beigomaacademymathsclub5873
 </details>
+
+## Propreity of prabhAva-vyavasthA
+> Pointing out errors in your AchArya shakes the confidence other followers have in him. Eg. XYZ above.
+
+This is not so.  
+VedAnta deshika curtailed exaggerations about the greatness of prapatti in prabhAva-vyavasthAdhikAra.  
+Just as that cannot be taken as an insult to prapatti's greatness, or as shaking the belief of followers thereof; the same is true here (deshika-prabhAva-vyvasthA).
+
+XYZ is likely a shAnkara; so cannot be considered an example. (देशिकाभिमानिन उद्वेजयितुं तस्य काले कालय् ईदृशः प्रयासो भवति। स च सम्यक् प्रत्याख्यातः, पुरा ऽधुना च। प्राचीनार्वाचीन-शाङ्करखण्डनैस् तेषाम् मयि महान् कोप इत्य् अवसर-प्रतीक्षास् तत्र केचित् प्रत्युत्पतन्ति।)
+
+### Going to hell?
+> यो विष्णोः प्रतिमाकारे  
+लोह-भावं **करोति** च ।  
+यो गुरौ मानुषं भावम्  
+उभौ नरक-पातिनौ ॥ २२ ॥
+
+pertains only to those who see _only_ non-divinity in a guru. I don't deny divine aspects.
+
+## madhva's avatAratva
+> The Avataratraya of Madhvacharya is not a figment of imagination but has the sanction of the Vedas and the Puranas. You may refer to the Balittha Sukta or for more on the Avatara hood of Acharya, you may refer to Yuktimallika of SRI Vadiraja Swamin. @harekrishna6402
+
+If he is an full avatAra, why did he still refuted the "more correct" pre-existing astronomical models. So, being based on errors visible to prataxa, the argument, made holds, being stronger than the scriptures you cite.
 
