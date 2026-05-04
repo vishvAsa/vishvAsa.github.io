@@ -267,6 +267,12 @@ They're very meaningful - his demolition of shankara and co - whether with poetr
 
 Further, flaws in physical data collection have been mentioned, not flaws in textual data collection and logic (which remain stupendous). 
 
+> VD ought to be considered to be blemishless since he was blessed none by Hayagriva? If so how can he make a mistake?  @beigomaacademymathsclub5873
+
+No - there is no such rule. brahma himself is said to have created tAmasa purANa-s when overcome by the corresponding guNa despite being very blessed by nArAyaNa.
+
+
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 How can Vedanta Desika’s works be trusted if he believed in a geocentric model? This ultimately reduces him to just another ordinary human, later hyped by his followers. It also calls into question the story of Hayagriva blessing Vedanta Desika at Tiruvaheendrapuram—was it nothing more than a fabrication? How can someone make such mistakes if he was truly blessed by none other than Hayagriva?
@@ -274,3 +280,4 @@ So are titles like Kavi Tarkika Simha and Sarva Tantra Svatantra merely meaningl
 
 @beigomaacademymathsclub5873
 </details>
+
