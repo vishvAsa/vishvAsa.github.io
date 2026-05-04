@@ -258,7 +258,7 @@ Refutes both Meru and earth element in air position promptly .
 </details>
 
 ## Trustworthiness
-> How can Vedanta Desika’s works be trusted if he believed in a geocentric model? @beigomaacademymathsclub5873
+> How can Vedanta Desika’s works be trusted if he believed in a geocentric model? @beigomaacademymathsclub5873 (Jayesvara kumar)
 
 No one is asking you to "trust" vedAnta-deshika's (or anyone else's) works as works of God. If you find value in the arguments presented, take it. Otherwise leave it. We don't burn heretics on the stake or put you under house arrest as a the Euro Christians did with Galileo.
 
@@ -303,5 +303,5 @@ pertains only to those who see _only_ non-divinity in a guru. I don't deny divin
 ## madhva's avatAratva
 > The Avataratraya of Madhvacharya is not a figment of imagination but has the sanction of the Vedas and the Puranas. You may refer to the Balittha Sukta or for more on the Avatara hood of Acharya, you may refer to Yuktimallika of SRI Vadiraja Swamin. @harekrishna6402
 
-If he is an full avatAra, why did he still refuted the "more correct" pre-existing astronomical models. So, being based on errors visible to prataxa, the argument, made holds, being stronger than the scriptures you cite.
+If he is an full avatAra, why did he still refute the "more correct" pre-existing astronomical models. So, being based on errors visible to prataxa, the argument made holds, being stronger than whatever scriptures you cite.
 
