@@ -290,6 +290,9 @@ This is not so.
 VedAnta deshika curtailed exaggerations about the greatness of prapatti in prabhAva-vyavasthAdhikAra.  
 Just as that cannot be taken as an insult to prapatti's greatness, or as shaking the belief of followers thereof; the same is true here (deshika-prabhAva-vyvasthA).
 
+Further, our AchArya-s instruct us this shruti - "यान्य् अस्माकं सुचरितानि, तानि त्वयोपास्यानि, नो इतराणि".  
+So, one is obviously needed to respectfully identify errors of our AchArya-s for our own practice, as well as to protect our sampradAya from continued error.
+
 XYZ is likely a shAnkara; so cannot be considered an example. (देशिकाभिमानिन उद्वेजयितुं तस्य काले कालय् ईदृशः प्रयासो भवति। स च सम्यक् प्रत्याख्यातः, पुरा ऽधुना च। प्राचीनार्वाचीन-शाङ्करखण्डनैस् तेषाम् मयि महान् कोप इत्य् अवसर-प्रतीक्षास् तत्र केचित् प्रत्युत्पतन्ति।)
 
 ### Going to hell?
