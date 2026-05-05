@@ -407,21 +407,6 @@ If he is an full avatAra, why did he still refute the "more correct" pre-existin
 > Pointing out errors in your AchArya shakes the confidence other followers have in him. Eg. XYZ above.
 
 This is not so.  
-VedAnta deshika curtailed exaggerations about the greatness of prapatti in prabhAva-vyavasthAdhikAra.  
-Just as that cannot be taken as an insult to prapatti's greatness, or as shaking the belief of followers thereof; the same is true here (deshika-prabhAva-vyvasthA).
-
-Further, our AchArya-s instruct us this shruti - "यान्य् अस्माकं सुचरितानि, तानि त्वयोपास्यानि, नो इतराणि".  
-So, one is obviously needed to respectfully identify errors of our AchArya-s for our own practice, as well as to protect our sampradAya from continued error.
-
 XYZ is likely a shAnkara; so cannot be considered an example. (देशिकाभिमानिन उद्वेजयितुं तस्य काले कालय् ईदृशः प्रयासो भवति। स च सम्यक् प्रत्याख्यातः, पुरा ऽधुना च। प्राचीनार्वाचीन-शाङ्करखण्डनैस् तेषाम् मयि महान् कोप इत्य् अवसर-प्रतीक्षास् तत्र केचित् प्रत्युत्पतन्ति।)
 
-### Going to hell?
-> यो विष्णोः प्रतिमाकारे  
-लोह-भावं **करोति** च ।  
-यो गुरौ मानुषं भावम्  
-उभौ नरक-पातिनौ ॥ २२ ॥
-
-This pertains only to those who see _only_ non-divinity in a guru. I don't deny divine aspects.
-
-This corresponds to "आचार्यदवो भव", which cooccurs with "यान्य् अस्माकं सुचरितानि, तानि त्वयोपास्यानि, नो इतराणि" quoted above.
-
+For the rest, see [separate page](/rAmAnujIyam/kriyA/venkaTa-nAtha-shAkhA/vishvAsa-sankalanam/AchArye_vRttiH). 
