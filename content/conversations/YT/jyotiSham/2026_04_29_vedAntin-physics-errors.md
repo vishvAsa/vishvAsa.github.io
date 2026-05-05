@@ -270,7 +270,7 @@ Correct. This occurred to me the night I made the video, and I corrected the des
 
 > So, pratyaksha still suggests the ball lands somewhere in the rear quadrants. @sreeki123
 
-Strictly speaking yes, it would fall close to the border in the previous quadrant, outwards (VD did not mention this - his intuition was still flawed). But see below.
+Strictly speaking yes, it would fall close to the border in the previous quadrant, outwards (From his many examples, VD didn't understand both the direction and magnitude of the relative tangential velocity - his intuition was still flawed). But see below.
 
 > In your experiment, the rotation speed and the height gained by the ball indicate a magnitude of tangential and vertical force components on the ball not significant enough, giving a perception that it landed right at the point where it was released. - @sreeki123
 
@@ -322,7 +322,7 @@ You don't have to - they can't all be correct since they contradict each other.
 
 > How can Vedanta Desika’s works be trusted if he believed in a geocentric model? @beigomaacademymathsclub5873 (Jayesvara kumar)
 
-No one is asking you to "trust" vedAnta-deshika's (or anyone else's) works as works of God. If you find value in the arguments presented, take it. Otherwise leave it. We don't burn heretics on the stake or put you under house arrest as a the Euro Christians did with Galileo.
+No one is asking you to "trust" vedAnta-deshika's (or anyone else's) works as works of God. If you find value in the arguments presented, take it. Otherwise leave it. We don't burn heretics on the stake or put you under house arrest as the Euro Christians did with Galileo.
 
 ### Logical prowess
 > So are titles like Kavi Tarkika Simha and Sarva Tantra Svatantra merely meaningless or exaggerated? - @beigomaacademymathsclub5873
