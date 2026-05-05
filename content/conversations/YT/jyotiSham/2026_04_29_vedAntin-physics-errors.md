@@ -342,6 +342,31 @@ _After_ that happens, the intellectual aspect comes forth; and then it's not har
  I understand where you are coming from, with true analytic thought process. Many including me want to follow a Guru/Acharya who is infallible and get angry or dejected when he makes mistakes (Never meet your heroes). On the other hand, it is really difficult to try understanding concepts (like picking food in a buffet dinner) from different teachers of different times. It may be true for scientific / literary endevours (lots of analysis has gone into Panini's mistakes, Apaniniya Prayogas by other greats, mistakes in Siddhanta Kaumudi etc) but in Adyatma vishaya we need vishwasa (!) and that gets shaken when we come across mistakes.
 </details>
 
+> I have a question, I agree that Pratyaksha has highest importance regarding material knowledge, for spiritual matter then how can we completely trust shaastras if it contradicts on the material knowledge how can it be true for spiritual knowledge, or is it like as we don’t have anyother means to gain spiritual knowledge so, we rely on shaastras by having leap of faith. In that case how are Vedas different from abrahamic scriptures. - @saptarshimukherjee6622
+
+यथा खलु जयन्तभट्टो वक्ति -
+
+> अविच्छिन्ना येषां वहति सरणिः सर्वविदिता,  
+न यत्रार्यो लोकः परिचय-कथालाप-विमुखः।  
+यदिष्टानुष्ठानं न खलु जनभयं न सभयं,  
+न रूपं येषां च स्फुरति नवम् अभ्युत्थितम् इव॥
+
+> प्रमत्तगीतत्वम् अलौकिकत्वम्  
+आभाति लोभादि न यत्र मूलम्।  
+तथा-विधानाम् अयम् आगमानाम्  
+प्रामाण्य-मार्गो न तु यत्र तत्र॥
+
+AI translation - 
+
+> Whose path flows, unbroken and known to all,  
+Where noble people are not averse to association, conversation, and discourse.  
+Whose desired actions are performed without fear of the populace or of the assembly,  
+And whose form does not flash forth as if newly risen (with arrogance).  
+
+> Inspired utterance and an uncommon nature shine forth,  
+Where greed and other vices are not the root.  
+For such sacred texts (or traditions), this is the path to authority,  
+And not just any which way (or, found everywhere).
 
 ### Logical prowess
 > So are titles like Kavi Tarkika Simha and Sarva Tantra Svatantra merely meaningless or exaggerated? - @beigomaacademymathsclub5873
