@@ -270,7 +270,9 @@ Correct. This occurred to me the night I made the video, and I corrected the des
 
 > So, pratyaksha still suggests the ball lands somewhere in the rear quadrants. @sreeki123
 
-Strictly speaking yes, it would fall close to the border in the previous quadrant, outwards (From his many examples, VD didn't understand both the direction and magnitude of the relative tangential velocity - his intuition was still flawed). But see below.
+Strictly speaking yes, it would fall close to the border in the previous quadrant, outwards. 
+
+However, VD correctly grasped the fact that the rotation is locally approximated by translation (linear motion) along the tangent. Within this framework, he was wrong. Also, see below.
 
 > In your experiment, the rotation speed and the height gained by the ball indicate a magnitude of tangential and vertical force components on the ball not significant enough, giving a perception that it landed right at the point where it was released. - @sreeki123
 
