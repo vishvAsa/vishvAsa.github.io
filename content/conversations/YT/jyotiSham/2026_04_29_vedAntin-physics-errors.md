@@ -280,6 +280,12 @@ The experiment is realistic in that the height gained by an arrow or stone throw
 
 Note that vedAnta deshika could not conceive how such an object would fall _anywhere close_ to its point of origin (not just its exact location). So, his intuition remains wrong.
 
+
+> As a follow-up, i would like to know if there is any evidence that Swami Desika considered a local approximation for the rotating disc problem?  - @sreeki123
+
+It's apparent in the linearity of the examples he choses - birds (or arrows) go east or west; objects thrown up end up "somewhere" west etc.  
+There he did not grasp the relative velocity of the object in air.
+
 ## Air resistence and falling objects
 > Regarding the experiment with objects with different mass hitting ground at same time: ... The objects you chose in your experiment do not have a significant mass differential to be influenced by air resistance in turn leading to a perceivable differential in descent time. A feather still takes longer to land than a stick or a ball. They would land at the same time only in vacuum. Swami Desika may have generalized it based on perception again. - @sreeki123
 
@@ -326,6 +332,17 @@ You don't have to - they can't all be correct since they contradict each other.
 
 No one is asking you to "trust" vedAnta-deshika's (or anyone else's) works as works of God. If you find value in the arguments presented, take it. Otherwise leave it. We don't burn heretics on the stake or put you under house arrest as the Euro Christians did with Galileo.
 
+> Many including me want to follow a Guru/Acharya who is infallible and get angry or dejected when he makes mistakes ... in Adyatma vishaya we need vishwasa (!) and that gets shaken when we come across mistakes. - @srikkanthank
+
+Lucky people get attached to an AchArya's personality by lengthy observation (of which interviews would be a small part).   
+_After_ that happens, the intellectual aspect comes forth; and then it's not hard for recalibrating expectations from AchArya-s.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+ I understand where you are coming from, with true analytic thought process. Many including me want to follow a Guru/Acharya who is infallible and get angry or dejected when he makes mistakes (Never meet your heroes). On the other hand, it is really difficult to try understanding concepts (like picking food in a buffet dinner) from different teachers of different times. It may be true for scientific / literary endevours (lots of analysis has gone into Panini's mistakes, Apaniniya Prayogas by other greats, mistakes in Siddhanta Kaumudi etc) but in Adyatma vishaya we need vishwasa (!) and that gets shaken when we come across mistakes.
+</details>
+
+
 ### Logical prowess
 > So are titles like Kavi Tarkika Simha and Sarva Tantra Svatantra merely meaningless or exaggerated? - @beigomaacademymathsclub5873
 
@@ -357,8 +374,7 @@ If he is an full avatAra, why did he still refute the "more correct" pre-existin
 ## Propreity of prabhAva-vyavasthA
 > अभिनन्दनानि। श्लाघनीयोऽयमायासः, विशेषतः यतः सत्यमनुसृत्य स्वसंप्रदायगताचार्याणां दुराग्रहो भवता त्रोटितः। बहवः स्वसंप्रदायगौरववशात् सत्यमेव अपह्नुवते। @LokeshSharmaa
 
->
-I really like your videos and content. We are indeed blessed that you have chosen to share your thoughts on these concepts. @sreeki123
+> I really like your videos and content. We are indeed blessed that you have chosen to share your thoughts on these concepts. @sreeki123
 
 🙏
 
