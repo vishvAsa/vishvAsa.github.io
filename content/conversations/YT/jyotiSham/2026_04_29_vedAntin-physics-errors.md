@@ -355,6 +355,9 @@ If he is an full avatAra, why did he still refute the "more correct" pre-existin
 ## Propreity of prabhAva-vyavasthA
 > अभिनन्दनानि। श्लाघनीयोऽयमायासः, विशेषतः यतः सत्यमनुसृत्य स्वसंप्रदायगताचार्याणां दुराग्रहो भवता त्रोटितः। बहवः स्वसंप्रदायगौरववशात् सत्यमेव अपह्नुवते। @LokeshSharmaa
 
+>
+I really like your videos and content. We are indeed blessed that you have chosen to share your thoughts on these concepts. @sreeki123
+
 🙏
 
 
