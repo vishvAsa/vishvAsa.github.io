@@ -4,6 +4,7 @@ title = "SadanuShThAna-darpaNa lies"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
+- madhurAntakam-IchchambADi-vIrarAghava's (**madhurAntakam svAmi**)'s 1970s dismissal found in NYPL.
 - Lies about rAmAnuja-shrI-bhAShya - "अनुष्ठेयं बादरायणः साम्य-श्रुतेः". Contradicts sUtra! Check with Dr Venkatesh etc. 
 - फलोक्तिमात्रेण?? "अशुद्धम् इति चेन् न शब्दात्"। :-D "ब्रह्मचर्यं समाप्य गृही भवेत्"।
 - Lies about rAmAnuja-shrI-bhAShya - तुल्यं तु दर्शनम्
@@ -19,6 +20,7 @@ title = "SadanuShThAna-darpaNa lies"
 - vaishvadeva - phalokti, pratyavAyokti similar to sandhyAvandanam. 
 - Follow fashion! vaishvadeva brAhmaNa in shrAddhas.
 - why not leave sandhyAvandanam? "ईश्वरो नाधो निनीषति" - Argument by poetry.
+- vAsudeva-saMhitA handling - अनुयागस् तदा ऽकार्यः, अनुः हीने। 
 - SR's **confusions** - ekAyana an actual veda-shAkhA. Not against pAncharAtra augmentation (5-kAlas from mahAbhArata)! Purpose of Agama-prAmANya. kali-varjyas, shiShTAchAra. Bigotry. No padma award for kAnchI aNNangara. Repudiations; 1954 DTT; by a housewife. 
 - Result - **degeneracy**. Ideal vs approximation. Public promotion. Authority-claim challenged. 
 - Not a role model. Good wishes.
