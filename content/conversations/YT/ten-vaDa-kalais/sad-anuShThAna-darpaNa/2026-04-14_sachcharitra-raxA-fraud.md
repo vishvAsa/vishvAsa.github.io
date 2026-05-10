@@ -2,11 +2,9 @@
 title = "2026 04 14 - sachcharitraraxA"
 +++
 
-## Vid
-sachcharitraraxA fraud - shrIvaiShNava-samayAchAra-niShkarSha→ shuddha-sattva varadAchArya → SR → YT
+## sachcharitraraxA fraud - shrIvaiShNava-samayAchAra-niShkarSha→ shuddha-sattva varadAchArya → SR → YT
 
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/KP5wNawjSZM"></div>
-
 
 
 <details><summary>विश्वास-टिप्पनी</summary>
@@ -36,6 +34,39 @@ Source: [TW](https://youtu.be/KP5wNawjSZM)
 24:40 - Reminder on yAmuna's opinion on proper vaiShNava brAhmaNa practice
 25:15 - Conclusion
 </details>
+
+## rAmAnuja-shrI-bhAShya lies
+sad-anuShThAna-darpaNa - rAmAnuja-shrI-bhAShya lies, discards manavALa-mAmuni vs madhurAntaka-svAmi 
+
+Source: [TW](https://youtu.be/3hWpcii3BDc)
+
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - मङ्गलम्
+00:50 - Intro - (**sad-anuShThAna-darpaNa**/ sadanushtana/sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam/ Sadanushtanadarpanam) by shuddha-sattva-varadAchArya - provably fraudulent - fabricated shruti - https://youtu.be/djK61750fbM , sachcharitra-raxA, Apastamba-dharma-sUtra, aboriginal quotes shamelessly justified https://youtu.be/KP5wNawjSZM
+03:30 - madhurAntakam-IchchambADi-vIrarAghava's (**madhurAntakam svAmi**)'s 1970s dismissal found in NYPL.
+03:30 - Lies about **rAmAnuja-shrI-bhAShya** - "अनुष्ठेयं बादरायणः साम्य-श्रुतेः". Contradicts sUtra! Check with Dr Venkatesh etc. "ब्रह्मचर्यं समाप्य गृही भवेत्"। 
+11:40 - Lies about rAmAnuja-shrI-bhAShya - **अशुद्धम् इति चेन् न शब्दात्**। 
+17:38 - Lies about rAmAnuja-shrI-bhAShya - **तुल्यं तु दर्शनम्** and **सहकारित्वेन च** (Error in presentation order acked)
+21:30 - vaishvadeva - **फलोक्तिमात्रेण** काम्यत्वम्? अशुद्धम् इति चेन् न शब्दात्।  
+22:00 - phalokti, pratyavAyokti similar to **sandhyAvandanam**. why not leave sandhyAvandanam? "ईश्वरो नाधो निनीषति" - Argument by poetry.
+25:20 - Pure hypocracy - quotes **shrIdhara-bhAShya of taittirIyopaniShat** endorsing Apastamba, not mahAlaya-shrAddham; while throwing him into the dust-bin for vaishvadeva and Ashrama-karmas. ("आपस्तम्बोक्तानि त्वया संस्कारवता तानि +उपास्यानि")
+27:20 - **Forbids lokasangraha** (unlike brahmayajna) “सङ्ग्रहाय च लोकानाम्". Even kAmyArchana - न हि … काम्यार्चनाद्य्-अवकाशः।
+30:30 - **vaishvadeva** required by **sages**? "That's for aprapannas". यस्याग्नौ न कृतम् …
+31:40 - vaishvadeva - major **pAncharAtra** saMhitAs ordain? "That's for mandAdhikAri prapannas". 
+33:40 - vaishvadeva required by **own AchArya-s** ("होमाद्य्-अनुयागान्तम्")? That's for "mandAdhikAri prapannas". "न कुत्सिताहृतं नैव जुगुप्सावदसंस्कृतम् ।" इत्यत्र विष्णुचित्तः "अ-संस्कृतं - वैश्वदेवादिना"। मामुनि in periya-tirumoLHi vyAkhyAnam of भूतम् ऐन्दोडु. 
+37:40 - भागवत-श्रीधर-स्वामी citations.
+38:40 - घण्टानादे - पराशरभट्ट-प्रजाः - दर्पणेन तस्य तर्पणं स्याद् अपि ॥ 
+39:20 - rAmAnuja-nitya-grantha commonality - अनुक्तम् अन्यतो ग्राह्यम्। 
+40:30 - **Follow fashion**! vaishvadeva brAhmaNa in shrAddhas.
+41:20 - IchchambADi-vIrarAghava handling of **vAsudeva-saMhitA** - अनुयागस् तदा ऽकार्यः, अनुः हीने। 
+44:10 - Result - **degeneracy**. Ideal vs approximation. Public promotion. Authority-claim challenged. 
+44:50 - Not a role model. Good wishes.
+</details>
+
+
 
 
 ## sampradAya wellbeing
