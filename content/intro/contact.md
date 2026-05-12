@@ -17,8 +17,8 @@ You can verify my messages by using:
 ### Voice/text-messaging IM!
 Number used below +९१ ९५९१२६८५०६
 
-- telegram (preferred)
-- whatsapp (don't like it, but I do check it)
+- telegram ([TE](https://rebrand.ly/ask-vv-te))
+- whatsapp - https://rebrand.ly/ask-vv-wa
 
 ### Internet chat:
 
