@@ -151,6 +151,12 @@ And the Brhadaranyak Bhashya quotating is not relevant at all. Night is the shad
 Overall, the inclusion of Shankaracharya here seems forced here, and may I say, agenda driven. The basic distinction of Bhautika and Adhidaivika descriptions is quite well-known. Had he discussed some Jyotisha and Ganita here, as others did, then a critique was warranted for sure. But not here.
 </details>
 
+### bhArata is disk-world?
+> It is not possible Swamy Vedanta Desika did any mistake.Actually out earth not full bhu loka We can consider only Bharat Varsha is known as earth which we can see in Kali yuga.other Divya deapa and other 6 Varsha we can not see in Kaliyuga. - @AAGKKJ
+
+In sanskrit language and literature (also the shAstra-s), bharata-varSha is not synonymous with bhU-loka.
+
+
 
 ### meru-model plausibility
 > Assuming we are at the centre of this model, the cyclical motion will never cause day and night, and we would be in eternal light. @OkK-c4y
