@@ -295,6 +295,11 @@ Note that vedAnta deshika could not conceive how such an object would fall _anyw
 It's apparent in the linearity of the examples he choses - birds (or arrows) go east or west; objects thrown up end up "somewhere" west etc.  
 There he did not grasp the relative velocity of the object in air.
 
+> Why is there no friction when i move opposite to earth's movement(465 m/s at equator!).Any physics student will understand that the ant on the rotating sphere will feel friction when it goes against the movement.And how continuous tsunamis are not happening 😂 at this speed! - @sricharan3026
+
+Relative velocity - seems like you don't grasp it.
+
+
 ## Air resistence and falling objects
 > Regarding the experiment with objects with different mass hitting ground at same time: ... The objects you chose in your experiment do not have a significant mass differential to be influenced by air resistance in turn leading to a perceivable differential in descent time. A feather still takes longer to land than a stick or a ball. They would land at the same time only in vacuum. Swami Desika may have generalized it based on perception again. - @sreeki123
 
@@ -329,6 +334,22 @@ This is incorrect. It was known from vaidika times (the famous aitareya brAhmaNa
 > Here again, i beg to differ that there may not have been a complete lack of experimentation by Swami Desika. It could be that the reasoning was just inconclusive or resulting from a hasty generalization. They may have also been results of "thought experiments" based upon observable world from their point of view. - @sreeki123
 
 If vedAnta deshika experimented, being the genius that he was, he would have done it carefully and perfectly. So it is very likely that he did not - it just didn't occur to him to experiment.
+
+### pratyaxa
+> We still didn't have pratyaksha of rotation per say,we r just taking imgs from Satellites.. @sricharan3026
+
+No - a person in India can call a person in America or Arabia at the same lattitude and confirm that pre-sunrise stars in the east are identical. This shows that earth rotates.
+
+Then there is Focault pendulum etc.. All this is well known.
+
+> to assume satellite can be stationary is inherent fault in an experiment, to assume it we have to prove it is free from all the gravitational or any type of pulls which no one in the world can't.. as per my knowledge or observe form earth whose motion or non motion  is at question. @sricharan3026
+
+Stationaryness is relative. Relative to the centers of earth and sun, a satellite can be stationary. Even if itis not, it can confirm earth's rotation even as sun stays fixed relative to background stars. 
+
+
+> Ultimately sabda only comes into play.Take words of scientists or follow Aptās.Nirdusta indryartha sannikarsa is incapable here. @sricharan3026
+
+No. You can do a lot of these experiments yourself.
 
 ## dhyAna method
 > bhuvana-jñānaṁ sūrye saṁyamāt

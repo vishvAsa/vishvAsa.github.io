@@ -20,7 +20,7 @@ title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 25:00 - Evidence easily available.
 25:30 - vedAnta-deshika quotes
 26:35 - Lies of 19th CE koyil-kandADai-**tirumaLHisai-aNNAv-appangAr**
-32:30 - Colophon referers to draviDa-vedAntAchArya.
+32:30 - Colophon referers to draviDa-vedAntAchArya (CORRECTION - refers to keshavAchArya, not venkaTanAtha). 
 34:15 - Other works - vedAnta-deshika - nyAsa-viMshatiH.
 34:25 - Other works - commentary on **vAdikesari aLagiya manavALa jIyar**'s adhyAtma-chintA. Honest explanation of author's opinion.
 38:30 - Counter examples of others twisting author's words in commentaries - 20th CE kAnchI aNNangarAchArya, shrI-yadugiri-rAma-mishra on vedAnta-deshika venkaTanAtha, nArada.
@@ -42,3 +42,16 @@ title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 1:09:35 - ahobila-maTha respect. orthodoxy. anuShThAna book popular among good tenkalais. conversion copes, heterodoxy. 
 1:11:15 - **Conclusion**. Recover from mistakes, don't make it into a tradition.
 </details>
+
+## Divergence
+> Could you please shed light if there is a common guru parampara till Desika? @mvpacharya2003
+
+No.
+
+> Why this differences came in the first place? @mvpacharya2003
+
+Different intellecual capacities and training rigor.
+
+> Did you discuss these disagreements with tenkalai school. @mvpacharya2003
+
+Yes.
