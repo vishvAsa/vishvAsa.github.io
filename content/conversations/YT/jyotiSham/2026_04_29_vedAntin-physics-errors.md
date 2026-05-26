@@ -118,11 +118,14 @@ Source: [TW](https://youtube.com/shorts/n9F6SZiWaGw)
 
 ### alaukika places
 
+> Sarga,visarga are the laksanas of a maha purana, More scientific understanding and errors of "pratyaksha" and of aryabhatta's theory can be observed in the above series - [TW](https://youtube.com/playlist?list=PLi0jknRok56mJ6KyUTUdQriLY-8U5JTDa&si=9lJUOfTfUswUs9cz).
+- @sricharan3026
+
 > Meru, Amravati, etc. places are not necessarily to be taken as literally physical places on Earth. In his Upanishada Bhashya, in accordance with the Puranas, Bhagawatpada Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones, as it would not be of much use to include the description of a laukika thing which can be known from Pratyakshaadi pramanas, in Bhashya on Vedas. Though some Pauranikas have conflated this Adhidaivika description with the description of Laukika world, it should not be done so, as can be understood from what Parikshit is told by Yogendra Shukacharya in Bhagwata Purana. - @OkK-c4y 
 
 This opinion is fabricated by people who can't cope with their AchArya being wrong -
 
-> Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones
+> Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones - @OkK-c4y
 
 So, it may be dismissed.
 
@@ -326,6 +329,20 @@ This is incorrect. It was known from vaidika times (the famous aitareya brAhmaNa
 > Here again, i beg to differ that there may not have been a complete lack of experimentation by Swami Desika. It could be that the reasoning was just inconclusive or resulting from a hasty generalization. They may have also been results of "thought experiments" based upon observable world from their point of view. - @sreeki123
 
 If vedAnta deshika experimented, being the genius that he was, he would have done it carefully and perfectly. So it is very likely that he did not - it just didn't occur to him to experiment.
+
+## dhyAna method
+> bhuvana-jñānaṁ sūrye saṁyamāt
+>
+> Translation: By practicing saṁyama of sūrya-dvāra (suṣumnā nāḍī), the Yogī obtains knowledge of all aspects of the universe. — (Yoga-sūtra, Vibhūti-pāda, Sūtra 26)
+>
+> What is saṁyama? The Yoga-sūtra (Vibhūti-pāda, Sūtra 4) says — trayam ekatra saṁyamaḥ — "To attain the three stages of dhāraṇā, dhyāna and samādhi on a single object is known as saṁyama".
+>
+> In the various commentaries to sūtra 26 mentioned above, all the traditional commentators viz. Śrī Vyāsa, Śrī Bhoja, Śrī Nāgeśa Bhaṭṭa, Śrī Rāmānanda, Śrī Sadāśivendra Sarasvatī etc. have described the same universe that is described in the Bhāgavatam and the other Purāṇas. Many of these commentators describe the fourteen planetary systems, the Meru, the pleasure gardens of svarga, the various oceans filled with various juices etc. - @sricharan3026
+
+This is exactly what was suggested by varadAchArya in the commentary cited in the video. 
+
+However all these meditators only got bhuvana-ajnAna, not bhuvana-jnAna.  
+Meditation, unfortunately, is not a reliable way of understanding the physical universe - careful observation and experimentation are far superior.
 
 ## Implications of error
 ### Trustworthiness
