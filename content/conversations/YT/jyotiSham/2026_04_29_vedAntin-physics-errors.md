@@ -296,7 +296,8 @@ There he did not grasp the relative velocity of the object in air.
 
 > Why is there no friction when i move opposite to earth's movement(465 m/s at equator!).Any physics student will understand that the ant on the rotating sphere will feel friction when it goes against the movement.And how continuous tsunamis are not happening 😂 at this speed! - @sricharan3026
 
-Relative velocity - seems like you don't grasp it.
+Relative velocity - seems like you don't grasp it.  
+You're welcome to conduct an experiment with the setup I demonstrated - your intuition and analysis can't contradict what you experience there.
 
 
 ## Air resistence and falling objects
