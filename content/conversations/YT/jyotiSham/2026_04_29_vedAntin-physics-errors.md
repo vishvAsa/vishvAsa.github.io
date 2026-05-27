@@ -118,8 +118,7 @@ Source: [TW](https://youtube.com/shorts/n9F6SZiWaGw)
 
 ### alaukika places
 
-> Sarga,visarga are the laksanas of a maha purana, More scientific understanding and errors of "pratyaksha" and of aryabhatta's theory can be observed in the above series - [TW](https://youtube.com/playlist?list=PLi0jknRok56mJ6KyUTUdQriLY-8U5JTDa&si=9lJUOfTfUswUs9cz).
-- @sricharan3026
+> Sarga,visarga are the laksanas of a maha purana, More scientific understanding and errors of "pratyaksha" and of aryabhatta's theory can be observed in the above series - [TW](https://youtube.com/playlist?list=PLi0jknRok56mJ6KyUTUdQriLY-8U5JTDa&si=9lJUOfTfUswUs9cz). - @sricharan3026
 
 > Meru, Amravati, etc. places are not necessarily to be taken as literally physical places on Earth. In his Upanishada Bhashya, in accordance with the Puranas, Bhagawatpada Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones, as it would not be of much use to include the description of a laukika thing which can be known from Pratyakshaadi pramanas, in Bhashya on Vedas. Though some Pauranikas have conflated this Adhidaivika description with the description of Laukika world, it should not be done so, as can be understood from what Parikshit is told by Yogendra Shukacharya in Bhagwata Purana. - @OkK-c4y 
 
@@ -338,9 +337,8 @@ If vedAnta deshika experimented, being the genius that he was, he would have don
 ### pratyaxa
 > We still didn't have pratyaksha of rotation per say,we r just taking imgs from Satellites.. @sricharan3026
 
-No - a person in India can call a person in America or Arabia at the same lattitude and confirm that pre-sunrise stars in the east are identical. This shows that earth rotates.
-
-Then there is Focault pendulum etc.. All this is well known.
+There is Focault pendulum etc..  
+Further one can go to space and see with one's own eyes, if one does not trust cameras. 
 
 > to assume satellite can be stationary is inherent fault in an experiment, to assume it we have to prove it is free from all the gravitational or any type of pulls which no one in the world can't.. as per my knowledge or observe form earth whose motion or non motion  is at question. @sricharan3026
 
