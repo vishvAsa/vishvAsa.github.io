@@ -55,3 +55,10 @@ Different intellecual capacities and training rigor.
 > Did you discuss these disagreements with tenkalai school. @mvpacharya2003
 
 Yes.
+
+## ईश्वरानेकत्वम्
+> How can there be two Paramatma? How can Mahalajshmi can be paramatma? - @beigomaacademymathsclub5873
+
+This is exactly the confusion, arising from not understanding explcit vedic statements, put to rest by the quoted savants and their predecessors.  
+
+shAstras say that lakShMI is always with nArAyaNa, even in his antaryAmi/ paramAtma aspect.
