@@ -62,3 +62,7 @@ Yes.
 This is exactly the confusion, arising from not understanding explcit vedic statements, put to rest by the quoted savants and their predecessors.  
 
 shAstras say that lakShMI is always with nArAyaNa, even in his antaryAmi/ paramAtma aspect.
+
+> Mahalakshmi is co-eternal with Lord Vishnu. Is she equal to Him in divinity and status, or subordinate? Are all her actions and roles fully dependent on His will? @beigomaacademymathsclub5873
+
+Equal in divinity. She has taken the subordinate role by **mutual** agreement. viShNu listens to and follows her (particularly regarding forgiving) and vice-versa.
