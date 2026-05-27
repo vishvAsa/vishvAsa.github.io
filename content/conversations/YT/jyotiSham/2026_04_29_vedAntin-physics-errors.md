@@ -126,7 +126,8 @@ This opinion is fabricated by people who can't cope with their AchArya being wro
 
 > Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones - @OkK-c4y
 
-So, it may be dismissed.
+So, it may be dismissed.  
+A honest understanding of the said texts are that the claims about the dimensions and layout of the world is something which can be experienced by any man with ordinary senses, and not just by yogis.
 
 _______________
 
