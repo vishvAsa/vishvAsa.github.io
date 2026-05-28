@@ -2,6 +2,62 @@
 title = "2026-03-13 shUdra bhAgavatas mAmuni"
 +++
 
+<div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=QScX0AsEPUM"></div>
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - mangalam
+00:40 - Intro, context
+02:27 - Bharathan/ azhagiyavaradar, a vAnamAmalai shiShya?!
+03:30 - vyAsa's **mahAbhArata** - kRShNa as dUta in udyoga-parva, refuses duryodhana, bhIShma, droNa food, takes vidura food.
+04:45 - shAstri-vAvilla recension verses - **duryodhana**'s objection
+08:30 - **kRShNa's response** - commitment to dharma, no Apat - won't accept food from haters.
+11:45 - vidura's reaction.
+12:50 - **lokAchArya**
+13:20 - shrI-vachana-bhUShaNa "sUtras" regarding bhAgavata shUdra-s
+17:30 - **manavALa mAmuni's** (=saumya-jAmAtR) commentary on eating at vidura's house
+21:30 - bhakti-bhAva overrides varNAshrama dharma?
+22:50 - rAma eats from **shabarI**'s hand?
+23:45 - **manavALa mAmuni's** commentary - saliva-soiled fruits fed by shabarI's hand to a happy rAma?!
+25:20 - Contradiction with "great knowlege" of **shabarI**, acquired from serving sages.
+26:00 - English translation, tamiL original.
+28:15 - bhagavAn pleased if bhakti-bhAva overrides varNAshrama dharma per manavALa mAmuni.
+28:44 - Follow your AchArya-s, if non-hypocrites. **Offer saliva-soiled** food, hire shUdra-bhAgavata-cooks in temples.
+29:50 - Accept venkaTanAtha's correction.
+30:42 - vedantAchArya's correction - vidura followed jAti-dharma.
+31:40 - vidura-episode faithfully recollected, modulo objection, eating sequence.
+35:30 - vidura's shUdra jAti and varNa not denied by kRShNa.
+36:10 - Apastamba allowed Arya-s accepting cooked food from a dhArmika shUdra
+38:00 - Contrast among **lokAchArya, manavALa mAmuni and vedAnta deshika**
+40:10 - **Bharathan/ azhagiyavaradar's** accusation of fraud
+41:10 - bhArata-sAvitrI is NOT the source - mahAbhArata is.
+42:00 - bhArata-sAvitrI is a condensation
+43:00 - Misrepresentation of vedAnta-deshika - v4 bhAgavata-s to be respected by v1-s within dharmashAstra bounds.
+44:00 - bhagavAn is **not** a self-contradicting **drunk**.
+44:30 - abhinavagupta & incest - don't be like that.
+45:45 - na shUdrA bhagavad-bhaktAH - also from mahAbhArata (Ashvamedhika parva).
+46:30 - qualities of mind vs body. Not in context of kRShNa's response to duryodhana. Similarly vidura following varNa-dharma in marriage.
+48:00 - bhArata-sAvitri vs mahAbhArata - should've occured to him
+48:45 - **sanskrit error** - अधिक्रम्य vs अतिक्रम्य
+49:15 - False claim of "immediate" response.
+50:20 - duryodhana did **not "rebuke"** vidura. Calling a v4 a v4 is not one.
+51:30 - No contest to vidura's varNa
+52:00 - "Regressive" ideas of vedAntAchArya. Justify your AchAryas' practices.
+52:30 - **sanskrit error** - mRdu-prajnA
+53:30 - bhArata-sAvitrI sourcing claim.
+55:15 - good weak person in sumo example - both physical & mental qualities matter. 
+56:20 - Missourcing
+57:00 - Who goes to **hell**? Respecting bhAgavata chaNDAla-s.
+59:00 - **Challenges welcome**. We'll show how VD corrects your (AchAryas') errors. VD is your AchArya - accept corrections. Open to accepting our AchArya's errors if proven.
+1:00:10 - **Suggested to tenkalais** - vAdikesarI ALagiya manavALa jIyar - a positive example. 
+1:01:10 - Ok to accept errors like manavALa mAmuni contradicting own AchArya parAshara-bhaTTa, sadanuShThAna-darpaNa's fake shata-patha brAhmaNa quote.
+1:02:50 - pramANa hierarchy.
+1:04:00 - aitihya lowness. rAmAnuja's mantra-rahasya broadcast myth.
+1:04:50 - shabari saliva feeding - no valid pramANa. bhuShuNDi-rAmAyaNa a kAvya. rAmeshvara-linga-pUjA by rAma.
+1:05:40 - To Tenkalai brothers - understand pramANas, shAstra-s well. Give up excess abhimAna, durAgraha.
+</details>
+
+
 ## mAmuni on shabari
 > we understand that the Sanskrit Translation is probably your own, - @ramanujam_iyengar
 
