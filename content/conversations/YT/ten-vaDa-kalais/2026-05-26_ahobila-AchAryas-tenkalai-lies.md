@@ -67,8 +67,3 @@ shAstras say that lakShMI is always with nArAyaNa, even in his antaryAmi/ paramA
 
 Equal in divinity. She has taken the subordinate role by **mutual** agreement. viShNu listens to and follows her (particularly regarding forgiving) and vice-versa.
 
-> अत्र साम्यं चेत् देवता तर्हि रुद्राणीव रुद्रस्य स्यात् ।  
-> परस्परसमयश् चेन् न तथा साम्यम् उपपद्यते समयत्वात् निर्दैववत् ।  
-> नारायणी लक्ष्मीः श्रीः इत्यादि सकलदेवतास्वरूपाणामुपपद्यतेति स्वधर्मेणैव भगवतः श्रीसंप्रदायः स्वधर्मसिद्धसाधनपरमार्थः पुरुषकारभूतायाः मातुर्भगवत्या अनुवर्तते दाक्षिणात्यानाम् औत्तरीयाणाञ्चेति ॥ 
-
-?
