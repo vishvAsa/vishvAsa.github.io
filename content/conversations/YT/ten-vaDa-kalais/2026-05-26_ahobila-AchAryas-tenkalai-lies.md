@@ -67,3 +67,18 @@ shAstras say that lakShMI is always with nArAyaNa, even in his antaryAmi/ paramA
 
 Equal in divinity. She has taken the subordinate role by **mutual** agreement. viShNu listens to and follows her (particularly regarding forgiving) and vice-versa.
 
+### उभयेच्छाप्रयुक्तत्वम्
+> What are the shastra pramanas which explicitly state that shri is subservient to vishnu by choice and by mutual understanding?  - @LakshminarasimhanSrikanth
+
+shAstra states AnurUpyam of the diva-dampatI, unlike that between jIvas and them. Barring explicitly stated constraints (such as gender, role), there is no reason to constrict this AnurUpya in the case of the choice. So, by the principle of parsimony, we refuse to fabricate an assymetry there.
+
+Further there are suggestions aplenty that her restraint is entirely voluntary. For example, "… **तपसश् चानुपालनात्** न त्वां कुर्मि दशग्रीव भस्म भस्मार्ह तेजसा".
+
+> Purushakara mimamsa says that " shastra pramanakam hi etat " for " na icchati niyantara amśe vyavasthitih" . @LakshminarasimhanSrikanth
+
+Correct verse is - 
+
+> शक्तिः श्रियोऽस्तु नेच्छेति नियन्त्रंशे व्यवस्थितिः ।  
+शास्त्रप्रमाणकं ह्येतद् अक्लिष्टोऽयं महापथः ॥४१॥
+
+This just says that shrI is capable of niyamana exactly like bhagavAn, but doesn't desire it. In no way does this contradict what was said above.
