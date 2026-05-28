@@ -82,7 +82,7 @@ Besides that, one can refer to the famous AchArya jaggu vakula-bhUShaNa (वक�
 
 That said, yes, there are tennAchArya-s who (dishonestly, but with good intentions) try to make mAmuni non-shAstra-virodhI. Good luck to them.
 
-> which is Bhagavad Ramanujacharya’s Paksham - @ramanujam_iyengar
+> Mamunigal’s and Swami Pillai Lokacharyar’s Paksham which is Bhagavad Ramanujacharya’s Paksham - @ramanujam_iyengar
 
 Not at all.
 
@@ -94,7 +94,7 @@ This is false. I strongly focused on the topics under discussion.
 ## Language knowledge
 > It's obvious you know neither Sanskrit nor Tamizh well enough to speak about these works. - @mohansagar6601
 
-You can add kannaDa to the fantasy mix as well :-), since the cited acclaimed authors clearly disagree with your interpretation. 
+You can add kannaDa, hindI and english to the fantasy mix as well :-), since the cited acclaimed authors clearly disagree with your interpretation. 
 
 ## shUdra's dharma-knowledge
 > Sir, do you realize your reasoning contradicts the Apasudradhikarana? Emperumanar says “इतिहासपुराणे अपि वेदोपबृंहणं कुर्वती एवोपायभावमनुभवत:; न स्वातन्त्र्येण | शूद्रस्येतिहासपुराणश्रवणानुज्ञानं पापक्षयादिफलार्थम्, नोपासनार्थम् |” .... Thus, a Shudra cannot “know” Dharma through Itihasa-Puranas.  - @ramanujam_iyengar
