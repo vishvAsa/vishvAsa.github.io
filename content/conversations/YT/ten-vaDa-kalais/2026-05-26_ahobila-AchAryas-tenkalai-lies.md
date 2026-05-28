@@ -70,7 +70,7 @@ Equal in divinity. She has taken the subordinate role by **mutual** agreement. v
 ### उभयेच्छाप्रयुक्तत्वम्
 > What are the shastra pramanas which explicitly state that shri is subservient to vishnu by choice and by mutual understanding?  - @LakshminarasimhanSrikanth
 
-shAstra states AnurUpyam of the diva-dampatI, unlike that between jIvas and them. Barring explicitly stated constraints (such as gender, role), there is no reason to constrict this AnurUpya in the case of the choice. So, by the principle of parsimony, we refuse to fabricate an assymetry there.
+shAstra states AnurUpyam of the diva-dampatI, well beyond that between nityas and them. Barring explicitly stated constraints (such as gender, role), there is no reason to constrict this AnurUpya in the case of the choice. So, by the principle of parsimony, we refuse to fabricate an assymetry there.
 
 Further there are suggestions aplenty that her restraint is entirely voluntary. For example, "… **तपसश् चानुपालनात्** न त्वां कुर्मि दशग्रीव भस्म भस्मार्ह तेजसा".
 
