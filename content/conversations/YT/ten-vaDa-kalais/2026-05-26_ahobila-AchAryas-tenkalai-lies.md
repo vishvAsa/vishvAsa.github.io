@@ -57,7 +57,7 @@ Different intellecual capacities and training rigor.
 Yes.
 
 ## ईश्वरानेकत्वम्
-> How can there be two Paramatma? How can Mahalajshmi can be paramatma? - @beigomaacademymathsclub5873
+> How can there be two Paramatma? How can Mahalakshmi can be paramatma? - @beigomaacademymathsclub5873
 
 This is exactly the confusion, arising from not understanding explcit vedic statements, put to rest by the quoted savants and their predecessors.  
 
@@ -66,6 +66,14 @@ shAstras say that lakShMI is always with nArAyaNa, even in his antaryAmi/ paramA
 > Mahalakshmi is co-eternal with Lord Vishnu. Is she equal to Him in divinity and status, or subordinate? Are all her actions and roles fully dependent on His will? @beigomaacademymathsclub5873
 
 Equal in divinity. She has taken the subordinate role by **mutual** agreement. viShNu listens to and follows her (particularly regarding forgiving) and vice-versa.
+
+> If both possess unlimited knowledge, power, sovereignty, and independence, what distinguishes one Supreme Being from two Supreme Beings? - @beigomaacademymathsclub5873
+
+There is no rule that all these attributes can reside in only one supreme being. There can be multiple supreme beings - as long as they are in perfect harmony.  
+
+shAstra-s naturally declare that the _class_ of supreme beings (Ishvara-tattva, brahman) is one in number. They don't say that this class has only one member.
+
+When one says "jIva is subservient to Ishvara", or "Horse is larger than frog", they are talking about classes (jAti), rather than particular individuals (vyakti).
 
 ### उभयेच्छाप्रयुक्तत्वम्
 > What are the shastra pramanas which explicitly state that shri is subservient to vishnu by choice and by mutual understanding?  - @LakshminarasimhanSrikanth
