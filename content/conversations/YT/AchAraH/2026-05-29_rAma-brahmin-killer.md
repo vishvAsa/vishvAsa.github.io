@@ -34,3 +34,33 @@ Low audio fix - To increase audio volume - use extension like "Volume Booster fo
 58:10 - adhikAri-bheda. 
 59:00 - Conclusion - No brahma-hatyA. No expiation.
 </details>
+
+## viShNu's prAyashchitta?
+
+> When Pulastya Maharṣi explains to Bhīṣma the greatness of many sacred kṣetras, he says that at the kṣetra called Drumī, Śiva is worshipped by Brahmā and the other devas, and that Viṣṇu himself removed his doṣa there.
+>
+> Below are the verses and translations taken directly from the Critical Edition of the Mahābhārata published by BORI.
+>
+> From the Mahābhārata, Āraṇyaka Parva, Chapter 80:
+>
+> Pulastya said:
+>
+> 3.80.86–88: “The wise declare that by worshipping the deity Śaṅgukarṇeśvara one obtains the merit of performing ten Aśvamedha sacrifices. O best of the Bharatas, O foremost of the Kurus, after circumambulating that kṣetra, one should go to the tīrtha called Drumī, celebrated in all the three worlds and granting release from all sins. There Brahmā and the other devas worship Maheśvara. One who bathes there and worships Rudra, surrounded by the hosts of devas, becomes freed from all sins accumulated since birth.”
+>
+> 3.80.90–91: “There the excellent man Drumī was praised and honoured by all the devas. One who bathes there obtains the fruit of an Aśvamedha sacrifice. O greatly wise one! It was there that the mighty Viṣṇu, after slaying the enemies of the devas, came formerly and purified himself.”
+>
+> 3.80.91
+Jitvā yatra mahāprājña Viṣṇunā prabhaviṣṇunā |
+Purā śaucaṃ kṛtaṃ rājan hatvā daivatakaṇṭakān ||”  
+>  -- @beigomaacademymathsclub5873's contact
+
+
+This purification can merely mean bodily purification or even cleaning of one's weapons, and not necessarily a prAyashchitta. And this can be the cause of the said tIrtha getting its sin-cleaning properties, and not it's effect.  
+Please find something more challenging.
+
+
+## Who gets Brahmahatyā doṣa?
+> “Why was Indra alone afflicted with Brahmahatyā doṣa after killing Vṛtrāsura?”
+>  -- @beigomaacademymathsclub5873's contact
+
+Who says Indra alone is afflicted? Any baddha-jIva doing brahmahatyA is afflicted.
