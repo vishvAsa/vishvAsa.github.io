@@ -55,7 +55,19 @@ Purā śaucaṃ kṛtaṃ rājan hatvā daivatakaṇṭakān ||”
 >  -- @beigomaacademymathsclub5873's contact
 
 
-This purification can merely mean bodily purification or even cleaning of one's weapons, and not necessarily a prAyashchitta. And this can be the cause of the said tIrtha getting its sin-cleaning properties, and not it's effect.  
+"shaucha" does not necessarily mean "removing bad karma-s". Even cleaning your butt is called shaucha.  
+So, viShNu's shaucha can merely mean bodily purification or even cleaning of one's weapons, and not necessarily a prAyashchitta.  
+
+And this can be the cause of the said tIrtha getting its sin-cleaning properties, and not it's effect.  
+Any place or waters which had contact with viShNu or bhAgavata-s acquires such properties; hence their tIrthankaratva. mahAbhArata itself says-  
+
+> आस्ते हरिर् अचिन्त्यात्मा  
+> तत्रैव मधुसूदनः ।
+> तत् पुण्यं तत् परं ब्रह्म  
+> तत् तीर्थं तत् तपोधनम् ॥  
+> (भारत.वन. ८८.२४)
+
+
 Please find something more challenging.
 
 
