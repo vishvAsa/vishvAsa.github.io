@@ -18,13 +18,15 @@ title = "GopAla-bhaTTa - facts vs stories"
 - **ShaT-sandarbha abandonment**. Obscure vAdikesari-saumya-jAmAtR (ALagiya manavALa jIyar) cited. Sparse shrI-bhAShya 1.1, 2 citations in initial sandarbhas. (ShaT-sandarbhaH/meta/contributions)
 - jIva was made by rUpa and sanAtana to write it ("रूप-सनातनौ विलेखयतः"). 
 - Lived for 20+ years after ShaT-sandarbha completion. Did not actively help or hinder jIva & co's program.
-- **Denied permission** for inclusion to Kṛṣṇadāsa Kavirāja Gosvāmī (chaitanya-charitAmRta).
+- **Denied permission** for inclusion to Kṛṣṇadāsa Kavirāja Gosvāmī (chaitanya-charitAmRta) as per Narahari Cakravartin in 18th CE.
 - respectful mentions of gopAla-bhaTTa by sanAtana and jIva, _not_ as a helper. even shrIdhara-svAmI is glorified by gosvAmins. Liberal with vRddha-vaiShNava-s.
 - Had students (one sent by jIva) and admirers in vRndAvana. 
 - **shrIvaiShNa-puNDra use** by his parivAra.
 - **Official story problems.** द्राविड-हरिवंश-भट्टैक-चरण-शरण, Abandonment of sandarbhas, acknowldegement as non-sahAya by sanAtana and jIva. "prabodhAnanda-sarasvatI". sannyAsa.
-- **Story to better fit facts**. Arrival. **Disagreement** with rUpa and sanAtana. (ShaT-sandarbhaH/meta/contributions) Initial cooption. Building an unorthodox religious movement, but wanted to insert some heft from a progressively unwilling orthodox bhakta.
+- **Story to better fit facts**. Arrival. **Disagreement** with rUpa and sanAtana. (ShaT-sandarbhaH/meta/contributions) 
+- **Initial cooption**. Building an unorthodox religious movement, but wanted to insert some heft from a progressively unwilling orthodox bhakta.
 - Wisening up, retirement. R & S recruit nephew jIva.
 - **Good wishes** for vaiShNava growth. Consecrations. Some archanA training.
 - Continued **shrIvaiShNava affiliation**. "Belonging" meaning. puNDra. tridaNDi-sannyAsa?
-- Feeback welcome.
+- **baladeva-vidyAbhUShaNa**. mAdhva identity.
+- Feeback welcome.Further research - kRShNa-karNAmRta-bhAShya kRShNa-vallabhA, Sat-kriyāsāra-dīpikā

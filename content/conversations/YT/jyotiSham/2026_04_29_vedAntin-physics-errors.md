@@ -58,7 +58,7 @@ vedAnta-deshika's pratyakSha, non-experimentation intuition vs Rotation, gravity
 00:40 - Intro. vedAntin physics errors. Causes and implications. Noble tradition & intent vs implementation failure.
 03:35 - Extraordinary vedAnta-deshika's sarvArthasiddhi. Our fulfillment.
 04:40 - **Erroneous intuition 1.** Object thrown up from a rotating object doesn't fall behind. https://youtube.com/shorts/Bd4v38ir-jI (**Title & description corrected.**) Inertia. Initial velocity. vedAnta-deshika in sarvArtha-siddhi (सर्वार्थसिद्धिः) on tattva-muktA-kalApa (तत्त्व-मुक्ता-कलापः).
-08:50 - AryabhaTa's rotating disk model.
+08:50 - Rotating disk model. (**Correction** - AryabhaTa's was rotating sphere)
 11:30 - Lateral movement on birds and arrows from rotating object. vedAnta-deshika, varAhamihira ~600CE.
 13:55 - Rarity of air at altitude
 16:30 - **Erroneous intuition 2.** Falling weights reach ground at same time. https://youtube.com/shorts/n9F6SZiWaGw This is modulo air-resistence (https://www.youtube.com/watch?v=CUnDNk6Tqxc), which he does not recognize ("उपष्टम्भकादि-विशेषस्यानभ्युपगमात्" in the next sentence) - a separate flaw.
@@ -118,7 +118,7 @@ Source: [TW](https://youtube.com/shorts/n9F6SZiWaGw)
 
 ### alaukika places
 
-> Sarga,visarga are the laksanas of a maha purana, More scientific understanding and errors of "pratyaksha" and of aryabhatta's theory can be observed in the above series - [TW](https://youtube.com/playlist?list=PLi0jknRok56mJ6KyUTUdQriLY-8U5JTDa&si=9lJUOfTfUswUs9cz). - @sricharan3026
+> Sarga,visarga are the laksanas of a maha purana, More scientific understanding and errors of "pratyaksha" and of aryabhata's theory can be observed in the above series - [TW](https://youtube.com/playlist?list=PLi0jknRok56mJ6KyUTUdQriLY-8U5JTDa&si=9lJUOfTfUswUs9cz). - @sricharan3026
 
 > Meru, Amravati, etc. places are not necessarily to be taken as literally physical places on Earth. In his Upanishada Bhashya, in accordance with the Puranas, Bhagawatpada Shankaracharya has given an Adhidaivika description of the worlds, not an Bhautika (laukika) ones, as it would not be of much use to include the description of a laukika thing which can be known from Pratyakshaadi pramanas, in Bhashya on Vedas. Though some Pauranikas have conflated this Adhidaivika description with the description of Laukika world, it should not be done so, as can be understood from what Parikshit is told by Yogendra Shukacharya in Bhagwata Purana. - @OkK-c4y 
 
