@@ -18,7 +18,7 @@ title = "GopAla-bhaTTa - facts vs stories"
 - **ShaT-sandarbha abandonment**. Obscure vAdikesari-saumya-jAmAtR (ALagiya manavALa jIyar) cited. Sparse shrI-bhAShya 1.1, 2 citations in initial sandarbhas. (ShaT-sandarbhaH/meta/contributions)
 - jIva was made by rUpa and sanAtana to write it ("रूप-सनातनौ विलेखयतः"). 
 - Lived for 20+ years after ShaT-sandarbha completion. Did not actively help or hinder jIva & co's program.
-- **Denied permission** for inclusion to Kṛṣṇadāsa Kavirāja Gosvāmī (chaitanya-charitAmRta) as per Narahari Cakravartin in 18th CE.
+- **Denied permission** for inclusion to Kṛṣṇadāsa Kavirāja Gosvāmī (chaitanya-charitAmRta) as per Narahari Cakravartin in 18th CE. The latters kRShNakarNamRta commentary did not use his commentary.
 - respectful mentions of gopAla-bhaTTa by sanAtana and jIva, _not_ as a helper. even shrIdhara-svAmI is glorified by gosvAmins. Liberal with vRddha-vaiShNava-s.
 - Had students (one sent by jIva) and admirers in vRndAvana. 
 - **shrIvaiShNa-puNDra use** by his parivAra.
