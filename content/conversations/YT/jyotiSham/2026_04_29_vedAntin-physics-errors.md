@@ -301,6 +301,13 @@ Relative velocity - seems like you don't grasp it.
 You're welcome to conduct an experiment with the setup I demonstrated - your intuition and analysis can't contradict what you experience there.
 
 
+### Frame of reference
+> May be the vedas,arya bhatta,surya Siddhanta etc view universe in absolute frame of reference.The puranic model can be reconciled by saying the objects are told wrt to earth(As frame of reference) --- @sricharan3026
+
+That wishful thinking is false. No frame of reference can cook up the seven seas and geography as described in purANa-s.
+
+
+
 ## Air resistence and falling objects
 > Regarding the experiment with objects with different mass hitting ground at same time: ... The objects you chose in your experiment do not have a significant mass differential to be influenced by air resistance in turn leading to a perceivable differential in descent time. A feather still takes longer to land than a stick or a ball. They would land at the same time only in vacuum. Swami Desika may have generalized it based on perception again. - @sreeki123
 
