@@ -70,6 +70,11 @@ You're wrong - vedAnta deshika, manavALa mAmuni, mahAparakAla-yati, all pointed 
 
 My intention is to serve bhAgavata-s by pointing out cases of attempts to fool and defraud them - so any incidental aspersions cast on the perpetrators is very much in service to bhAgavata-s in general.
 
+Further, my responses should be considered in light of the slander being dismissed, for example -  
+
+- kAnchI aNNangarAchArya slandering mahA-parakAla-yati https://youtu.be/cwlrsQ_KepA
+- puttUr kRShNasvAmI slandering an ahobila maTha yati https://youtu.be/vFWAyqldH8U
+
 ## Symmetry
 > Many of us consciously choose not to mock or belittle Vadakalai texts or practices not because we can’t - @prathamkare694
 

@@ -2,6 +2,10 @@
 title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 +++
 
+## Vid 1
+"tenkalai ahobila mutt AchArya" lies - koil-kandADai-aNNAvappangAr, uttamUr-veerarAghavAchAryar
+
+
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/HSEPH4u1jL8"></div>
 
 
@@ -42,6 +46,42 @@ title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 1:09:35 - ahobila-maTha respect. orthodoxy. anuShThAna book popular among good tenkalais. conversion copes, heterodoxy. 
 1:11:15 - **Conclusion**. Recover from mistakes, don't make it into a tradition.
 </details>
+
+
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/vFWAyqldH8U"></div>
+
+## Vid 2
+
+"tenkalai ahobila mutt AchArya" lies - "sudarshanar" puttUr svAmI vs nArAyaNa-muni, shrIshailesha
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - mangalam  
+00:30 - Intro to **ahobila maTha**. Early ahobila AchArya-s tenkalai? Refuted in https://youtu.be/HSEPH4u1jL8  
+02:10 - **puttUr kRShNa-svAmI**. U. Ve. S. Krishnaswamy Iyengar, aka Puthur Swamy / "sudarshanar", editor of SriVaishnava Sudarsanam. Truth about shankara's vaiShNavism. shrI-tattva-sarvasvam. panchama-paxa-shata-dUShaNI.  
+08:00 - **venkaTanAtha's 5 pakSha-s** about shrI in chatush-shlokI vyAkhyA - अणुत्वेऽपि विभुत्वम्? (१), विभु-जीवः? (२), जीवेश्वर-विलक्षणता? (३), ईश्वरी (४) vs उभयेच्छा-पक्षः (५)  
+13:30 - 4th vs 5th paxa. garuDa vs lakshmI.
+17:40 - Propriety of the 5th paxa. Lawyer example.
+19:20 - puttUr-svAmI's pratijnA
+20:20 - **Misrepresents vedAnta-deshika** - supports **4th pakSha**? No.  
+23:40 - venkaTanAtha ridicules the tennAchArya paxa on lakShmI. **Hidden jains**. syAdvAda (**Correction**: Or body-sized Atma vAda?). Like bhedAbheda.  
+26:40 - **vishiShTAdvaita or vishiShTa-dvaita**? People fooled.  
+29:40 - Lies about **AdivaN shaThakopa jIyar** being tenkalai. Dismissed in https://youtu.be/HSEPH4u1jL8 .  
+32:30 - Selective quote - 14th **ahobila yati nArAyaNa muni** praises shrI-vachana-bhUShaNam? **Final word in rahasya-traya-sArAdi & kumAra-varada**.  
+36:00 - Yet, claims puruSha-kAra-mImAMsA supports tennAchArya-siddhAnta. visheShaNatvenopAyatA.
+37:20 - Actually **supports 5th pakSha**.  
+38:20 Stated by commentator **vAtsya shrIshailesha & shakuntalA**.  
+43:45 - **Misrepresents ahobila maTha** AchArya-s. "नूऱ्ऱ्-आण्डिल् इरुन्दु ..."  
+45:20 - **Slanders ahobila maTha** - viShNu-chitta / engaL-ALvAn "अथवा" paxa omission?  
+47:45 - **Misrepresents viShNu-chitta**.  
+53:50 - **nRisiMha-priyA vs sudarshana**. Blown back.
+56:30 - **Earlier rebuttal absence** - Manuscript, thesis, epigraphy access.
+57:50 - **DMK** support? Publishing degeneracy-promoting ramblings (aNNAvappangAr's sachcharitra-paritrANa).  
+59:30 - **Error in puriShai kRShNamAchArya**'s 1990s guru-paramparA series. Not just pUrva-paxa.  
+1:04:30 - **Be honest** about liking sAkShAt-svAmI's shrI-tattva-siddhAnjanam better. No harm in picking better ideas - appreciable. Eg. vAtsya shrIshailesha.
+1:07:00 - Conclusion. Check sources. Good wishes. tamiL. कृष्णार्पणम् अस्तु। Credits to dhurandhar.
+</details>
+
 
 ## Divergence
 > Could you please shed light if there is a common guru parampara till Desika? @mvpacharya2003
