@@ -9,9 +9,7 @@ title = "Respect & standards"
 
 > There’s a clear difference between a respectful philosophical discussion and what comes across as personal attacks. - @prathamkare694
 
-
-
-But what respect you want us to show to frauds?
+But what respect you want us to show to frauds? To the extant that they were flawed bhAgavata-s, yes I respect them. Not beyond that.
 
 If we find our fellows faking quotes left and right (from shruti, venkaTanAtha, Apastamba etc.. ),  
 and promoting degeneracy based on that,  
@@ -23,7 +21,6 @@ It would be worse if someone external needs to show us their mistakes.
 
 Srinivasa Rajan did not address the alleged frauds at all (beyond showing vAsudevasaMhitA's existence) -  
 and was infact was himself fooled by the fraudulent sachcharitra-raxA quote.
-
 
 
 ## sampradAya standards
