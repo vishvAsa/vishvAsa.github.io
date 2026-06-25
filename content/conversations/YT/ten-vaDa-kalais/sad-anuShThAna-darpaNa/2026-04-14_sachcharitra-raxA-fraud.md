@@ -2,7 +2,8 @@
 title = "2026 04 14 - sachcharitraraxA"
 +++
 
-## sachcharitraraxA fraud - shrIvaiShNava-samayAchAra-niShkarSha→ shuddha-sattva varadAchArya → SR → YT
+## Videos
+### sachcharitraraxA fraud - shrIvaiShNava-samayAchAra-niShkarSha→ shuddha-sattva varadAchArya → SR → YT
 
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/KP5wNawjSZM"></div>
 
@@ -35,7 +36,50 @@ Source: [TW](https://youtu.be/KP5wNawjSZM)
 25:15 - Conclusion
 </details>
 
-## rAmAnuja-shrI-bhAShya lies
+
+### Apastamba shruti smRti purANa
+rahasya-sarvasva, sad-anuShThAna-darpaNa fabrication + interpolation - Apastamba shruti smRti purANa
+
+Source: [TW](https://youtu.be/Tf483EnnUsA)
+
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - mangalam  
+00:30 - Intro. (**sad-anuShThAna-darpaNa**/ sadanushtana/sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam/ Sadanushtanadarpanam) by shuddha-sattva-varadAchArya. Edit - Moved further degeneracy pushe details to next video.  
+01:20 - **Error acknowledgements** - vAsudeva-saMhitA quote typo, vAsudeva-saMhitA existence. Fixed, Thanks! Error notices welcome (even about venkaTanAtha).   
+02:30 - Fabrication, misinterpretation not ruled out. Recap - satapatha-brAhmaNa https://youtu.be/djK61750fbM, sachcharitra-raxA https://youtu.be/KP5wNawjSZM .  
+04:00 - purANa insertion - ब्रह्माण्ड-पुराणे बदरिकाश्रम-माहात्म्ये  
+06:55 - **Apastamba** quote **fabrication** - सर्वान्वैश्वदेवे … आ-श्वचण्डालेभ्यः . vaishvadeva-kArikA.
+12:25 - **"shruti" fabrication**/ remix. ("यूयं वर्ण-धर्मिणः")  
+15:00 - smRti- fraud tradition, रहस्य-सर्वस्वम्.  
+16:45 - bizarre justification vs sUtra-strength - **विरोधे त्वनपेक्षं स्यात्** (पू.मी.१.१.३)  
+21:00 - Wide promotion, Conclusion
+</details>
+
+### Degeneracy extant - homa unnecessary?
+
+Source: [TW](https://youtu.be/pbzxsT89NcI)
+
+
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(Apologies for poor audio - bad mic settings.)
+
+00:00 - mangalam
+00:30 - Intro, fabrications (**sad-anuShThAna-darpaNa**/ sadanushtana/sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam/ Sadanushtanadarpanam) by shuddha-sattva-varadAchArya. - https://youtu.be/Tf483EnnUsA .
+03:20 - All **agnikArya optional**! "… नाग्निकर्मेति केचन" No aupAsana, samidAdhAna, vaiShNava homas needed. सीमन्तोन्नयनादिकम् too. Form samAshrayaNa queue :-D
+06:00 - No gRha-pravesha homa (naimittika karman) per shrI sArathi of koyil.org (aitihya override)!
+09:45 - Actual meaning of bhAradvAja saMhitA verse. "… नाग्निकर्मेति केचन".
+16:45 - All Ashrama-dharma, **AshramAnga-karma optional**! "शास्त्रस्य केवलाश्रमि-विषयतया". No vedAdhyayana etc. needed.
+20:30 - Conclusion
+</details>
+
+
+### rAmAnuja-shrI-bhAShya lies
 sad-anuShThAna-darpaNa - rAmAnuja-shrI-bhAShya lies, discards manavALa-mAmuni vs madhurAntaka-svAmi 
 
 Source: [TW](https://youtu.be/3hWpcii3BDc)
@@ -66,7 +110,27 @@ Source: [TW](https://youtu.be/3hWpcii3BDc)
 44:50 - Not a role model. Good wishes.
 </details>
 
+## Actual fraud
+> पण्डितपामरसाधारणे youtube इत्यत्र इतरसंप्रदायस्थानां fraud इत्यादिभिः शब्दैः दूषणेन  
+तावत् तेषां न कापि हानिः आपादिता भवेत्  
+अपि तु भवदीया कीर्तिः दुष्येत्।  
+> -- वकुलाभरणः
 
+हन्त भोः!  
+आचार्य-वाक्य-विकारा दूरे तिष्ठन्तु,  
+श्रुति-सूत्रादि-वाक्यानाम् अप्य् अवर्तमानानां कल्पनं कुत उपेक्षसे?  
+दर्शय तावत् शतपथब्राह्मणे त्वद्-इष्ट-ग्रन्थ-गतं वाक्यम् आदौ।  
+तथा सति नमस्कृत्य वञ्चनारोपं प्रतिगृह्णानि।
+
+## Novelty?
+> बहवः ग्रन्थाः आवयोः सम्प्रदायस्थैः खण्डनमण्डनरीत्या प्रकाशिताश्च।  
+तद्वयतिरेकेन किमपि नूतनतया न कृतं त्वया।   
+सदनुष्ठानदर्पणविशोधनमित्यपि पूर्वमेव अस्य खण्डनं त्वत्सम्प्रदायाचार्येन कृतम्।  
+पुनः एतस्मिन्नेव विषये नूतनतया तव यत्नः व्यर्थः इति भाति।  
+> - वोकुलाभरणः
+
+एवञ्च न मया किमपि नूतनतया कृतं चेत् - सन्तोषायैव। किञ्च जिज्ञासे, स्वयम् पठानि, अलीकभाषिणां निर्लज्जतायां विस्मयेय चेति -  
+अवर्तमानानां लेखक-परम्परा-कपोल-कल्पितानां श्रुति-सूत्र-शास्त्र-ग्रन्थ-नामभिर् आख्यातानां लोकप्रतारकाणां वचनानां विचारः क्व कृतः?
 
 
 ## sampradAya wellbeing
@@ -160,6 +224,12 @@ I pray that better sense prevails
 
 ## Respect, apachAra etc..
 See [here](/conversations/YT/AchAraH/respect_standards/)
+
+## sampradAya equivocation
+> "सदनुष्ठानग्रन्थस्य  दोषाः किं परामृष्टाः" इति पृच्छता त्वया त्वत्सम्प्रदायपरामर्शः प्रथमं कर्तव्यः।  
+पूर्वाचार्यमताविरोधेन तत्र सर्वमुक्तं किम् इति दरीदृश्यताम्।
+
+
 
 ## Qualification
 

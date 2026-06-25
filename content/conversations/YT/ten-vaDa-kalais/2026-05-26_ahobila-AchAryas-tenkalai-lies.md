@@ -92,8 +92,9 @@ title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 - Rebuttal at vansatakopadaya.wordpress.com - RL, SM, etc.
 - "no separate literature for Vadakalai Sect, till 1700 AD explaining their difference" vs vedAnta deshika, jeeyar nayanar, venkaTAdhvari!
 - **ahobila-maTha** lies. Dates adjusted.  
-- "Thenkalai sect atleast upto year 1800 AD" vs 2nd ahobila maTha jIyar's tilaka.
-- Misread books
+- "Thenkalai sect atleast upto year 1800 AD" 
+- Misread books "Purushakara Mimasa", "Rahasyathraya Jeevathu" etc. per prativAdi-bhayankara kAnchI aNNangarAchArya
+- "Thenkalai Thiruman can be seen" (haripAda-dvayAkRti) vs other puNDras; 2nd ahobila maTha jIyar's "सान्तरालं हरिपादाकृति पुण्ड्रधारणम् एव वैष्णवस्य शस्तम्" (purushartha sudhanidhi). 
 - Altered Inscriptions - sita-kara-gaNDa-nandavanam
 - "we were tenkalai" admission?!
 - brahmatantra-svatantra apellation!?
@@ -106,8 +107,8 @@ title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 - tAtAchArya vaDakalai conversion vs Athan Jeyar agreement
 - periya-tirumalai-nambi's childlessness vs  Vaduga Nambi’s Yatiraja Vaibhavam and Periya Thirumudi Adaivu
 - tiruv-ahIndra-puram conversion lie - Funding from tirumalai temple! Acharya Hrdayam record.
-- Credits to "Ramanujan" Monthly Journals by P.B. Annangarachariar Swamy, Kancheepuram. "Pazhanadai Vilakkam" by Tirumazhisai Annavappaiyangar.
-- Conclusion. "stories would gain currency and corrupt the minds of lakhs of people"
+- **Credits** to "Ramanujan" Monthly Journals by P.B. Annangarachariar Swamy, Kancheepuram. "Pazhanadai Vilakkam" by Tirumazhisai Annavappaiyangar.
+- **Conclusion**. "stories would gain currency and corrupt the minds of lakhs of people"
 </details>
 
 
