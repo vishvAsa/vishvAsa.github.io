@@ -1,8 +1,102 @@
 +++
-title = "2026 04 14 - sachcharitraraxA"
+title = "2026 04 14 - sadanuShThAna-darpaNa fraud"
 +++
 
+Playlist [TW](https://www.youtube.com/playlist?list=PL63uIhJxWbghX-O6Z2T1Xmu41Hs08yqfX)
+
 ## Videos
+### vaishvadeva avoidence
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/djK61750fbM"></div>
+
+
+
+Source: [TW](https://youtu.be/djK61750fbM)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+vaishvadeva avoidance, devatAntara-pUjA, pAncharAtra vs smRti/ sUtra, sad-anuShThAna-darpaNaH
+
+00:00 - Intro, amAvAsya rituals, sthAlIpAka, aupAsana  
+01:45 - tenkalai shrIvaiShNava claims.
+02:30 - Hypocritical unread claim to be Apastamba-sUtra, brahma-sUtra, rAmAnuja followers while opposing vaishvadeva.
+02:50 - instagram person's (bharatan?) confusion
+05:00 - Actually brahma-sUtra-s and rAmAnuja's shrI-bhAShya require nitya-karma anuShThAna with either antaryAmi bhAvanA or etymological understanding.
+06:30 - साक्षाद् अपि जैमिनिः। etymological understanding of deity names to refer to bhagavAn
+07:15 - parAshara-smRti does not forbid.
+07:35 - Confusion extends to vaidikas
+08:45 - Why even do sandhyAvandanam etc.?
+09:30 - sad-anuShThAna-darpaNa quotes "vAsudeva-saMhitA" (typo - मध्याह्नानन्तरं → मद्यागानन्तरम्). (Edit - seemingly available in manuscript form.)
+12:00 - Verse can be understood otherwise - show us the context.
+12:45 - Overridden by smRti-s
+13:15 - yAmuna's Agama-prAmANya says so.
+15:00 - yAmuna thought sva-shAkhokta nitya-karma abandonment to lead to loss of varNa.
+18:50 - Frauds in सदनुष्ठानदर्पण (**sad-anuShThAna-darpaNa**/ sadanushtana/sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam/ Sadanushtanadarpanam) by shuddha-sattva-varadAchArya - https://archive.org/details/Vaishvadeva/sadanuShThAna-darpaNaH_d2/page/45/mode/1up .
+20:45 - Availability of highly respected kANva-shAkhAnuyAyins in TN.
+22:50 - Conclusion
+
+सम्बन्धेऽस्मिन्न् अनुक्तं किञ्चिद् भाष्यकारवचनम् -
+"॥18.9॥ नित्यनैमित्तिक-महायज्ञादिवर्णाश्रमविहितं *कर्म* मदाराधनरूपतया *कार्यं* स्वयम्प्रयोजनम् इति मत्वा"
+
+तादृशं पुष्कलं लभ्यते गीताभाष्ये। शरीरधारणं यावन् महायज्ञा अवश्यं कार्या इति।  
+तथा च वेङ्कटनाथार्यकृता वैश्वदेवकारिकाः स्वयम् अण्णङ्गरार्यः प्रकाशयामासेति श्रूयते।
+</details>
+
+
+### shaurirAja blunders
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/RtxDpqjV3n0"></div>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Source: [TW](https://youtu.be/RtxDpqjV3n0)
+
+tenkalai shaurirAja, shuddhasattva vs dharmashAstra, shruti, vangivaMsheshvara, parAsharabhaTTa, ghaNTA
+
+00:00 - **Intro** - dharma, pramANas and shaurirAja  
+00:55 - **sad-anuShThAna-darpaNa**/ sadanuShThAnadarpaNam / sadhanuShThAnadarpaNam / sadhanuShTAnadarpaNam  
+01:41 - showrirAjan iyengar's **Education** - ghanapATha, initiation by tAta-venkaTa, shrI-bhAShyakAla-kShepa by AsUri laxmaNa  
+02:35 - **Endorsement** by the fraud-prone kAnchi aNNangarAchArya  
+03:40 - Intro to **tenkalai sect's** AchAra deviations. venkaTAdhvari. abandonment of vaishvadeva contrary to kalpa-sUtras, rAmAnuja, venkaTanAtha etc..  
+05:00 - **Justification**. Shruti fabrication. Fanatically/ blindly following "AchArya-s"  
+06:10 - Endorsement from shAstra-s to favor shiShTa-s over shruti?  
+07:20 - **Apastamba-dharma-sUtra** - धर्मज्ञसमयः प्रमाणम्, वेदाश् च।  
+08:50 - Who is **dharma-jna**? Based on veda compatibility only. Latter more fundamental.  
+10:30 - haradatta confirms. dharma-jna is **manu** etc.., not your contemporary jIyar-s.  
+11:40 - haradatta confirms. buddha vs manu. Your respect does not make one a shiShTa. your dharma-pramANa is dharma-jna-samaya, for them veda is dharma-pramANa.  
+14:20 - shauri-rAja misleads his readers. Intention to justify tenkalai deviations.  
+15:25 - Mangling **vidyAraNya**/ mAdhava.  
+16:50 - **taittirIya shruti** / shixA valli - selectively quoted and mangled. अथ यदि ते कर्म-विचिकित्सा वा... यथा ते तत्र वर्तेरन् तथा तत्र वर्तेथाः।  
+18:35 - यान्यस्माकं सुचरितानि, तानि त्वयोपास्यानि, नो इतराणि।  
+19:30 - **mahAbhArata** quote.  
+20:10 - Who is mahAjana? How does he know dharma?  
+21:50 - **rAmAyaNa** - rAma's clarification to vAli/ vAlin  
+22:55 - rAma's statement specific to the vAnara monkey vAlin .  
+23:10 - 2nd half of shloka cunningly not quoted by shaurirAja.  
+24:55 - govindarAja clarifies.  
+25:35 - rAma's condescension towards vAlin.  
+26:40 - rAma understands. shaurirAja misleads.  
+27:40 - Claim that sad-anuShThAna-darpaNa follows **unbroken tradition of rAmAnuja** etc..  
+28:40 - **ghaNTA / ringing the bell** - tradition discarded.  
+29:10 - slippery slope - reject shruti, smRti, your own AchArya-s.  
+29:25 - **sad-anuShThAna-darpaNa** popularity.  
+29:55 - tamiL explanation  
+31:25 - Fake "pramANa". Can't go to hell - **yama-kinkara saMvAda**.  
+32:45 - **vAtsalya as doSha-bhogyatA**.  
+34:05 - **vangI-vaMsheshvara, parAshara-bhaTTa**.  
+36:35 - parAshara-bhaTTa  
+36:55 - Throwing away AchAryas' words justified?  
+38:00 - bhagavat-prIti as phala is acceptable.  
+39:30 - pApa-nAshana as part of bhAgavata-kainkarya.  
+40:50 - **Low quality argumentation**, pramANas say the opposite.  
+41:35 - vangI-vaMsheshvara, parAshara-bhaTTa **practiced what they preached**. Directed at common vaiShNava-s only.  
+42:50 - **Conclusion** - shaurirAja does not understand dharmashAstra, shruti; endorses shuddha-sattva varadAchArya who throws away AchArya's words.  
+44:20 - AchAryas were not hypocrites. Flimsy logic.  
+44:40 - **Recommendation** to tenkalai vaiShNava brothers - don't twist the words of your AchAryas.  
+45:25 - shaurirAja's error. **Good wishes**. Proper pramANa hierarchy.
+</details>
+
+
+
 ### sachcharitraraxA fraud - shrIvaiShNava-samayAchAra-niShkarSha→ shuddha-sattva varadAchArya → SR → YT
 
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/KP5wNawjSZM"></div>
@@ -235,9 +329,14 @@ See [here](/conversations/YT/AchAraH/respect_standards/)
 पूर्वाचार्यमताविरोधेन तत्र सर्वमुक्तं किम् इति दरीदृश्यताम्।  
 -- वकुलाभरणः
 
-पूर्वाचार्यमतानुसारिणो ऽस्माकीनाः न हि तन्मतविरोधेन +असत्य-वचन-कल्पकाः।  
-अस्मत्सम्प्रदायय् एवंविधम् अवर्तमान-श्रुति-प्रभृति-कल्पन-दोषो न विद्यते तावत्।  
-वर्तते चेद् दर्शय, सकार्तज्ञ्यं स्वीकरवाम। 
+"एषु चित्रेषूक्ता दोषाः परामृष्टा न वे"ति पृष्टम्, न त्व् "अस्पष्ट-यःकश्चिद् दोषः परामृष्टो वे"ति।  
+दर्शय तावद् अवर्तमान-श्रुति-प्रभृति-कल्पन-दोषम् अस्माकीनैः कृतम्,  
+येन भवद्-इष्टम् पूरयाणि।  
+
+अस्माकं पूर्वाचार्याः सत्य-प्रिया असत्य-विरोधिनः।  
+न ह्य् एतन्-मत-विरोधेन +असत्य-वचन-कल्पकाः मत्-सम्प्रदाये प्रसिद्धाः।  
+वर्तते चेत् तादृशः कश्चिद्, दर्शय, सकार्तज्ञ्यं सत्यं स्वीकरवाम।  
+सत्यम् एव दुरभिमानान् नः प्रियतरम्। 
 
 ## Qualification
 
