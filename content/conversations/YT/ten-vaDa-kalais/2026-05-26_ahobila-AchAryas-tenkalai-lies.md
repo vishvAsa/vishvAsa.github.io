@@ -2,7 +2,7 @@
 title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 +++
 
-## Vid 1
+## koil-kandADai-aNNAvappangAr
 "tenkalai ahobila mutt AchArya" lies - koil-kandADai-aNNAvappangAr, uttamUr-veerarAghavAchAryar
 
 
@@ -47,7 +47,7 @@ title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 1:11:15 - **Conclusion**. Recover from mistakes, don't make it into a tradition.
 </details>
 
-## Vid 2
+## "sudarshanar" puttUr svAmI
 
 
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/vFWAyqldH8U"></div>
@@ -83,32 +83,40 @@ title = "2026-05-26 Ahobila AchAryas tenkalai lies"
 1:07:00 - Conclusion. Check sources. Good wishes. tamiL. कृष्णार्पणम् अस्तु। Credits to dhurandhar.
 </details>
 
+## TA Rajagoplan
+
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/3D5bz6DAuXo"></div>
+
+tenkalai ahobila/ parakAla mutt/ tAtAchArya/ annamAchArya lies - TA rAjagopAlan, kAnchI PB aNNangara
+
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-- mangalam
-- Intro - ahobila maTha tenkalai lies. https://youtu.be/HSEPH4u1jL8 https://youtu.be/vFWAyqldH8U
-- “The origin and growth of Ahobila maTha – A study based on inscriptions” by TA Rajagopalan. Influence, citations. Tirumalai Ananthanpillai boosterism.
-- "Sri Vaishnava Sri" A.Krishnamachari's endorsement.
-- Rebuttal at vansatakopadaya.wordpress.com - RL, SM, etc.
-- "no separate literature for Vadakalai Sect, till 1700 AD explaining their difference" vs vedAnta deshika, jeeyar nayanar, venkaTAdhvari!
-- **ahobila-maTha** lies. Dates adjusted.  
-- "Thenkalai sect atleast upto year 1800 AD" 
-- Misread books "Purushakara Mimasa", "Rahasyathraya Jeevathu" etc. per prativAdi-bhayankara kAnchI aNNangarAchArya
-- "Thenkalai Thiruman can be seen" (haripAda-dvayAkRti) vs other puNDras; 2nd ahobila maTha jIyar's "सान्तरालं हरिपादाकृति पुण्ड्रधारणम् एव वैष्णवस्य शस्तम्" (purushartha sudhanidhi). 
-- Altered Inscriptions - sita-kara-gaNDa-nandavanam
-- "we were tenkalai" admission?!
-- brahmatantra-svatantra apellation!?
-- Lies about **mukkUr laxmInarasimha**
-- Lies about **annamAchArya**.
-- Not tenkalai tiruman! Tallapaka image has VK tiruman. https://www.instagram.com/reel/DV8AggSjGqq/
-- ahobila maTha shiShya-s, not Ananthazhwan's. Praised both, but not contemporary Ananthanpillai acharyapurusha.
-- Vijayanagara "helped" **tAtAcharya**-s snatch temples after death?
-- Inscription forgery claim! "successfully made it included in [[19]] Epigraphia Indica, a book of Archeological Department created by the British Government". Lies about Ramanatha Iyer in Epigraphia Indica Vol 25.
-- tAtAchArya vaDakalai conversion vs Athan Jeyar agreement
-- periya-tirumalai-nambi's childlessness vs  Vaduga Nambi’s Yatiraja Vaibhavam and Periya Thirumudi Adaivu
-- tiruv-ahIndra-puram conversion lie - Funding from tirumalai temple! Acharya Hrdayam record.
-- **Credits** to "Ramanujan" Monthly Journals by P.B. Annangarachariar Swamy, Kancheepuram. "Pazhanadai Vilakkam" by Tirumazhisai Annavappaiyangar.
-- **Conclusion**. "stories would gain currency and corrupt the minds of lakhs of people"
+00:00 - mangalam
+00:30 - Intro - ahobila maTha tenkalai lies. https://youtu.be/HSEPH4u1jL8 https://youtu.be/vFWAyqldH8U
+00:45 - “The origin and growth of Ahobila maTha – A study based on inscriptions” by TA Rajagopalan. Influence, citations. Tirumalai Ananthanpillai boosterism.
+02:30 - "Sri Vaishnava Sri" A.Krishnamachari's endorsement.
+03:00 - Rebuttal at vansatakopadaya.wordpress.com - RL, SM, etc.
+04:00 - "no separate literature for Vadakalai Sect, till 1700 AD explaining their difference" vs vedAnta deshika, jeeyar nayanar, venkaTAdhvari!
+05:20 - **ahobila-maTha** lies. Dates adjusted.  
+06:20 - "Thenkalai sect atleast upto year 1800 AD"
+07:00 - Misread books "Purushakara Mimasa", "Rahasyathraya Jeevathu" etc. per prativAdi-bhayankara kAnchI aNNangarAchArya
+08:30 - "Thenkalai Thiruman can be seen" (haripAda-dvayAkRti) vs other puNDras; 2nd ahobila maTha jIyar's "सान्तरालं हरिपादाकृति पुण्ड्रधारणम् एव वैष्णवस्य शस्तम्" (purushartha sudhanidhi).
+11:10 - Inscription Forgery - sita-kara-gaNDa-nandavanam
+14:00 - "we were tenkalai" admission?!
+14:30 - brahmatantra-svatantra apellation!?
+16:30 - Lies about **mukkUr laxmInarasimha** (lakshminarasimhachariar)
+19:00 - Lies about **annamAchArya**.
+19:55 - Lies about his tenkalai tiruman! Tallapaka image has vaDakalai tiruman. https://www.instagram.com/reel/DV8AggSjGqq/
+21:00 - ahobila maTha shiShya-s, not Ananthazhwan's. Praised both, but not contemporary Ananthanpillai acharyapurusha.
+21:30 - "did not find any reference to Parakala Mutt till the year 1800 A.D."
+24:00 - Vijayanagara "helped" **tAtAcharya**-s snatch temples after death?
+24:45 - Inscription forgery claim! "successfully made it included in [[19]] Epigraphia Indica, a book of Archeological Department created by the British Government". Lies about Ramanatha Iyer in Epigraphia Indica Vol 25.
+26:00 - tAtAchArya vaDakalai conversion vs Athan Jeyar agreement
+26:45 - periya-tirumalai-nambi's childlessness vs  Vaduga Nambi’s Yatiraja Vaibhavam and Periya Thirumudi Adaivu
+28:00 - tiruv-ahIndra-puram conversion lie - Funding from tirumalai temple! Acharya Hrdayam record.
+30:20 - **Credits** to "Ramanujan" Monthly Journals by P.B. Annangarachariar Swamy, Kancheepuram. "Pazhanadai Vilakkam" by Tirumazhisai Annavappaiyangar.
+31:50 - **Conclusion**. "stories would gain currency and corrupt the minds of lakhs of people".
 </details>
 
 
