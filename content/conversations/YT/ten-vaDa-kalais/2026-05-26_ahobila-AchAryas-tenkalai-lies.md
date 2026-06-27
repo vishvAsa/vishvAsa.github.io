@@ -105,9 +105,9 @@ tenkalai ahobila/ parakAla mutt/ tAtAchArya/ annamAchArya lies - TA rAjagopAlan,
 11:10 - Inscription Forgery - sita-kara-gaNDa-nandavanam
 14:00 - "we were tenkalai" admission?!
 14:30 - brahmatantra-svatantra apellation!?
-16:30 - Lies about **mukkUr laxmInarasimha** (lakshminarasimhachariar)
+16:30 - Lies about **mukkUr laxmInarasimha** (lakshminarasimhachariar). Prostrated 4 times. https://vimeo.com/405077002?fl=pl&fe=cm#t=23m27s At 23:27 you can see Mukkur Swamy prostrate 4 times after the pUrNAhuti.
 19:00 - Lies about **annamAchArya**.
-19:55 - Lies about his tenkalai tiruman! Tallapaka image has vaDakalai tiruman. https://www.instagram.com/reel/DV8AggSjGqq/
+19:55 - Lies about his tenkalai tiruman! tALlapaka image has vaDakalai tiruman. https://www.instagram.com/reel/DV8AggSjGqq/
 21:00 - ahobila maTha shiShya-s, not Ananthazhwan's. Praised both, but not contemporary Ananthanpillai acharyapurusha.
 21:30 - "did not find any reference to Parakala Mutt till the year 1800 A.D."
 24:00 - Vijayanagara "helped" **tAtAcharya**-s snatch temples after death?
