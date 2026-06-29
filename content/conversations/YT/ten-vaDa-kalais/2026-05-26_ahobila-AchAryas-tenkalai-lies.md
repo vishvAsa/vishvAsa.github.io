@@ -188,7 +188,7 @@ I don't believe you. Having seen what I've shown in these videos, I am not easil
 See [here](/conversations/YT/AchAraH/respect_standards).
 
 
-## Bigotry
+## Prejudice & Bigotry
 > there were no vadagalai at the time of ramanujacharya nor at the time of Vedant desika - @piyu...1976
 
 A prejudiced bigot is a person who holds on to a view despite ample evidence to the contrary. That's you, given that you're writing this despite the information provided in these videos. You can do better.
