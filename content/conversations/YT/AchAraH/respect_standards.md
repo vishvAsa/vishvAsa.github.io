@@ -76,3 +76,12 @@ Further, my responses should be considered as counters to bhAgavata-apachAra in 
 > Many of us consciously choose not to mock or belittle Vadakalai texts or practices not because we can’t - @prathamkare694
 
 Yet some of you do belittle rival sects and practices. Still, you're welcome to do so - if there is something worthy of being accepted and corrected, we will thank you for it.
+
+
+## Hatred against tenkalais?
+>  vk s ... hate Thenkalais - @piyu...1976
+
+No. We're against fraudsters and people denounced by bhagavAn. Aren't you?
+
+> श्रुतिस्मृतिर्ममैवाज्ञा यस्तामुल्लङ्घ्य वर्तते ।  
+आज्ञाच्छेदी मम द्रोही मद्भक्तोऽपि न वैष्णवः । - वि। ध। ६।३१ 

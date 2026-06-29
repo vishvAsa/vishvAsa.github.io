@@ -168,3 +168,27 @@ Correct verse is -
 शास्त्रप्रमाणकं ह्येतद् अक्लिष्टोऽयं महापथः ॥४१॥
 
 This just says that shrI is capable of niyamana exactly like bhagavAn, but doesn't desire it. In no way does this contradict what was said above.
+
+## devotion to shAnkaras
+>  current jeer openly praise Shankaracharya Periyava - @piyu...1976
+
+Yes. He owes much to him. This is a good quality - called kRtajnatA, praised by everyone from sages to ALvArs. Please learn some of it. 
+
+> vk s r devoted to Kanchi Shankaracharya -
+@piyu...1976
+
+What a lying bunch you are!
+
+> Kanchi Shankaracharya directly entering into garbhagruh in Chembur Ahobila maTh - @piyu...1976
+
+I don't believe you. Having seen what I've shown in these videos, I am not easily fooled by tenkalai lies.
+
+>  vk s ... hate Thenkalais - @piyu...1976
+
+See [here](/conversations/YT/AchAraH/respect_standards).
+
+
+## Bigotry
+> there were no vadagalai at the time of ramanujacharya nor at the time of Vedant desika - @piyu...1976
+
+A bigot is a person who holds on to a view despite ample evidence to the contrary. That's you, given that you're writing this despite the information provided in these videos. You can do better.
