@@ -65,7 +65,7 @@ Material cause (upAdAna-kAraNa) per rAmAnuja, KSV confusions, sUkShmAvasthA/ pra
 45:50 - shAnkara-**bhaichAra** vs prachChanna-bauddha appellation. Contrast with mAdhva-bhaichAra.
 52:00 - **Conclusion & Encouragement** - Ok to have new philosophy. Be bold, own up. Freshness and honesty inspiring. 5 original thinkers cancel each others' errors?!
 
-Addendum - shrI KK told me that people will easily identify the people involved, "the video is public and you can do what you want". So, here are the links to the original discussions involving shrI paNDita-ratnam Kothimangalam KS varadAchArya (kottamangalam KS varadAchAr) -  
+Addendum - shrI KK told me that people will easily identify the people involved, "the video is public and you can do what you want". So, here are the links to the original discussions involving shrI paNDita-ratnam Kothimangalam KS varadAchArya (kottimangalam KS varadAchAr) -  
 (https://www.youtube.com/watch?v=oPd-sUXpFqI)  
 (https://www.youtube.com/watch?v=PQTxSnNR-2o)
 
