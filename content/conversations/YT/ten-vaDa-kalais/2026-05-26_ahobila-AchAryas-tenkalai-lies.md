@@ -178,6 +178,11 @@ Yes. He owes much to him. This is a good quality - called kRtajnatA, praised by 
 
 Also azhwar thirunagari bhavishyadacharyan (rAmAnuja) sannidhi was renovated by the tenkalai jiyar there soliciting donations from sringeri mutt. There is a big plaque to that effect there.
 
+> garbhagRha entrance.
+> \- @piyu...1976
+
+See [here](/conversations/YT/shAnkaras/AchAra_temples_maTHas).
+
 > 1\. Shankaracharya hate vaishvism according to them panchratra is avedic
 >
 > \- @piyu...1976
