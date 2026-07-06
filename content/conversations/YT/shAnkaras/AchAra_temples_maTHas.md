@@ -82,3 +82,13 @@ There is a person depicted sitting with a shaved head and 2 chinmudras, left han
 </details>
 
 
+## garbha-gRha entrance
+> Kanchi Shankaracharya directly entering into garbhagruh in Chembur Ahobila maTh…   
+> You can see [this video](https://www.youtube.com/watch?v=BHgiurVOLxc) especially from 10.37 to 20.00 … grand welcome by srivaihsnvas of ahobila muth and Direct entry and doing Pooja's in garbhagruh 😪- @piyu...1976
+
+~~I don't believe you.~~  
+Thanks for providing evidence. I agree that this shouldn't have happened. satkAra should've not included entry to garbha-gRha. Vk leaders in general wouldn't agree to it.
+
+Incidentally, Kanchi Shankaracharya enters garbagriha of Mannargudi (Tk) rAjagopAla temple too. 
+
+In srivaikundam (Tk temple) in the second prahara of temple, sringeri shankaracharya was let to do chandramoulishvara pooja. 

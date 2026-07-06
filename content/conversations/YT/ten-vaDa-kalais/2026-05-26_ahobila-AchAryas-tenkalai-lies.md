@@ -169,29 +169,20 @@ Correct verse is -
 
 This just says that shrI is capable of niyamana exactly like bhagavAn, but doesn't desire it. In no way does this contradict what was said above.
 
-## devotion to shAnkaras
+## devotion to shAnkaras?
 >  current jeer openly praise Shankaracharya Periyava... so it's very unfortunate to see srivaihsnva jeer openly praising shankaracharya just bcoz he helped him financially.
-> 
+> vk s r devoted to Kanchi Shankaracharya -  
 > \- @piyu...1976
 
 Yes. He owes much to him. This is a good quality - called kRtajnatA, praised by everyone from sages to ALvArs. Please learn some of it. 
+
+Also azhwar thirunagari bhavishyadacharyan (rAmAnuja) sannidhi was renovated by the tenkalai jiyar there soliciting donations from sringeri mutt. There is a big plaque to that effect there.
 
 > 1\. Shankaracharya hate vaishvism according to them panchratra is avedic
 >
 > \- @piyu...1976
 
 False - as rightly pointed out by the famous tenkalai puttUr kRShNa svAmI, shankara himself was a vaiShNava. And, pAncharAtra is accepted to the extant that it does not contradict jIvotpatti - this is explicitly stated in their bhAShya. You can refer to https://youtu.be/gS-xk9qiPo4
-
-> vk s r devoted to Kanchi Shankaracharya -
-@piyu...1976
-
-What a lying bunch you are!
-
-> Kanchi Shankaracharya directly entering into garbhagruh in Chembur Ahobila maTh…   
-> You can see [this video](https://www.youtube.com/watch?v=BHgiurVOLxc) especially from 10.37 to 20.00 … grand welcome by srivaihsnvas of ahobila muth and Direct entry and doing Pooja's in garbhagruh 😪- @piyu...1976
-
-~~I don't believe you.~~  
-Thanks for providing evidence. I agree that this shouldn't have happened. satkAra should've not included entry to garbha-gRha. Vk leaders in general wouldn't agree to it.
 
 
 >  vk s ... hate Thenkalais - @piyu...1976
