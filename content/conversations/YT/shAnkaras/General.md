@@ -96,6 +96,7 @@ Source: [TW](https://youtu.be/mujOCstJ97I)
 
 00:00 - Intro
 00:38 - nirguNa, nirvisheSha निर्गुणम्, निर्विशेषम्
+03:15 - nirAkAra
 07:30 - niShkala, निष्कलम्
 08:20 - avyakta, अव्यक्तम्
 </details>
