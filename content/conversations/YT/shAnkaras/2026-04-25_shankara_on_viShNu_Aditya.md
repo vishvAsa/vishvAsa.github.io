@@ -1,7 +1,7 @@
 +++
 title = "2026-04-25 shankara on viShNu Aditya"
 +++
-
+## Vid 1
 Per shankara, viShNu nArAyaNa = viShNu Aditya, distinct from arjuna, ravi / sun etc..
 
 Source: [TW](https://youtu.be/INHB5PGRNYA)
@@ -22,9 +22,42 @@ Source: [TW](https://youtu.be/INHB5PGRNYA)
 10:20 - Conclusion, recap. bhAShya should be clear by itself; but being twisted.
 </details>
 
+## Vid 2
+abhinava-shankara maligns Adi-shankara, rAmAnuja per hitalaLLi sUryanAraNa-bhaT (shringeri award)
+
+Source: [TW](https://youtu.be/cQFMsOI0q8I)
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(English summary included within the video at 22:35. Rest kannaDa.)  
+00:00 - mangalam  
+00:40 - **Intro** - Intro to **Hitlalli Suryanarayana Bhat**, honored by shRngeri shAradA pITha, "Sri shAnkara Tattva Prasara Abhiyana", a series of lectures organized by them - https://youtu.be/p7b8hkQawww?t=670
+04:10 - Hitlalli Suryanarayana Bhat quotes abhinava-shankara on rAmAnuja etc.  
+08:15 - No bhAShya by **rAmAnuja** on rudra-prashna. rAmAnuja on rudra in vedArtha-sangraha
+09:30 - Criticism applicable to **shankara** - viShNu-sahasra-nAma-bhAShya
+10:45 - Hyped by shAnkaras, shRngeri shAradA pITha.
+12:35 - Criticism applicable to **shankara** - brahma-sUtra-bhAShya ("साक्षादप्यविरोधं जैमिनिः ॥") shankara says nArAyaNa is parabrahma in BS bhASHya.
+15:15 - Criticism applicable to sAyaNa (takes rudra= vaidyutAgni in RV 10.136.7)
+16:35 - **Context** - maNimanjarI quoted by mAdhva ladies in uDupi - https://youtu.be/tgZPQATIq3A?t=83
+18:40 - **Apology forced** via mAdhva maTha - https://youtu.be/tgZPQATIq3A?t=183 .
+20:25 - Hypocracy?
+22:40 - **English summary** starts.
+29:30 - mAdhva-shANkara squabble context.
+30:45 - Hypocracy.
+31:05 - Make him & shRngeri maTha apologize?
+32:55 - **श्रुति-स्मृति-पुराणानाम् आलयम्** … - ह्य् **अविद्यालयम्**? Actual shAnkara siddhAnta, not a joke.
+34:20 - avidyAlaya as per Suryanarayana Bhat & co
+36:20 - Good wishes, Hindu Unity. Criticism and clarifications welcome. परस्परविरोधे च वयं पञ्च च ते शतं । अन्यैः साकं विरोधे तु वयं पञ्चाधिकं शतम्॥
+</details>
+
+
 ## shAstrArtha debate
 > If there is any controversy or dispute, you should participate in a proper shastrartha (scholarly debate) there instead of uploading trivial and unnecessary videos on YouTube.  
 > - @रंजनमंडल-छ5प
+
+> However, the right place to take that grievance is to the source—Sringeri—rather than sowing doubt (dhwandhwa) among viewers in a YouTube comment section. -
+@jayanthkumarnataraja137
 
 This is just your prejudice and ignorant. Scholarly debate can take any of the following froms:
 
