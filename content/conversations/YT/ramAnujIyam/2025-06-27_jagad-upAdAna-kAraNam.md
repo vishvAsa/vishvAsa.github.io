@@ -72,4 +72,14 @@ Addendum - shrI KK told me that people will easily identify the people involved,
 Corrections and clarifications are welcome.
 </details>
 
-## वरदार्य-रामानुज-भेदा उपादाने
+## sheSha-sheShi-bhAva, sharIra-sharIri-bhAva, sarva-sharIritA of paramAtmA, sharIratA of jIva-AtmA
+Source: [TW](https://youtu.be/KxHmeD075mg)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro
+00:60 - sheShatva
+05:30 - sharIra-sharIri-bhAva
+16:40 - viShNu-purANa - 1.19.85-86
+</details>
+

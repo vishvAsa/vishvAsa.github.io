@@ -1,5 +1,5 @@
 +++
-title = "General"
+title = "Illogical behavior"
 +++
 ## ekAtmatA-JnAna vs upadesha teaching - shAnkara paradox (kannaDa, sanskrit, english, hindI)
 Source: [TW](https://youtu.be/nwichamq47M)
@@ -16,54 +16,6 @@ shrI bhAratI-tIrtha's video - https://x.com/agniyuta/status/2004204930186596655 
 13:00 - Unanswered objection (English version)
 16:45 - Unanswered objection (hindI version)
 22:15 - Conclusion
-</details>
-
-
-## sheSha-sheShi-bhAva, sharIra-sharIri-bhAva, sarva-sharIritA of paramAtmA, sharIratA of jIva-AtmA
-Source: [TW](https://youtu.be/KxHmeD075mg)
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-00:00 - Intro
-00:60 - sheShatva
-05:30 - sharIra-sharIri-bhAva
-16:40 - viShNu-purANa - 1.19.85-86
-</details>
-
-
-## hari-harAbheda confusion, monotheism polytheism pramANas evidence mImAMsA, veda smRti itihAsa purANa
-
-Source: [TW](https://youtu.be/OTEPHTx5h_Y)
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-00:00 - Intro, shankara's opinion, devotion to nArAyaNa
-01:30 - Later confusion
-02:05 - tamiL sadas
-03:20 - pUrvapaxa translation vs siddhAnta
-04:55 - Antiquity of hariharAbheda
-09:00 - pramANa priority - Proper Epistemology
-10:20 - bheda in veda, fake concoctions
-15:30 - bheda in smRti
-17:45 - itihAsa superiority. bheda
-22:40 - bheda in purANa. superiority of viShNu-purANa
-25:55 - Finally ... abheda in purANas. hell, stomach ache etc..
-30:00 - Conclusion
-</details>
-
-
-## shrI bhAratI-tIrtha ⇒ S a big fool? sapta-mAtRkAs. devatA-pAramya; uncivility, hypocracy. kn
-
-Source: [TW](https://youtu.be/veyCrI10fG8)
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-00:00 - Intro
-00:30 - shrI bhAratI tIrtha on mahA-mUrkhas, monotheism - https://x.com/agniyuta/status/1988500012096254093
-01:10 - Implication on rAmAnuja, madhva. uncivility, bad depictions
-03:15 - shankara and kRShNa on devatA-pAramya - are they mahA-mUrkha-s?
-07:22 - shankara on rudras and Adityas. sUrya, vAyu, Indra ...
-10:35 - conclusion
 </details>
 
 
@@ -85,20 +37,6 @@ Credits to -
 - shankara :-)
 
 Notes & references - https://groups.google.com/g/hindu-vidyA/c/TQ1M9HVxf4g/m/OtTLzxxyBwAJ
-</details>
-
-
-## nirguNa, nirvisheSha, niShkala, avyakta, sakala, saguNa
-
-Source: [TW](https://youtu.be/mujOCstJ97I)
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-00:00 - Intro
-00:38 - nirguNa, nirvisheSha निर्गुणम्, निर्विशेषम्
-03:15 - nirAkAra
-07:30 - niShkala, निष्कलम्
-08:20 - avyakta, अव्यक्तम्
 </details>
 
 
@@ -133,21 +71,3 @@ Source: [TW](https://youtu.be/FBmo0YvfPgA)
 
 
 
-## neo-shAnkaran errors on nArAyaNopaniShat, nArAyaNa-sUkta, AtmA vs sharIra-s/ body parts; shankara
-
-Source: [TW](https://youtu.be/5G9xoEXMMFg)
-
-
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
-
-Link to original comment - https://www.youtube.com/watch?v=YVDRmTkq0Sk&lc=UgzFDOvcNq7YzcsjXrN4AaABAg
-Link to video contrasting vaiShNava and shaiva polytheism from neo-advaitin monotheism - https://youtu.be/4QQ-DhoYE-8
-
-00:00 - Intro
-02:05 - nArAyaNopaniShat
-08:00 - Divinity not limited to viShNu by vaiShNavas
-11:50 - nArAyaNa-sUktam - sahasra-shIrSham; Atma vs other body parts
-15:30 - Gradation among devatA-bhaktas/ devotees or divinities does not imply they are  abrahamistic.
-17:50 - superiority claims by shAnkaran advaitins
-18:45 - An encouragement to direct and complete study of shankarAchArya, and shAstras rather than relying on a twisted tradition.
-</details>

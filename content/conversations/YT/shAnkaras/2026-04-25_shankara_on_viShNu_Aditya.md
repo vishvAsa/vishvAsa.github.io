@@ -1,8 +1,8 @@
 +++
 title = "2026-04-25 shankara on viShNu Aditya"
 +++
-## Vid 1
-Per shankara, viShNu nArAyaNa = viShNu Aditya, distinct from arjuna, ravi / sun etc..
+
+## Per shankara, viShNu nArAyaNa = viShNu Aditya, distinct from arjuna, ravi / sun etc..
 
 Source: [TW](https://youtu.be/INHB5PGRNYA)
 
@@ -22,8 +22,42 @@ Source: [TW](https://youtu.be/INHB5PGRNYA)
 10:20 - Conclusion, recap. bhAShya should be clear by itself; but being twisted.
 </details>
 
-## Vid 2
-abhinava-shankara maligns Adi-shankara, rAmAnuja per hitalaLLi sUryanAraNa-bhaT (shringeri award)
+## hari-harAbheda confusion, monotheism polytheism pramANas evidence mImAMsA, veda smRti itihAsa purANa
+
+Source: [TW](https://youtu.be/OTEPHTx5h_Y)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro, shankara's opinion, devotion to nArAyaNa
+01:30 - Later confusion
+02:05 - tamiL sadas
+03:20 - pUrvapaxa translation vs siddhAnta
+04:55 - Antiquity of hariharAbheda
+09:00 - pramANa priority - Proper Epistemology
+10:20 - bheda in veda, fake concoctions
+15:30 - bheda in smRti
+17:45 - itihAsa superiority. bheda
+22:40 - bheda in purANa. superiority of viShNu-purANa
+25:55 - Finally ... abheda in purANas. hell, stomach ache etc..
+30:00 - Conclusion
+</details>
+
+
+## shrI bhAratI-tIrtha ⇒ S a big fool? sapta-mAtRkAs. devatA-pAramya; uncivility, hypocracy. kn
+
+Source: [TW](https://youtu.be/veyCrI10fG8)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro
+00:30 - shrI bhAratI tIrtha on mahA-mUrkhas, monotheism - https://x.com/agniyuta/status/1988500012096254093
+01:10 - Implication on rAmAnuja, madhva. uncivility, bad depictions
+03:15 - shankara and kRShNa on devatA-pAramya - are they mahA-mUrkha-s?
+07:22 - shankara on rudras and Adityas. sUrya, vAyu, Indra ...
+10:35 - conclusion
+</details>
+
+## abhinava-shankara maligns Adi-shankara, rAmAnuja per hitalaLLi sUryanAraNa-bhaT (shringeri award)
 
 Source: [TW](https://youtu.be/cQFMsOI0q8I)
 
@@ -51,6 +85,24 @@ Source: [TW](https://youtu.be/cQFMsOI0q8I)
 36:20 - Good wishes, Hindu Unity. Criticism and clarifications welcome. परस्परविरोधे च वयं पञ्च च ते शतं । अन्यैः साकं विरोधे तु वयं पञ्चाधिकं शतम्॥
 </details>
 
+## neo-shAnkaran errors on nArAyaNopaniShat, nArAyaNa-sUkta, AtmA vs sharIra-s/ body parts; shankara
+
+Source: [TW](https://youtu.be/5G9xoEXMMFg)
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Link to original comment - https://www.youtube.com/watch?v=YVDRmTkq0Sk&lc=UgzFDOvcNq7YzcsjXrN4AaABAg
+Link to video contrasting vaiShNava and shaiva polytheism from neo-advaitin monotheism - https://youtu.be/4QQ-DhoYE-8
+
+00:00 - Intro
+02:05 - nArAyaNopaniShat
+08:00 - Divinity not limited to viShNu by vaiShNavas
+11:50 - nArAyaNa-sUktam - sahasra-shIrSham; Atma vs other body parts
+15:30 - Gradation among devatA-bhaktas/ devotees or divinities does not imply they are  abrahamistic.
+17:50 - superiority claims by shAnkaran advaitins
+18:45 - An encouragement to direct and complete study of shankarAchArya, and shAstras rather than relying on a twisted tradition.
+</details>
 
 ## shAstrArtha debate
 > If there is any controversy or dispute, you should participate in a proper shastrartha (scholarly debate) there instead of uploading trivial and unnecessary videos on YouTube.  
@@ -99,7 +151,6 @@ No - Saying that "shankara says ABC" does not mean "I agree with shankara when h
 > This is because you cannot selectively accept Shankara as a Vaishnava but reject his Advaita Vedanta doctrine. - @naveengubba2393
 
 shankara, who clearly said - 'परमतम् अप्रतिषिद्धं अनुमतम् भवति', would disagree with you. There is nothing wrong with saying "shankara is right about X but wrong about Y".
-
 
 
 ## Misrepresentation?
@@ -205,7 +256,7 @@ Oh but they do - otherwise, shrI J Srinivasgaru would not have made his "shankar
 
 Your objection is absurd. The number 12 vs number n of vRShNi-s does nothing to invalidate the argument presented in the video.
 
-## Proper pramANa-s
+## shankara's works - Proper pramANa-s
 > It is quite well known to those who have studied Shankara's Prasthana traya bhashya  and the introduction and the Nāma-commentary of the Vishnu Sahasra Nāma Bhashya that Shankara's Vishnu is completely antithetical to the popular Vaishnava Vishnu. @cmam.keerthichandra6517
 
 We don't agree that Vishnu Sahasra Nāma Bhashya (or its preface) was composed by shankara. Only prasthAna-traya-bhAShya-s can be quoted as evidence of his opinion. shAnkarans should stop thrusting 100s of works on shankara's poor head.

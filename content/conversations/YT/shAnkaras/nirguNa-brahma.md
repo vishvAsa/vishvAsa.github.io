@@ -1,6 +1,40 @@
 +++
-title = "advaita-l, v subramanian"
+title = "nirguNa-brahma"
 +++
+## nirguNa paramAtmA
+
+Source: [TW](https://youtu.be/ATIDlQumvyM)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - mangalam  
+00:40 - **Intro**, shringeri shAradA pITha's vidhushekhara bhAratI, "nirguNa brahma" in mahAbhArata?
+01:55 - hanumad-bhIma-saMvAda from mahAbhArata (kannaDa) https://www.facebook.com/reel/1739813493907658
+04:30 - Actual meaning of the shloka. Question in kannaDa and english.
+05:55 - Meanings of the term "nirguNa" - https://youtu.be/mujOCstJ97I
+06:40 - "nirguNa brahma" does not fit the shloka. (kannaDa and english)
+08:40 - "nirguNa paramAtma" means saguNa only as per Adi-shankara's philosophy 
+09:10 - Unexpected severity of the error. 
+09:55 - Other meanings of nirguNa. - https://youtu.be/mujOCstJ97I
+11:30 - Conclusion - OK to make mistakes. Constructive criticism submitted.
+</details>
+
+
+## nirguNa, nirvisheSha, niShkala, avyakta, sakala, saguNa
+
+Source: [TW](https://youtu.be/mujOCstJ97I)
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - Intro
+00:38 - nirguNa, nirvisheSha निर्गुणम्, निर्विशेषम्
+03:15 - nirAkAra
+07:30 - niShkala, निष्कलम्
+08:20 - avyakta, अव्यक्तम्
+</details>
+
+
+
 ## neo-shAnkara algebra confusions, self-contradictions with (nirguNa brahman) NB +mAya = SB (saguNa)
 
 Source: [TW](https://youtu.be/0pyIqn9M0zk)
