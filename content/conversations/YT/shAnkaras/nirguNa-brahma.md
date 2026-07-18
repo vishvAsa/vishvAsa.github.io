@@ -1,9 +1,9 @@
 +++
 title = "nirguNa-brahma"
 +++
-## nirguNa paramAtmA
+## nirguNa-paramAtma is saguNa (bhImA to hanumAn in mahAbhArata) - shrI vidhushekhara-bhAratI confuses
 
-Source: [TW](https://youtu.be/ATIDlQumvyM)
+Source: [TW](https://youtu.be/aLsWTEKJbwc)
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
@@ -17,6 +17,7 @@ Source: [TW](https://youtu.be/ATIDlQumvyM)
 09:10 - Unexpected severity of the error. 
 09:55 - Other meanings of nirguNa. - https://youtu.be/mujOCstJ97I
 11:30 - Conclusion - OK to make mistakes. Constructive criticism submitted.
+12:25 - Appendix - paNDita-ratnam kottimangaLam KS varadAchArya - Meaning/ object is more important than words used. Silly to do otherwise.
 </details>
 
 

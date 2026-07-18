@@ -72,6 +72,13 @@ Further, my responses should be considered as counters to bhAgavata-apachAra in 
 - kAnchI aNNangarAchArya slandering mahA-parakAla-yati https://youtu.be/cwlrsQ_KepA
 - puttUr kRShNasvAmI slandering an ahobila maTha yati https://youtu.be/vFWAyqldH8U
 
+## AchArya-nindA?
+
+> It's so bad to see all learned achaaryas from all our three school of thoughts are maligning each other.. Shame.. criticize the Siddhanta but not the people.. The moola acharyas were never small minded as we followers are including you sir. The validity of those quotes from whatever acharyas were consequential (actions and reactions which we don't know of) and only limited to that time when they existed. We keep quarreling quoting those makes no sense...  Eye for an eye makes everyone blind.. We are so much behind showing off our wit or so called vidhwath we forgot about the path of righteous that our gurus have asked us to walk.. we all must apologize to the non-brahmin community for such repeated instances.. let's stop this please.🙏🙏🙏🙏🙏 - @pdph3055
+
+प्रणमामि। You should not be so sensitive. That's my big message. Focus on the actual objections, rather than all incidental rhetoric (almost every major AchArya indulged in such).
+
+
 ## Symmetry
 > Many of us consciously choose not to mock or belittle Vadakalai texts or practices not because we can’t - @prathamkare694
 
