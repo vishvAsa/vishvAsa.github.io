@@ -82,7 +82,9 @@ Source: [TW](https://youtu.be/cQFMsOI0q8I)
 31:05 - Make him & shRngeri maTha apologize?
 32:55 - **श्रुति-स्मृति-पुराणानाम् आलयम्** … - ह्य् **अविद्यालयम्**? Actual shAnkara siddhAnta, not a joke.
 34:20 - avidyAlaya as per Suryanarayana Bhat & co
-36:20 - Good wishes, Hindu Unity. Criticism and clarifications welcome. परस्परविरोधे च वयं पञ्च च ते शतं । अन्यैः साकं विरोधे तु वयं पञ्चाधिकं शतम्॥
+36:20 - Good wishes, Hindu Unity. Criticism and clarifications welcome. परस्परविरोधे च वयं पञ्च च ते शतं । अन्यैः साकं विरोधे तु वयं पञ्चाधिकं शतम्॥  
+
+Response by shrI sUryanArAyaNa bhaT - https://www.facebook.com/watch/?v=1057334520149560 
 </details>
 
 ## neo-shAnkaran errors on nArAyaNopaniShat, nArAyaNa-sUkta, AtmA vs sharIra-s/ body parts; shankara
