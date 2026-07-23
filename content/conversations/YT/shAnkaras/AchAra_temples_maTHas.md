@@ -82,6 +82,11 @@ There is a person depicted sitting with a shaved head and 2 chinmudras, left han
 </details>
 
 
+## Popularity
+>  If Advaita Siddanta is useless the why Chinmaya mission, Rama krisha mission etc.... spiritual organisations teaching Advaita Vedanta?  - 
+
+They're useful - They sell other useful things (meditation, stotras, vedic chanting, devotion to saguNa brahma or deities) with a superficial advaita branding (supposed understanding of nirguNa-brahma-vAda). Same applies to modern advaitin maTha-s. It is a case of misadvertising. 
+
 ## garbha-gRha entrance
 > Kanchi Shankaracharya directly entering into garbhagruh in Chembur Ahobila maTh…   
 > You can see [this video](https://www.youtube.com/watch?v=BHgiurVOLxc) especially from 10.37 to 20.00 … grand welcome by srivaihsnvas of ahobila muth and Direct entry and doing Pooja's in garbhagruh 😪- @piyu...1976
