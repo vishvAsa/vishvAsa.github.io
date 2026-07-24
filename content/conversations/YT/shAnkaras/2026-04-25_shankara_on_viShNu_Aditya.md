@@ -106,6 +106,10 @@ Link to video contrasting vaiShNava and shaiva polytheism from neo-advaitin mono
 18:45 - An encouragement to direct and complete study of shankarAchArya, and shAstras rather than relying on a twisted tradition.
 </details>
 
+## Qualification, debate mode etc.
+
+See [here](/conversations/YT/misc/qualifications_mode). 
+
 ## Agreement with shankara
 
 > Respectfully , you have conceded to Shankara by using Vyavaharika.  - @naveengubba2393
