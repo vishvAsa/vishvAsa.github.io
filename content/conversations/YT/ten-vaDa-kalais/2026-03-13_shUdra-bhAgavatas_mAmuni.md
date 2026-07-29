@@ -2,6 +2,9 @@
 title = "2026-03-13 shUdra bhAgavatas mAmuni"
 +++
 
+shUdra-jAti-bhAgavata - lokAchArya, manavALa-mAmuni, vedAnta-deshika, Bharathan/ azhagiyavaradar: [TW](https://youtu.be/QScX0AsEPUM)
+
+
 <div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=QScX0AsEPUM"></div>
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
