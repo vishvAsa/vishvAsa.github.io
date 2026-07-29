@@ -15,7 +15,7 @@ title = "RAmAnuja - who not"
 - **mokSha only via rAmAnuja?** avatAra-claim?
 - Expectation from others. **5 saMskAra-s** - vaiShNavatva. prapatti, bhakti - bhagAvatatva. 5-kAla-parAyaNa-s. 4-book kAlakShepa.
 - **Adoration of Gods**, RShi-s, pitRs in nitya/ naimittika karma-s. Beyond that - devatAntara-bhajana deprecated for ekAntin-s.
-- **Sharp wit**, rhetoric. Opponents reduced to pitiable state. Eg. ekAtmatA-niShThA vs teaching - . 
+- **Sharp wit**, rhetoric. Opponents reduced to pitiable state. Eg. ekAtmatA-niShThA vs teaching. Imagine a joyful answer-sheet corrector.
 - Tradition **antiquity**. vaikhAnasa sUtras. pAncharAtra. Not quoted in bhAShyas.
 - Rise of vaidikas - 14.5B → 4.5B → .5B → .065B → .0002B → 5k 
 - Adhvaryava dominance, vaiShNavism of YV (pAncharAtra, vaikhAnasa), brAhmaNas, upaniShats - 4k. 
@@ -32,7 +32,7 @@ title = "RAmAnuja - who not"
 - **sourcing errors** - privileging abheda-shrutis. (bheda-shrutis, untraceables in case of madhva.)
 - **mImAMsA** errors - lakShaNa. (mAdhva-s too)
 - **S's vaiShNavatva**. hari-harAbheda. shaivas.
-- **R's resolution** - savisheSha. **sharIrAtma-bhAva**. ऐतद्-आत्म्यम् इदं सर्वम् … तत् त्वम् असि। 
+- **shruti's resolution** - savisheSha. **sharIrAtma-bhAva**. ऐतद्-आत्म्यम् इदं सर्वम् … तत् त्वम् असि। 
 - R's & others' minor physics errors - eye rays, flat earth. यान्य् अस्माकं सुचरितानि।
 - Conclusion. Truth over Pride. Thanks. Qs welcome. Ritual allowance.
 </details>
