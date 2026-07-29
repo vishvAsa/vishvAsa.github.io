@@ -3,7 +3,7 @@ title = "RAmAnuja - who not"
 +++
 
 ## rAmAnuja misconceptions (Kn with En subtitles)
-
+https://youtu.be/tm2nl9ZkMMc
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/tm2nl9ZkMMc"></div>
 
 
