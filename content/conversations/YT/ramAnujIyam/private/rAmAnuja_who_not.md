@@ -7,7 +7,7 @@ title = "RAmAnuja - who not"
 - mangalam. Salutations to sadas. Ritual allowance. Joyful intent.
 - **vedAntin AchAryas**. Explorers. Good intent. Varying success. Broad dharma agreement.
 - **pramANa-s** - own words, inscriptions etc. vs aitihyas & upanyAsa-s. यान्य् अस्माकं सुचरितानि। 
-- **rAmANuja**. hRdayavAn, rasikaH. bhagavad-anubhava-parIvAha. tattvAvesha-parIvAha.
+- **rAmANuja**. hRdayavAn, rasikaH. bhagavad(-Atma)-anubhava overflow. tattvAvesha overflow.
 - **Misconceptions**. aitihyas & upanyAsas - pros and cons.
 - mantra-rahasya **tower boradcast**? 
 - **varNa & jAti** - liberality upto max shAstra allowance, regard for v4 bhAgavatas. Intra jAti strictures. 
@@ -27,12 +27,13 @@ title = "RAmAnuja - who not"
 - mAdhyamaka-s - 1.5k. shUnya-vivarta-vAda. Gods, veda avidyA.
 - Rise of shAnkara-s - 1.5k. nirvisheSha-brahma-vivarta-vAda. Gods, veda avidyA.
 - Similarities acked - gauDapAda, shankara, Anandagiri/ kumArIla . madhva, yAmuna, rAmAnuja. prachChanna bauddha/ vedAntin.
-- **logical errors** - No nirvisheSha / attributeless experience or object. Examples? 
-- where's avidyA? co-eternal? 
-- **sourcing errors** - privileging abheda-shrutis. (bheda-shrutis, untraceables in case of madhva.)
-- **mImAMsA** errors - lakShaNa. (mAdhva-s too)
+- **logical errors** - No nirvisheSha / attributeless experience or object. Examples? where's avidyA? co-eternal? 
+- **sourcing errors** - privileging abheda-shrutis. No pre-buddhu application sarpa-rajju nyAya to jagat. (bheda-shrutis, untraceables in case of madhva.)
+- **mImAMsA** errors - lakShaNa. (mAdhva-s too). Coping - 2 Atmans, 2 brahman-s.
 - **S's vaiShNavatva**. hari-harAbheda. shaivas.
 - **shruti's resolution** - savisheSha. **sharIrAtma-bhAva**. ऐतद्-आत्म्यम् इदं सर्वम् … तत् त्वम् असि। 
-- R's & others' minor physics errors - eye rays, flat earth. यान्य् अस्माकं सुचरितानि।
-- Conclusion. Truth over Pride. Thanks. Qs welcome. Ritual allowance.
+- sadasya works - shrI-bhAShyam, vedArtha-sangraha.
+- **Internal works** - gadya-traya, nitya-grantha. Establishment of proper tridaNDi-sannyAsa.
+- R's & others' minor physics **errors** - eye rays, flat earth. यान्य् अस्माकं सुचरितानि।
+- Conclusion. **Truth over Pride**. Thanks. Qs welcome. Ritual allowance.
 </details>
