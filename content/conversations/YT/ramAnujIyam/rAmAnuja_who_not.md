@@ -22,7 +22,7 @@ https://youtu.be/tm2nl9ZkMMc
 * **0:13:58 - 0:21:42**: Tradition **antiquity** details. *vaikhAnasa sUtras* and *pAncharAtra* texts (some not quoted in early *bhAShyas*). Rise of vaidikas over time (14.5B → 4.5B → .5B → .065B → .0002B → 5k). *Adhvaryava* dominance and the innate *vaiShNavism* of Yajur Veda (*pAncharAtra*, *vaikhAnasa*), early BrAhmaNas, and Upanishads (~4k years ago). Historical backing: Ramayana, Mahabharata (*Narayaniya*), Heliodorus inscription, *bhAgavata* cave etchings, and Brahma-sutras. Root of later *bhakti movement*, intense *bhagavad-anubhava*, and *drAviDa divya-prabandha-s*.
 </details>
 
-## rAmAnuja - historical contribution (Kn with En subtitles)
+## rAmAnuja's contribution - fixed (crypto-)buddhist ideas thumped on vedas  (Kn with En subtitles)
 
 <div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=zn4Pj6aCM7A"></div>
 
