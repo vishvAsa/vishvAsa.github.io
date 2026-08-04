@@ -118,7 +118,7 @@ This is false. Certain divyadesha-s and important shrines are collocated with(in
 Orthodox vaiShNava-s offer daily bali-s to rudra and other deities as prescribed in shAstra-s. 
 
 
-## Abrahamism? Shankara?
+## Neo shAnkara Abrahamism vs Shankara
 
 >  The Svetesvatara Upanishad says , 3.2 says एको हि रुद्रो न द्वितीयाय तस्थुर्य …… ॥ He-Rudra '—is indeed one only. There is no one beside Him who can make Him the second. ... Just like Abrahamic religions you guys say there is only one name for God, Vishnu, Narayana etc. like Muslims they Allah is the only God, Christians say Christ is the only God. - @naveengubba2393
 
@@ -129,7 +129,19 @@ Neo-shAnkaran religion, like the Abrahamist Islam & Christianity claims the same
 shankara himself disagreed - https://youtu.be/veyCrI10fG8 , distinguishing paramAtma from rudras.  
 Similarly, vaiShNava religion which recognizes hierarchy among Gods is not Abrahamistic, as explained in https://youtu.be/5G9xoEXMMFg .
 
-> Adi Shankara came to reconcile all these sampradayas and preached panchayatana puja as found in Puranas. Don’t hate or bring a gradation between Vishnu and Shiva please.
+> Shankara in 9.24 clearly states that though Krishna is being worshipped by worshipping other devotees , it is not the same as they end up getting petty results (wealth, power etc, which are all transitory unlike Moksha) यान्ति मद्याजिनः मद्यजनशीलाः वैष्णवाः मामेव यान्ति। समाने अपि आयासे मामेव न भजन्ते . अज्ञानात्? तेन ते अल्पफलभाजः भवन्ति इत्यर्थः।  So the emphasis is on the  objective or intent. - @naveengubba2393 
+
+> worshipped by worshipping other devotees
+
+is wrong. Other Gods ("अन्यासु देवतासु" as shankara syas), not other devotees. You know this and typed "devotees" as you are a bigot who wants to twist words to suit your beliefs, rather than the other way round. 
+
+As per shankara, there are multiple devatAs. For in the previous shloka itself, he says - 
+
+> **येऽपि अन्यदेवताभक्ताः** अन्यासु देवतासु भक्ताः अन्यदेवताभक्ताः
+  
+So, he is saying that those who adore other Gods without understanding that they are adoring the saguNa brahma are inferior, and get inferior fruits. 
+
+> Adi Shankara came to reconcile all these sampradayas and preached panchayatana puja as found in Puranas. Don’t hate or bring a gradation between Vishnu and Shiva please. - @naveengubba2393 
 
 False, see above.
 
