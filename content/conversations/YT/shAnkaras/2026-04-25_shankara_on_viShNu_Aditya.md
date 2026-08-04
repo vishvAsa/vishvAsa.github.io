@@ -110,6 +110,25 @@ Link to video contrasting vaiShNava and shaiva polytheism from neo-advaitin mono
 
 See [here](/conversations/YT/misc/qualifications_mode). 
 
+## shiva-dveSha?
+> Vaishnavas can worship Vishnu but they hate Shiva and they preach others not to even visit Shiva temples. They cover their faces when they see a shiva temple. The Madhava sampradaya worships all deities, Vishnu, Shiva, Shakthi, … etc. it is exactly this dogma that  Garikapati criticizes. - @naveengubba2393
+
+This is false. Certain divyadesha-s and important shrines are collocated with(in) shiva temples/ shrines. 
+
+Orthodox vaiShNava-s offer daily bali-s to rudra and other deities as prescribed in shAstra-s. 
+
+
+## Abrahamism?
+
+>  The Svetesvatara Upanishad says , 3.2 says एको हि रुद्रो न द्वितीयाय तस्थुर्य …… ॥ He-Rudra '—is indeed one only. There is no one beside Him who can make Him the second. ... Just like Abrahamic religions you guys say there is only one name for God, Vishnu, Narayana etc. like Muslims they Allah is the only God, Christians say Christ is the only God. - @naveengubba2393
+
+Abrahamist monotheism does not say that there is only one name of God - eg. 99+ names are famously recognized in Islam. It says that there is only one True God.  
+Neo-shAnkaran religion, like the Abrahamist Islam & Christianity claims the same.   
+
+shankara himself disagreed - https://youtu.be/veyCrI10fG8 , distinguishing paramAtma from rudras.  
+Similarly, vaiShNava religion which recognizes hierarchy among Gods is not Abrahamistic, as explained in https://youtu.be/5G9xoEXMMFg .
+
+
 ## Agreement with shankara
 
 > Respectfully , you have conceded to Shankara by using Vyavaharika.  - @naveengubba2393
