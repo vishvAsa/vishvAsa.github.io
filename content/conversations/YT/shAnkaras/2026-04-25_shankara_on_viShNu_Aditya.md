@@ -139,7 +139,7 @@ As per shankara in 9.23 etc., there are multiple devatAs. For he says -
 
 > **येऽपि अन्यदेवताभक्ताः** अन्यासु देवतासु भक्ताः अन्यदेवताभक्ताः
   
-So, he is saying that those who adore other Gods without understanding that they are inderctly adoring the saguNa brahma vAsudeva viShNu are inferior, and get inferior fruits. 
+So, he is saying that those who adore other Gods without understanding that they are inderctly adoring the saguNa brahma vAsudeva viShNu (who is distinct from those) are inferior, and get inferior fruits. 
 
 > Adi Shankara came to reconcile all these sampradayas and preached panchayatana puja as found in Puranas. Don’t hate or bring a gradation between Vishnu and Shiva please. - @naveengubba2393 
 
