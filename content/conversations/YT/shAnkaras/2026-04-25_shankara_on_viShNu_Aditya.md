@@ -133,9 +133,9 @@ Similarly, vaiShNava religion which recognizes hierarchy among Gods is not Abrah
 
 > worshipped by worshipping other devotees
 
-is wrong. Other Gods ("अन्यासु देवतासु" as shankara syas), not other devotees. You know this and typed "devotees" as you are a bigot who wants to twist words to suit your beliefs, rather than the other way round. 
+is wrong. Other Gods ("अन्यासु देवतासु" as shankara says in 9.23), not other devotees. You know this and typed "devotees" as you are a bigot who wants to twist words to suit your beliefs, rather than the other way round. 
 
-As per shankara, there are multiple devatAs. For in the previous shloka itself, he says - 
+As per shankara in 9.23 etc., there are multiple devatAs. For he says - 
 
 > **येऽपि अन्यदेवताभक्ताः** अन्यासु देवतासु भक्ताः अन्यदेवताभक्ताः
   
