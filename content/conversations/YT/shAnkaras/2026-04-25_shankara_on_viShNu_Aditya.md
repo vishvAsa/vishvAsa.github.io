@@ -118,18 +118,23 @@ This is false. Certain divyadesha-s and important shrines are collocated with(in
 Orthodox vaiShNava-s offer daily bali-s to rudra and other deities as prescribed in shAstra-s. 
 
 
-## Abrahamism?
+## Abrahamism? Shankara?
 
 >  The Svetesvatara Upanishad says , 3.2 says एको हि रुद्रो न द्वितीयाय तस्थुर्य …… ॥ He-Rudra '—is indeed one only. There is no one beside Him who can make Him the second. ... Just like Abrahamic religions you guys say there is only one name for God, Vishnu, Narayana etc. like Muslims they Allah is the only God, Christians say Christ is the only God. - @naveengubba2393
 
 Abrahamist monotheism does not say that there is only one name of God - eg. 99+ names are famously recognized in Islam. It says that there is only one True God.  
 Neo-shAnkaran religion, like the Abrahamist Islam & Christianity claims the same.   
 
+
 shankara himself disagreed - https://youtu.be/veyCrI10fG8 , distinguishing paramAtma from rudras.  
 Similarly, vaiShNava religion which recognizes hierarchy among Gods is not Abrahamistic, as explained in https://youtu.be/5G9xoEXMMFg .
 
+> Adi Shankara came to reconcile all these sampradayas and preached panchayatana puja as found in Puranas. Don’t hate or bring a gradation between Vishnu and Shiva please.
 
-## Agreement with shankara
+False, see above.
+
+
+## Full agreement with shankara?
 
 > Respectfully , you have conceded to Shankara by using Vyavaharika.  - @naveengubba2393
 
