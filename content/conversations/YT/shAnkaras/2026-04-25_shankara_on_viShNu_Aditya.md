@@ -118,7 +118,7 @@ This is false. Certain divyadesha-s and important shrines are collocated with(in
 Orthodox vaiShNava-s offer daily bali-s to rudra and other deities as prescribed in shAstra-s. 
 
 
-## Neo shAnkara Abrahamism vs Shankara
+## Neo-shAnkara "Abrahamism" vs Shankara
 
 >  The Svetesvatara Upanishad says , 3.2 says एको हि रुद्रो न द्वितीयाय तस्थुर्य …… ॥ He-Rudra '—is indeed one only. There is no one beside Him who can make Him the second. ... Just like Abrahamic religions you guys say there is only one name for God, Vishnu, Narayana etc. like Muslims they Allah is the only God, Christians say Christ is the only God. - @naveengubba2393
 
@@ -139,7 +139,7 @@ As per shankara in 9.23 etc., there are multiple devatAs distinct from vAsudeva 
 
 > **येऽपि अन्यदेवताभक्ताः** अन्यासु देवतासु भक्ताः अन्यदेवताभक्ताः
   
-So, he is saying that those who adore other Gods without understanding that they are inderctly adoring the saguNa brahma vAsudeva viShNu (who is distinct from those) are inferior, and get inferior fruits. 
+So, he is saying that those who adore other Gods without understanding that they are indirectly adoring the saguNa brahma vAsudeva viShNu (who is distinct from those) are inferior, and get inferior fruits. 
 
 > Adi Shankara came to reconcile all these sampradayas and preached panchayatana puja as found in Puranas. Don’t hate or bring a gradation between Vishnu and Shiva please. - @naveengubba2393 
 
