@@ -36,5 +36,6 @@ title = "Ananda - mImAMsA sAmya tAratamya"
 - rAjasika brahmANDa-purANa shloka-s *untraceable* in common editions?  
 - Interpretation relative to stronger evidence?
 - **"yajus-saMhitA"** with no hint of being vedic.
+- **Acknowledgement** - Conversation with a mAdhva. Vehemence vs objectivity. Fanaticism vs auto-correction.
 - **Conclusion** - Respect for rAmAnuja and madhva. Good intentions, caught shankara. Probity different. Which approach do you prefer?
 </details>
