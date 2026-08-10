@@ -59,5 +59,5 @@ Actually, this was the sequence.
 - परकाल-यति-कृतः विजयीन्द्र-पराजयः (R)
 - सत्यप्रमोदकृत– विजयीन्द्र-विजय-वैभवम्
   
-There may be other polemics, but I don't know.  
+There may be other polemics, but I don't know. (Of course there were many other vAda-grantha-s outside this particular series.)  
 vijayIndra's few lines of objections are rather trivially dismissable.
