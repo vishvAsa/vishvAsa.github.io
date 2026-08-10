@@ -12,7 +12,7 @@ Source: [TW](https://youtu.be/KILe7og25WU)
 
 00:00 - mangalam
 01:15 - **Question** - muktas and brahman - Ananda level? 
-03:00 - **Agreement** - varying source of Joy. service vs lordship. Unique attributes of Ishvara. Differences in saMsAra.
+03:00 - **Agreement** - varying source of Joy. (Correction: mAdhvas, unlike SVs, say bhagavAn doesn't derive joy from exterior sources like lakShmI.) service vs lordship. Unique attributes of Ishvara. Differences in saMsAra.
 05:30 - **Evidence** - shabda-pramANa, secondarily logic.
 06:40 - Peek into rAmAnujIya vs mAdhva **handling of pramANa-s**.
 08:00 - Ananda-mImAMsA shruti in **taittirIya upaniShat** (Ananda-vallI / brahma-vallI)
@@ -36,7 +36,7 @@ Source: [TW](https://youtu.be/KILe7og25WU)
 50:30 - Comparison to shankara's 2 brahman-s in brahma-sUtra 2 sUtras.
 52:40 - A different brahman just in this one sentence? bRhad-AraNyaka, taittirIya.
 55:00 - **taittirIya** - "यतो वाचो निवर्तन्ते"
-56:00 - **prajApati** - purANic 4-faced brahmA per rAmAnujIya-s 
+56:00 - **prajApati** - purANic 4-faced brahmA per rAmAnujIya-s (esp. when para-brahma is referred to by another word.) 
 57:20 - madhva - rudra?! Genital-connection "शिश्न-देव". Can't be mukta - so sheSha!? garuDa?! 
 01:02:13 - **Supporting evidence**. None? 
 01:03:40 - Other shruti-s, brahma-sUtras - परमं साम्यम् उपैति। Resort to lakShaNa/ implied meanings?
