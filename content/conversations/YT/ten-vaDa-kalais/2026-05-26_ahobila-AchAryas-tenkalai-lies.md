@@ -175,7 +175,7 @@ and the language and contents make the latter date more probable for the record.
 Taking this year the date becomes equivalent to 24th June 1709 A. D."
 adiyEn Ramanuja Daasan @muthukesavan
 
-namaste, Irrespective of the year, PBA's deliberate misrepresentation of the edict remains as stated.
+namaste, PBA only says "200 yrs ago", which is still incorrect. More importantly, irrespective of the year, PBA's deliberate misrepresentation of the edict remains as stated.
 
 Regarding the year, likely the earlier is correct, considering this -
 
