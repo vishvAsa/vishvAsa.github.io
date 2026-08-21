@@ -3,6 +3,7 @@ title = "Ananda - mImAMsA sAmya tAratamya"
 +++
 
 ## Joy/ Ananda mImAMsA - rAmAnuja's sAmya vs madhva's tAratamya; evidence choice, handling & attitude
+
 Source: [TW](https://youtu.be/KILe7og25WU)
 
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/KILe7og25WU"></div>
@@ -49,6 +50,31 @@ Source: [TW](https://youtu.be/KILe7og25WU)
 01:17:15 - mAdhva-s - Admiration, close connection.
 01:18:00 - **Conclusion** - Respect for rAmAnuja and madhva. Good intentions, caught shankara. Probity different. Which approach do you prefer?
 </details>
+
+## loka-s in bRhadAraNyaka, veda-mImAMsA - discard direct meaning? inconsistency? ranga-rAmAnuja vs madhva
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+- mangalam  
+- **Intro** - higher worlds listing. Example of rAmAnujIya vs mAdhva handling of text/ scripture pramANa.  
+- **gArgI-yAjnavalkya brAhmaNam** (shatapatha - bRhadAraNyaka (5.2)) - earth, water, air - direct meaning.
+- ota-prota - enmeshment. containment.
+- **Greek sage allegory** - ocean bottom being: surface being :: surface being: Gods in stars
+- **Containment of worlds** (modern science) - earth, atmosphere, outer space, solar system, galaxy, local cluster, universe
+- **physical world order** - antarikSha, gandharva-loka, Aditya-loka, chandra-loka, nakShatra-loka (occlusion order, time measurement order)
+- **madhva's mistaken pATha** vs continuous recitation tradition (adhyayana-paramparA). Strange correlation with aboriginal "brahma-tarka".
+- **madhva's Ananda** interpretation - to fit with later mukta-Ananda-tAratamya (6.2), makes everything other worldly. 
+- loka (world) = Ananda (joy)? लोक इति मुक्तानाम् आनन्दानुभवाः
+- **brahma-tarka's** strange beings "Apa, gandharva-marut, antarikSha sons of vAyu etc."
+- unheard-of shruti - 'वायुना हि सर्वे लोका नेनीयन्ते'
+- **madhva's Excuse** - higher worlds cant support lower ones? देवताम् अतिपृच्छसि?
+- deva-loka, indra-loka, prajApati-loka, brahma-loka. Spatial containment?
+- **dimensional containment** - point, line, plane, 3d-space, 4d-space etc.. 10+ dimensions in string theory.
+- **ranga-rAmAnuja's inconsistency** vs madhva - prajApati-loka, brahma-loka. 
+- Conclusion - which mImAMsA you like - V, R, M?
+</details>
+
 
 ## Polemics
 > I heard that Ananda Taratamya khandana was rebutted by the madhva scholar Vijayeendra Tirtha in his work Vijayeendra Vaag vijaya. Any response from VA yet? - @beigomaacademymathsclub5873
