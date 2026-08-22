@@ -51,28 +51,38 @@ Source: [TW](https://youtu.be/KILe7og25WU)
 01:18:00 - **Conclusion** - Respect for rAmAnuja and madhva. Good intentions, caught shankara. Probity different. Which approach do you prefer?
 </details>
 
-## loka-s in bRhadAraNyaka, veda-mImAMsA - discard direct meaning? inconsistency? ranga-rAmAnuja vs madhva
+## loka-s in bRhadAraNyaka, veda-mImAMsA - forced meaning? inconsistency? ranga-rAmAnuja vs madhva
+
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/Jwa06kESMus"></div>
 
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-- mangalam  
-- **Intro** - higher worlds listing. Example of rAmAnujIya vs mAdhva handling of text/ scripture pramANa.  
-- **gArgI-yAjnavalkya brAhmaNam** (shatapatha - bRhadAraNyaka (5.2)) - earth, water, air - direct meaning.
-- ota-prota - enmeshment. containment.
-- **Greek sage allegory** - ocean bottom being: surface being :: surface being: Gods in stars
-- **Containment of worlds** (modern science) - earth, atmosphere, outer space, solar system, galaxy, local cluster, universe
-- **physical world order** - antarikSha, gandharva-loka, Aditya-loka, chandra-loka, nakShatra-loka (occlusion order, time measurement order)
-- **madhva's mistaken pATha** vs continuous recitation tradition (adhyayana-paramparA). Strange correlation with aboriginal "brahma-tarka".
-- **madhva's Ananda** interpretation - to fit with later mukta-Ananda-tAratamya (6.2), makes everything other worldly. 
-- loka (world) = Ananda (joy)? लोक इति मुक्तानाम् आनन्दानुभवाः
-- **brahma-tarka's** strange beings "Apa, gandharva-marut, antarikSha sons of vAyu etc."
-- unheard-of shruti - 'वायुना हि सर्वे लोका नेनीयन्ते'
-- **madhva's Excuse** - higher worlds cant support lower ones? देवताम् अतिपृच्छसि?
-- deva-loka, indra-loka, prajApati-loka, brahma-loka. Spatial containment?
-- **dimensional containment** - point, line, plane, 3d-space, 4d-space etc.. 10+ dimensions in string theory.
-- **ranga-rAmAnuja's inconsistency** vs madhva - prajApati-loka, brahma-loka. 
-- Conclusion - which mImAMsA you like - V, R, M?
+00:00 - **mangalam**  
+01:10 - **Intro** - Example of rAmAnujIya (vishvAsa vs ranga-rAmAnuja) vs mAdhva handling of text/ scripture pramANa. higher worlds listing. भूर् भुवः स्वः। 
+03:00 - **Greek sage allegory** - ocean bottom being: surface being :: surface being: Gods in stars
+04:25 - **gArgI-yAjnavalkya brAhmaNam** (shatapatha - bRhadAraNyaka (5.2)) ota-prota - enmeshment. containment.
+06:00 - earth in water. 
+08:20 - water in air - direct meaning.
+09:50 - **physical world order** - antarikSha, gandharva-loka, Aditya-loka, chandra-loka, nakShatra-loka (occlusion order, time measurement order)
+17:55 - **madhva's Ananda** interpretation - to fit with later mukta-Ananda-tAratamya (6.2), makes everything other worldly. 
+18:50 - loka (world) = Ananda (joy)? लोक इति मुक्तानाम् आनन्दानुभवाः
+22:00 - **brahma-tarka's** strange beings "Apa, gandharva-marut, antarikSha sons of vAyu etc."
+25:50 - "यदिदं सर्वम्" - "All this" - how can gArgi point to the other world with these words? Forced meaning.
+26:50 - unheard-of shruti - 'वायुना हि सर्वे लोका नेनीयन्ते'
+29:20 - **madhva's mistaken pATha** vs continuous recitation tradition (adhyayana-paramparA). Strange correlation with aboriginal "brahma-tarka".
+32:15 - **madhva's Excuse** - higher worlds cant support lower ones? देवताम् अतिपृच्छसि?
+35:50 - deva-loka, indra-loka, prajApati-loka, brahma-loka. **Containment of worlds** (modern science) - earth, atmosphere, outer space, solar system, galaxy, local cluster, universe
+43:20 - **dimensional containment** - point, line, plane, 3d-space, 4d-space etc.. 10+ dimensions in string theory.
+45:20 - **Not wasted** - Physical universe explanation.
+47:00 - **ranga-rAmAnuja's inconsistency** vs madhva - prajApati-loka, brahma-loka. Reading order.
+49:00 - **Keep direct meaning** (mukhyArtha) everywhere possible. madhva's near-total violation. ranga-rAmAnuja's misstep in Ananda-mImAMsA. रसो वै सः। कुशलः।
+53:20 - **Credits**. Fanaticism. Enthusiasm to present siddhAnta, insufficient discipline, honesty, capacity to evaluate evidence/ pramANa-s. Monkey jumps vs getting to the bottom. 
+55:30 - इन्द्रश्च मे प्रजापतिश्च मे as "evidence" of rudra being prajApati. 
+56:30 - परतरम्। मत्तः as अहमेव. तमप् vs तरप्। 
+59:40 - Good wishes to him. Contrast with others.
+1:00:45 - **Conclusion** - which mImAMsA you like - V, R, M? 
+1:01:45 - Many things to learn between traditions - maTha structure & rituals vs picking & handling pramANas.
 </details>
 
 
