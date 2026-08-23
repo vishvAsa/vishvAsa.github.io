@@ -98,6 +98,9 @@ And the physical meaning is explicitly denied by madhva and his commentator (rag
 
 > Do Vedas need to tell us how the physical world organised, as it can be known by Pratyaksha and Anumana ( using scientific methods).  @saptarshimukherjee6622
 
+> convention you used like saying yajnavalkya seeing the timeperiod of phases of sun and moon he concluded such in the list ? isn't it suggesting that it is anumana sadhya. @andromedaxinsearchofanewho210
+
+
 Then why did vyAsa describe our world in the purANa-s, as objected in https://www.youtube.com/watch?v=Jwa06kESMus&t=2720s ?
 
 Further, the sense of sacredness and wonder about the physical universe is nurtured by shabda as well, though seeded by our own svabhAva; not so much by pratyaxa and anumAna. 
