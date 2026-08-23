@@ -117,6 +117,11 @@ All of the above. brahma-loka is mentioned right here. Reaching विष्ण�
 > तद्विष्णोः परमं पदम् (कठ.१.३.९) 
 
 
+> why must Vishnu be located in Vaikuntha? Does saying that Vishnu is ‘in Vaikuntha’ imply that Vaikuntha spatially limits him? If Vishnu is truly infinite and all-pervading, what does it mean to say that he is specifically in one place? - @beigomaacademymathsclub5873  
+
+mukta-s are located in vaikuNTha, that too generally.  
+viShNu of course pervades all.
+
 ## Polemics
 > I heard that Ananda Taratamya khandana was rebutted by the madhva scholar Vijayeendra Tirtha in his work Vijayeendra Vaag vijaya. Any response from VA yet? - @beigomaacademymathsclub5873
 
