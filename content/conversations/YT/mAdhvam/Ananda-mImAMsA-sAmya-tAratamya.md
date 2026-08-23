@@ -122,6 +122,17 @@ All of the above. brahma-loka is mentioned right here. Reaching विष्ण�
 mukta-s are located in vaikuNTha, that too generally.  
 viShNu of course pervades all.
 
+## viShNu
+> how do Sri Vaishnavas prove that the Brahman in the Vedas referring to Vishnu alone? @saptarshimukherjee6622
+
+nArAyaNa is cause of universe as per veda.  
+nArAyaNa is a visheShya, not visheShaNa as per vyAkaraNa / grammar, unlike rudra, viShNu, indra etc.  
+nArAyaNa is said to be husband of lakShmI in shruti - ह्रीश् च ते लक्ष्मीश् च पत्न्यौ। 
+Hence proved.
+
+Besides this, nArAyaNa is famous as being synonymous to viShNu husband of lakShmI.  
+
+
 ## Polemics
 > I heard that Ananda Taratamya khandana was rebutted by the madhva scholar Vijayeendra Tirtha in his work Vijayeendra Vaag vijaya. Any response from VA yet? - @beigomaacademymathsclub5873
 

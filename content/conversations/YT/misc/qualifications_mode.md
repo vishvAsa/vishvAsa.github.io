@@ -2,6 +2,11 @@
 title = "Qualifications & mode"
 +++
 
+## Purpose
+> How does your criticism of others be it other sampradayas or other people in sva-sampradaya help you in your Atma-yAtra? - Vij
+
+The same way it helped yAmuna, rAmAnuja, deshika, KSV etc..
+
 ## shAstrArtha debate
 > If there is any controversy or dispute, you should participate in a proper shastrartha (scholarly debate) there instead of uploading trivial and unnecessary videos on YouTube.
 > - @रंजनमंडल-छ5प
@@ -28,6 +33,9 @@ One does not need to acquire the Quran knowledge of a mulla to dismiss his geoce
 Furthermore, shAnkaran advaita (for example) is famously unsound; and it is not like I am freshly inventing arguments against it.  
 Focus on the strength of the arguments themselves.  
 
+> They didn't criticize until they became sarva-tantra-svatantra though.  So I don't think the comparison is apt. Y, R, VD, KSV did not criticize anyone until they already mastered a bunch of subjects. Are you saying you have? - V
+
+I find this credentialism comical - you don't need to be an Einstein to point out the kind of errors I point out. Also, one doesn't have to be shivAjI or chingiz khAn to pick up a sword when appropriate. 
 
 > people does not even regard you as a scholar. Even YouTube seems to have nothing better to do than recommend such pointless content. - @रंजनमंडल-छ5प
 
