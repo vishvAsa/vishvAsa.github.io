@@ -67,7 +67,7 @@ Source: [TW](https://youtu.be/Jwa06kESMus)
 08:20 - water in air - direct meaning.
 09:50 - **physical world order** - antarikSha, gandharva-loka, Aditya-loka, chandra-loka, nakShatra-loka (occlusion order, time measurement order)
 17:55 - **madhva's Ananda** interpretation - to fit with later mukta-Ananda-tAratamya (6.2), makes everything other worldly. 
-18:50 - loka (world) = Ananda (joy)? लोक इति मुक्तानाम् आनन्दानुभवाः
+18:50 - loka (world) = Ananda (joy)? लोक इति मुक्तानाम् आनन्दानुभवाः. (Correction - The mAdhva rAghavendra gives a strange derivation लो + क to claim that it's muktAnanda. But even that discards the well-established meaning.)
 22:00 - **brahma-tarka's** strange beings "Apa, gandharva-marut, antarikSha sons of vAyu etc."
 25:50 - "यदिदं सर्वम्" - "All this" - how can gArgi point to the other world with these words? Forced meaning.
 26:50 - unheard-of shruti - 'वायुना हि सर्वे लोका नेनीयन्ते'
