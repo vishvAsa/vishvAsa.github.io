@@ -95,6 +95,7 @@ And the physical meaning is explicitly denied by madhva and his commentator (rag
 
 > लोक-शब्दस्योक्तार्थत्वम् अनङ्गीकृत्य  प्रसिद्धार्थत्वाङ्गीकारे बाधकमाह - नचेति ।
 
+_______________
 > Do Vedas need to tell us how the physical world organised, as it can be known by Pratyaksha and Anumana ( using scientific methods).  @saptarshimukherjee6622
 
 > convention you used like saying yajnavalkya seeing the timeperiod of phases of sun and moon he concluded such in the list ? isn't it suggesting that it is anumana sadhya. @andromedaxinsearchofanewho210
