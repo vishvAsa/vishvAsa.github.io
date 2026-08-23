@@ -52,6 +52,7 @@ Source: [TW](https://youtu.be/KILe7og25WU)
 </details>
 
 ## loka-s in bRhadAraNyaka, veda-mImAMsA - forced meaning? inconsistency? ranga-rAmAnuja vs madhva
+Source: [TW](https://youtu.be/Jwa06kESMus)
 
 <div class="videoEmbed"  caption="Video" src="https://youtu.be/Jwa06kESMus"></div>
 
@@ -84,6 +85,33 @@ Source: [TW](https://youtu.be/KILe7og25WU)
 1:00:45 - **Conclusion** - which mImAMsA you like - V, R, M? 
 1:01:45 - Many things to learn between traditions - maTha structure & rituals vs picking & handling pramANas.
 </details>
+
+## Multiple meanings?
+> 
+Madhvacharya himself said that vedic shlokas can have multiple meanings. But the prime motive of the vedas is letting us know about those things which can’t be known by mere Pratyaksha and Anumana.  I like how you and Ranga Ramanuja Muni interpreted this and it is more direct but how Madhvacharya interpret in a different way is also very interesting and may be more adhyatmika. Can’t both co-exist?  @saptarshimukherjee6622
+
+Then an infinity of other arbitrary meanings can coexist, as mentioned in https://www.youtube.com/watch?v=Jwa06kESMus&t=2720s .  
+Also, jayatIrtha himself says eka-śabdānekārtha-kalpanā-doṣa is a flaw.  
+And the physical meaning is explicitly denied by madhva and his commentator (raghUttama?) - 
+
+> लोक-शब्दस्योक्तार्थत्वम् अनङ्गीकृत्य  प्रसिद्धार्थत्वाङ्गीकारे बाधकमाह - नचेति ।
+
+> Do Vedas need to tell us how the physical world organised, as it can be known by Pratyaksha and Anumana ( using scientific methods).  @saptarshimukherjee6622
+
+Then why did vyAsa describe our world in the purANa-s, as objected in https://www.youtube.com/watch?v=Jwa06kESMus&t=2720s ?
+
+Further, the sense of sacredness and wonder about the physical universe is nurtured by shabda as well, though seeded by our own svabhAva; not so much by pratyaxa and anumAna. 
+
+Also, not every word in the vedas need point to some otherworldly thing. Eg. "यद् इदं सर्वम्" right here in gArgI's words.
+
+## vaikuNTha
+
+> I would like to know the answer to this question regarding Vaikunta being separate from this bhuloka. What is the veda pramana of Vaikunta loka being the abode of vishnu and nitya sooris etc. Or is it coming from Pancharatra agama? Bhagavat Gita or Brahma sutra or Upanishads mention of Vaikunta loka? @srikkanthank
+
+All of the above. brahma-loka is mentioned right here. Reaching विष्णोः परमं पदम् is explicitly mentioned in major upaniShats (not obscure ones).
+
+> सोऽध्वनः पारमाप्नोति  
+> तद्विष्णोः परमं पदम् (कठ.१.३.९) 
 
 
 ## Polemics
