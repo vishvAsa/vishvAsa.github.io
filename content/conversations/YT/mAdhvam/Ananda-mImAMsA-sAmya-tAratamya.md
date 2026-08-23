@@ -87,8 +87,7 @@ Source: [TW](https://youtu.be/Jwa06kESMus)
 </details>
 
 ## Multiple meanings?
-> 
-Madhvacharya himself said that vedic shlokas can have multiple meanings. But the prime motive of the vedas is letting us know about those things which can’t be known by mere Pratyaksha and Anumana.  I like how you and Ranga Ramanuja Muni interpreted this and it is more direct but how Madhvacharya interpret in a different way is also very interesting and may be more adhyatmika. Can’t both co-exist?  @saptarshimukherjee6622
+> Madhvacharya himself said that vedic shlokas can have multiple meanings. But the prime motive of the vedas is letting us know about those things which can’t be known by mere Pratyaksha and Anumana.  I like how you and Ranga Ramanuja Muni interpreted this and it is more direct but how Madhvacharya interpret in a different way is also very interesting and may be more adhyatmika. Can’t both co-exist?  @saptarshimukherjee6622
 
 Then an infinity of other arbitrary meanings can coexist, as mentioned in https://www.youtube.com/watch?v=Jwa06kESMus&t=2720s .  
 Also, jayatIrtha himself says eka-śabdānekārtha-kalpanā-doṣa is a flaw.  
