@@ -18,3 +18,4 @@ title = "Shankara vijayas"
 - **Physical fraud** - sureshvara's samAdhi in main kAnchI despite maTha shift from viShNu-kAnchI?
 - **Conclusion** - Find better sources for history. Check. kAvya-s good for internal consumption (if used selectively), Accept good and bad? Not for external respect & recognition. 
 </details>
+

@@ -77,7 +77,7 @@ Source: [TW](https://youtu.be/Jwa06kESMus)
 43:20 - **dimensional containment** - point, line, plane, 3d-space, 4d-space etc.. 10+ dimensions in string theory.
 45:20 - **Not wasted** - Physical universe explanation.
 47:00 - **ranga-rAmAnuja's inconsistency** vs madhva - prajApati-loka, brahma-loka. Reading order.
-49:00 - **Keep direct meaning** (mukhyArtha) everywhere possible. madhva's near-total violation. ranga-rAmAnuja's misstep in Ananda-mImAMsA. रसो वै सः। कुशलः।
+49:00 - **Keep direct meaning** (mukhyArtha and rUDhArtha) everywhere possible. madhva's near-total violation (Correction - Despite some weird derivations as in ApaH, he discards well-established meanings). ranga-rAmAnuja's misstep in Ananda-mImAMsA. रसो वै सः। कुशलः।
 53:20 - **Credits**. Fanaticism. Enthusiasm to present siddhAnta, insufficient discipline, honesty, capacity to evaluate evidence/ pramANa-s. Monkey jumps vs getting to the bottom. 
 55:30 - इन्द्रश्च मे प्रजापतिश्च मे as "evidence" of rudra being prajApati. 
 56:30 - परतरम्। मत्तः as अहमेव. तमप् vs तरप्। 
@@ -125,13 +125,7 @@ viShNu of course pervades all.
 ## viShNu
 > how do Sri Vaishnavas prove that the Brahman in the Vedas referring to Vishnu alone? @saptarshimukherjee6622
 
-nArAyaNa is cause of universe as per veda.  
-nArAyaNa is a visheShya, not visheShaNa as per vyAkaraNa / grammar, unlike rudra, viShNu, indra etc.  
-nArAyaNa is said to be husband of lakShmI in shruti - ह्रीश् च ते लक्ष्मीश् च पत्न्यौ। 
-Hence proved.
-
-Besides this, nArAyaNa is famous as being synonymous to viShNu husband of lakShmI.  
-
+See [TW](/rAmAnujIyam/tattvam/venkaTa-nAtha-shAkhA/vishvAsaH/prameyAH/viShNu-pAramyam)
 
 ## Polemics
 > I heard that Ananda Taratamya khandana was rebutted by the madhva scholar Vijayeendra Tirtha in his work Vijayeendra Vaag vijaya. Any response from VA yet? - @beigomaacademymathsclub5873

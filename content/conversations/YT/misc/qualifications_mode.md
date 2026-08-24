@@ -7,6 +7,13 @@ title = "Qualifications & mode"
 
 The same way it helped yAmuna, rAmAnuja, deshika, KSV etc..
 
+## Outburst?
+My vids are generally not rash or instinctive. Certainly not an outburst - more a chore.  
+An outline is prepared beforehand. I have a pretty big backlog of such.  
+I make a video only when I feel the vedic injunction "प्रवचनान् न प्रमदितव्यम्" is way overdue. 
+
+Exceptions are when a certain situation demands a more timely response.
+
 ## shAstrArtha debate
 > If there is any controversy or dispute, you should participate in a proper shastrartha (scholarly debate) there instead of uploading trivial and unnecessary videos on YouTube.
 > - @रंजनमंडल-छ5प
