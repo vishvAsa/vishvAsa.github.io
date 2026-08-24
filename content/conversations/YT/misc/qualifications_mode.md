@@ -2,11 +2,6 @@
 title = "Qualifications & mode"
 +++
 
-## Purpose
-> How does your criticism of others be it other sampradayas or other people in sva-sampradaya help you in your Atma-yAtra? - Vij
-
-The same way it helped yAmuna, rAmAnuja, deshika, KSV etc..
-
 ## Outburst?
 My vids are generally not rash or instinctive. Certainly not an outburst - more a chore.  
 An outline is prepared beforehand. I have a pretty big backlog of such.  
@@ -34,15 +29,15 @@ It is idiotic to think that video recording technology cannot be used to exchang
 I am not obliged to pick some mode of debate convenient to your prejudice. Further, a video argument merits a video response.
 
 ## Qualifications
+> They didn't criticize until they became sarva-tantra-svatantra though.  So I don't think the comparison is apt. Y, R, VD, KSV did not criticize anyone until they already mastered a bunch of subjects. Are you saying you have? - Vij
+
+I find this credentialism comical - you don't need to be an Einstein to point out the kind of errors I point out. Also, one doesn't have to be shivAjI or chingiz khAn to pick up a sword when appropriate.
+
 > first acquire the knowledge like him (Shri Vidhushekhara Bharati) & then do the artha vichara. -  @S.Koushik9999
 
 One does not need to acquire the Quran knowledge of a mulla to dismiss his geocentrism arguments.  
 Furthermore, shAnkaran advaita (for example) is famously unsound; and it is not like I am freshly inventing arguments against it.  
 Focus on the strength of the arguments themselves.  
-
-> They didn't criticize until they became sarva-tantra-svatantra though.  So I don't think the comparison is apt. Y, R, VD, KSV did not criticize anyone until they already mastered a bunch of subjects. Are you saying you have? - V
-
-I find this credentialism comical - you don't need to be an Einstein to point out the kind of errors I point out. Also, one doesn't have to be shivAjI or chingiz khAn to pick up a sword when appropriate. 
 
 > people does not even regard you as a scholar. Even YouTube seems to have nothing better to do than recommend such pointless content. - @रंजनमंडल-छ5प
 
