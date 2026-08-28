@@ -107,9 +107,7 @@ Link to video contrasting vaiShNava and shaiva polytheism from neo-advaitin mono
 </details>
 
 ## ghRta-sUktam
-
-
-## AyuShya/ ghRta sUkta - rudra, viShNu, prajApati, kArttikeya, brahma-s, ArdrA, invaka-s, mRgashiras
+AyuShya/ ghRta sUkta - rudra, viShNu, prajApati, kArttikeya, brahma-s, ArdrA, invaka-s, mRgashiras
 
 Source: [TW](https://youtu.be/DFmMzoc0JLk)
 
