@@ -103,9 +103,14 @@ _______________
 
 Then why did vyAsa describe our world in the purANa-s, as objected in https://www.youtube.com/watch?v=Jwa06kESMus&t=2720s ?
 
-Further, the sense of sacredness and wonder about the physical universe is nurtured by shabda as well, though seeded by our own svabhAva; not so much by pratyaxa and anumAna. 
+Further, the sense of sacredness and wonder about the physical universe is nurtured by shabda as well, though seeded by our own svabhAva (natural inclination, whereever it comes from); not so much by pratyaxa and anumAna.  
 
 Also, not every word in the vedas need point to some otherworldly thing. Eg. "यद् इदं सर्वम्" right here in gArgI's words.
+
+
+> the vedas how can it be apaurusheya ? won't it just become an anuvada - @andromedaxinsearchofanewho210
+
+Why should there be zero anuvAda in an apauruSheya text? There's no such rule.
 
 ## vaikuNTha
 
