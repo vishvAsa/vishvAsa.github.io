@@ -14,7 +14,7 @@ Obection - Opposite attributes can't coexist.
 Fix - attributes aren't opposite.  
 तत् त्वम् असि। sAmAnAdhikaraNya intended.  
 तत्, त्वम् are with attributes only. Removing attributes = twisting words.   
-Justification - opposite attributes. किञ्चिज्-ज्ञत्वम् vs सर्वज्ञत्वम्। गङ्गायां घोषः।
+Justification - opposite attributes. किञ्चिज्-ज्ञत्वम् vs सर्वज्ञत्वम्। गङ्गायां घोषः। शुकरहस्योपनिषत्।
 No justification - attributes aren't opposite - sharIra-sharIri-bhAva. stated in same context - ऐतद्-आत्म्यम् इदं सर्वम्।  
 सर्व-शब्द-वाच्यता of ब्रह्म। All words can refer to the body, Atma, paramAtma. अहं रोगी। अहं जानामि। अहं ब्रह्म। Verb decides meaning.  
 सर्वं खल्व् इदम् ब्रह्म।  
