@@ -1,6 +1,28 @@
 +++
-title = "Video records"
+title = "chakkilam venkaTesh"
 +++
+
+## chakkilam venkaTesh - lies/ fraud vs "paraphrases", pointing out lies vs "abuse", insults his followers.
+
+<div class="videoEmbed"  caption="Video" src="https://youtu.be/YeVszimdA_M"></div>
+
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+00:00 - mangalam  
+00:45 - Intro - Define paraphrase.
+01:25 - Fake brahma-sUtra quotation - can one paraphrase "उत्पत्त्यसम्भवात् ॥ ४२ ॥  " as "पाञ्चरात्रं तु केचित्"?
+03:15 - can one paraphrase "न च कर्तुः करणम् ॥ ४३ ॥" as "असमञ्जसम्, अविरोधाच्च"?
+04:30 - Ask AI. (bing copilot, gemini, claude.)
+05:45 - ब्राह्मणेभ्यः पितृभ्यश् च मुखम् एतत् तु दानजम् । दत्त-दानस् तु विषुवे कृत-कृत्योऽभिजायते ॥७९॥ can't be paraphrased as वैष्णवः परमो लोको वैकुण्ठाख्यः सनातनः । सप्तलोक इति प्रोक्तो ब्रह्मणः पदमुत्तमम् ॥
+08:45 - Not paraphrases. Attempt to fool followers. Insults them.
+09:45 - Pointing out fraud & lies is not "abuse".
+11:00 - Misrepresents an entire darshana / philosophy. Testimony from a vaikhAnasa scholar. See https://www.youtube.com/watch?v=svZ0M70VufM . Many other errors - https://www.youtube.com/playlist?list=PL63uIhJxWbgiP8kds9zRvepT_Wtx-soVA 
+14:00 - aham-brahmAsmi foundation of shRngerI shAradA pITha considers him qualified to teach 6 darshana-s?
+15:50 - Question to followers of chakkulam
+16:30 - Context behind video - traumatized by being exposed as a fraud; he dragged my name in an unrelated conversation.
+</details>
+
 
 ## chakkilam venkatesh lies about yAmuna, yavanAchArya. shankara accepts vaikuNTha,  a physical place  
 
