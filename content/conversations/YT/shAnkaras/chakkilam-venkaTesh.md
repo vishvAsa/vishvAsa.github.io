@@ -109,7 +109,7 @@ Source: [TW](https://youtu.be/4QQ-DhoYE-8)
 
 Original video - https://www.youtube.com/watch?v=CRVweo9_0zY  
 
-00:00 - Intro  
+00:00 - Intro  shuklAmbara-dharaM viShNum
 01:00 - pUrva-paxa  
 02:20 - overriding rUDhi meaning with etymology vs case of "mahAdeva" in vAlmIki rAmAyaNa  
 04:14 - cause - hatred towards vaiShNavism  
@@ -118,6 +118,10 @@ Original video - https://www.youtube.com/watch?v=CRVweo9_0zY
 09:30 - gaNAnAm tvA gaNapatim refers to brahmaNas-pati as per sAyaNa.  
 11:05 - cause for twisted thought  
 12:20 - multiplicity of devatAs - polytheism is superior to monotheism under advaitin garb.  
+
+Addendum, acknowledged by the shaiva appayya dIxita -   
+https://youtu.be/vnCRgiNIuVM?list=PLkp2tMUQmqvX4T1yd6JSXiDsybAG8RJae&t=1577  
+There is something called shiva - rAghava samvAda where the shloka comes.
 </details>  
 
 Notable comments - 
