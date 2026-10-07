@@ -39,3 +39,6 @@ title = "Butchering mahAvAkyas"
 01:09:35 - **Conclusion - Dishonesty** - first do poor mImAMsA, then twist the mechanism of remembrence & recognition. Illogic. Then fabricate scriptures for overriding common-sense mImAMsA.
 01:11:54 - Acknowledgement. 
 </details>
+
+## K sadAnanda's failed justification
+Please see comments here - : [TW](/AgamaH_brAhmaH/shAnkara-darshanam/tattvam/prakIrNam/dharmarAjAdhvarI_vedAnta-paribhAShA/sadAnandaH/01_perception/27_vishishtadvaita-position) .
