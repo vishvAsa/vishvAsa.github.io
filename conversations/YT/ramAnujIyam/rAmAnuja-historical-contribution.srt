@@ -1,0 +1,327 @@
+1
+00:00:01,020 --> 00:00:07,080
+Now, I will briefly state what Ramanuja's unique contribution
+was and conclude my talk.
+
+2
+00:00:07,080 --> 00:00:11,020
+What happened was...
+
+3
+00:00:11,020 --> 00:00:19,000
+...around 2,500 years ago, the Buddha came, and Mahavira came.
+Back then, they...
+
+4
+00:00:19,000 --> 00:00:23,000
+...propagated their respective teachings.
+
+5
+00:00:23,000 --> 00:00:27,000
+While they were propagating...
+
+6
+00:00:27,000 --> 00:00:31,000
+...several of the ideas they introduced were contrary to the Vedas.
+
+7
+00:00:31,000 --> 00:00:38,000
+These anti-Vedic ideas became even more pronounced around 1,500
+years ago, when we see among Buddhists...
+
+8
+00:00:38,000 --> 00:00:46,000
+...the emergence of the four major schools: Sautrantika, Vaibhashika,
+Yogachara, and Madhyamika...
+
+9
+00:00:46,000 --> 00:00:49,000
+...making their stance even more rigorous.
+
+10
+00:00:49,000 --> 00:00:55,000
+Within those, the Yogachara and Madhyamika Buddhists concluded that...
+
+11
+00:00:55,000 --> 00:01:05,000
+...everything we perceive in reality is not true at all;
+rather, everything is an illusion (mithya).
+
+12
+00:01:05,000 --> 00:01:11,000
+When asked what the basis of this illusion is, the Madhyamikas
+asserted it is shunya (emptiness/void).
+
+13
+00:01:11,000 --> 00:01:21,000
+The Yogacharas agreed it is void, but held that what we perceive is relatively real.
+Thus, the Buddhists formulated this jagan-mithya-vada.
+
+14
+00:01:21,000 --> 00:01:31,000
+Later on, we began to see the very same ideas appearing among
+orthodox (Astika) thinkers—for example, Gaudapada, Shankara...
+
+15
+00:01:31,000 --> 00:01:35,000
+...Mandana Mishra, and Abhinavagupta.
+
+16
+00:01:35,000 --> 00:01:41,000
+Among all of them, we find the very same concepts that had previously
+emerged among the Buddhists.
+
+17
+00:01:41,000 --> 00:01:45,000
+Hence, we see a close resemblance between them. Because...
+
+18
+00:01:45,000 --> 00:01:52,000
+...just as the Buddhists claim that the Vedas, the Puranas,
+and our entire experience are all illusory...
+
+19
+00:01:52,000 --> 00:01:57,000
+...similarly, Shankaracharya, Gaudapada...
+
+20
+00:01:57,000 --> 00:02:02,000
+...and later Advaitins also assert the same.
+
+21
+00:02:02,000 --> 00:02:11,000
+They maintain that the world is an illusion, and that the Vedas and
+Puranas are not ultimately real (paramarthika), but are actually illusory.
+
+22
+00:02:11,000 --> 00:02:23,000
+Therefore, on this point, there is a clear parallel between the Buddhists
+and the Advaitins. We can see that this is highly contrary to the Vedas.
+
+23
+00:02:23,000 --> 00:02:30,000
+Now, there is no rule that we must automatically reject whatever
+the Buddha has said.
+
+24
+00:02:30,000 --> 00:02:35,000
+If what they said is aligned with the Vedas and our own experience,
+we can certainly accept it.
+
+25
+00:02:35,000 --> 00:02:44,000
+But what we observe here is contradictory, as I will briefly explain.
+
+26
+00:02:44,000 --> 00:02:48,000
+But most importantly...
+
+27
+00:02:48,000 --> 00:02:56,000
+...Gaudapada himself, for example, admits this in his
+Gaudapada Karikas:
+
+28
+00:02:56,000 --> 00:03:02,000
+"Naitad Buddhena bhashitam." Similarly, in Anandagiri's
+Shankara Vijaya...
+
+29
+00:03:02,000 --> 00:03:06,000
+...when Shankara meets Kumarila Bhatta...
+
+30
+00:03:06,000 --> 00:03:13,000
+...he is addressed as, "Ah, so another Buddhist has arrived."
+
+31
+00:03:13,000 --> 00:03:18,000
+Shankara replies, "No, I am not a Buddhist."
+Similarly, later commentators like Bhaskara...
+
+32
+00:03:18,000 --> 00:03:26,000
+...Ramanuja, and Madhva also recognize this parallel
+in these philosophies.
+
+33
+00:03:26,000 --> 00:03:32,000
+They note that the Buddhist concept of Nirvishesha-vada
+(attributeless reality)...
+
+34
+00:03:32,000 --> 00:03:42,000
+...and the claim of an attributeless entity are common to both,
+and subsequent Acharyas argue that this is not found in the Vedas.
+
+35
+00:03:42,000 --> 00:03:48,000
+In this matter, as I have mentioned, there are several difficulties.
+
+36
+00:03:48,000 --> 00:03:54,000
+First, there is a logical error or contradiction (yukti-virodha).
+
+37
+00:03:54,000 --> 00:03:58,000
+For instance, in our day-to-day experience...
+
+38
+00:03:58,000 --> 00:04:05,000
+...not a single person in their life has ever perceived
+a completely attributeless object (nirvishesha vastu).
+
+39
+00:04:05,000 --> 00:04:10,000
+When I see a face or hear a sound, there is always some specific
+attribute (vishesha) present.
+
+40
+00:04:10,000 --> 00:04:15,000
+Be it the tone of voice, the language, or the facial features—
+some distinction is always there.
+
+41
+00:04:15,000 --> 00:04:17,000
+This holds true even in our dreams.
+
+42
+00:04:17,000 --> 00:04:24,000
+We can even demonstrate that it exists in deep sleep (sushupti),
+though I won't delve too deeply into that now.
+
+43
+00:04:24,000 --> 00:04:29,000
+Similarly, regarding the concept of Avidya (ignorance)...
+
+44
+00:04:29,000 --> 00:04:32,000
+...they claim it is beginningless (anadi).
+
+45
+00:04:32,000 --> 00:04:38,000
+They also state that Brahman is eternal and attributeless.
+
+46
+00:04:38,000 --> 00:04:41,000
+Thus, one might ask: what is the locus of this Avidya?
+
+47
+00:04:41,000 --> 00:04:45,000
+But let me leave the topic of Avidya here for now.
+
+48
+00:04:45,000 --> 00:04:55,000
+We can also point out other flaws. For instance, from where
+do they derive this theory?
+
+49
+00:04:55,000 --> 00:05:06,000
+In ancient times, concepts like Rajju-Sarpa-Nyaya (rope-snake analogy)
+are not found in the early Vedas; they were adopted much later.
+
+50
+00:05:06,000 --> 00:05:13,000
+If we look at it objectively, this analogy is not found
+anywhere in the ancient Upanishads.
+
+51
+00:05:13,000 --> 00:05:25,000
+It only appears in texts from about 1,500 years ago,
+specifically in Buddhist and Yoga texts.
+
+52
+00:05:25,000 --> 00:05:28,000
+Thus, these logical flaws exist, along with flaws in hermeneutics
+(Mimamsa-dosha).
+
+53
+00:05:28,000 --> 00:05:35,000
+When interpreting great statements (Mahavakyas) like "Aham Brahmasmi"
+or "Tat Tvam Asi"...
+
+54
+00:05:35,000 --> 00:05:44,000
+...Advaitins must abandon the literal meaning (abhidha) and resort
+to metaphorical meaning (lakshana). Madhvas also do this differently.
+
+55
+00:05:44,000 --> 00:05:51,000
+This hermeneutical flaw is effectively resolved by Ramanuja.
+
+56
+00:05:51,000 --> 00:05:57,000
+When such flaws enter philosophical inquiry...
+
+57
+00:05:57,000 --> 00:06:01,000
+...another issue is Shankara's Vaishnava stance.
+
+58
+00:06:01,000 --> 00:06:11,000
+In his commentary on the Prasthanatrayi (Upanishads, Gita, Brahma Sutras),
+which are genuinely recognized as his own works...
+
+59
+00:06:11,000 --> 00:06:17,000
+...Shankara consistently identifies Vishnu as the Supreme Brahman
+(Parabrahman) or Saguna Brahman.
+
+60
+00:06:17,000 --> 00:06:19,000
+He does not elevate other deities.
+
+61
+00:06:19,000 --> 00:06:29,000
+However, later Advaitins superimposed other texts onto him
+and presented a different view.
+
+62
+00:06:29,000 --> 00:06:33,000
+To address all these issues, our Ramanujacharya...
+
+63
+00:06:33,000 --> 00:06:41,000
+...systematically points out and resolves these flaws.
+
+64
+00:06:41,000 --> 00:06:48,000
+Therefore, as stated in the verse I recited at the very beginning
+of this talk:
+
+65
+00:06:48,000 --> 00:06:57,000
+"Salutations to that Ramanuja, the supreme yogi,
+who cooled the inner fever of the Vedas, Smritis, and Sutras." [1]
+
+66
+00:06:57,000 --> 00:07:05,000
+The Buddhist-influenced ideas that did not align with the Vedas,
+Smritis, or Sutras...
+
+67
+00:07:05,000 --> 00:07:16,000
+...were superimposed upon them, and Ramanuja diagnosed
+and cured this "fever."
+
+68
+00:07:16,000 --> 00:07:22,000
+Thus, offering my respects once again to all three Acharyas...
+
+69
+00:07:22,000 --> 00:07:29,000
+...we must emulate their sincere quest for ultimate truth.
+
+70
+00:07:29,000 --> 00:07:33,000
+We should endeavor to see the truth objectively and impartially.
+
+71
+00:07:33,000 --> 00:07:41,000
+Setting aside our personal biases, we must desire only the truth.
+With these words...
+
+72
+00:07:41,000 --> 00:07:51,000
+...and offering my gratitude to all the elders who gave me this
+opportunity, I conclude my talk here. Thank you.
