@@ -15,5 +15,6 @@ title = "Brahma word torture"
 - no lokAnuvAda excuse. Having only good but not bad qualities is not apparent from worldly observation.  
 - violation of mImAMsA rules of textual interpretation.  
 - A bad habit - Scandalous BG meaning - "माम् एकं ("अहमेवेत्येवं") शरणं व्रज" = "न मत्तोऽन्यद् अस्ती"त्य् अवधारय! vAyka-lakShaNA.
+- Torturing brahma-sUtra-s with indirect meanings - आनन्दमयो ऽभ्यासात्।  "विकार+++(→अवयव)+++-शब्दान् +++(ब्रह्म-प्राधान्यं)+++ ने"ति चेन्, न - प्राचुर्यात्। (तद्-धेतु-व्यपदेशाच् च ... justifies?) "अपराण्यपि सूत्राणि यथासम्भवं ... ब्रह्मण उपपादकानि द्रष्टव्यानि"
 - Conclusion - a twisted, dishonest "philosophy", violates mImAMsA and common sense.
 </details>
