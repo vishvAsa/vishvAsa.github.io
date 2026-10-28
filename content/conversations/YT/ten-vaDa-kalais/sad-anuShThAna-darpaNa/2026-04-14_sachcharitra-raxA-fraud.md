@@ -23,7 +23,7 @@ vaishvadeva avoidance, devatAntara-pUjA, pAncharAtra vs smRti/ sUtra, sad-anuShT
 05:00 - Actually brahma-sUtra-s and rAmAnuja's shrI-bhAShya require nitya-karma anuShThAna with either antaryAmi bhAvanA or etymological understanding.
 06:30 - साक्षाद् अपि जैमिनिः। etymological understanding of deity names to refer to bhagavAn
 07:15 - parAshara-smRti does not forbid.
-07:35 - Confusion extends to vaidikas
+07:35 - Confusion extends to vaidikas. Position is mainstream - you'll find video series like https://www.youtube.com/playlist?list=PLuRaUOzj4B4mXcBnxnLcja85NCs1lJXA5 by shrI vakulAbharaNan reiterating that.
 08:45 - Why even do sandhyAvandanam etc.?
 09:30 - sad-anuShThAna-darpaNa quotes "vAsudeva-saMhitA" (typo - मध्याह्नानन्तरं → मद्यागानन्तरम्). (Edit - seemingly available in manuscript form.)
 12:00 - Verse can be understood otherwise - show us the context.
