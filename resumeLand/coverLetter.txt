@@ -1,0 +1,3 @@
+I wish to find a job where I can apply my data-mining and software engineering training to deliver tangible value. I have prior experience dealing with large data and deploying statistical models both during my  education at University of Texas at Austin, and during later research projects. I also have experience contributing to Java projects in an industrial setting.
+
+Some of my code is available as part of an open source project (also mentioned in my CV) : https://bitbucket.org/vvasuki/bootpos/src . It was written for the Part of speech tagging project at University of Texas described in my resume.
