@@ -16,6 +16,8 @@ table{border-collapse:collapse;font-size:13px;width:100%}
 th,td{border:1px solid #ddd;padding:4px 6px;vertical-align:top;word-break:break-all;white-space:pre-wrap}
 th{background:#f2f2f2;text-align:left;position:sticky;top:0}
 td.path{font-family:monospace;font-size:12px}
+td a{color:#0645ad;text-decoration:underline}
+td a:hover{color:#0b57d0}
 .pend-replace{background:#fff7cc}
 tr:hover{background:#f9f9f9}
 button{padding:5px 10px;cursor:pointer}
@@ -52,7 +54,7 @@ dialog textarea{width:100%;min-height:44px}
   <button onclick="page(1)">Next</button>
   <label style="flex-direction:row"> per page
     <select id="perPage" onchange="render()">
-      <option>50</option><option selected>200</option><option>500</option>
+      <option>50</option><option>200</option><option>500</option><option>1000</option><option>5000</option><option selected>10000</option>
     </select>
   </label>
 </div>

@@ -16,7 +16,14 @@ var SHEET_NAME = 'map'; // ← change if your sheet is named differently
 
 function getSheet_() {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
-  return ss.getSheetByName(SHEET_NAME) || ss.getActiveSheet();
+  var sh = ss.getSheetByName(SHEET_NAME);
+  if (!sh) {
+    var names = ss.getSheets().map(function(s){ return s.getName(); }).join(', ');
+    throw new Error('Sheet tab "' + SHEET_NAME + '" not found in spreadsheet "' + ss.getName() +
+      '". Tabs: [' + names + ']. Rename/import the pdf-lib CSV into a tab named "' + SHEET_NAME +
+      '" (header: source_path,archive_urls,site_path,map_source,Pending), or change SHEET_NAME.');
+  }
+  return sh;
 }
 
 function ensureHeader_(sh) {
@@ -38,10 +45,16 @@ function doGet(e) {
     var cPath = hdr.indexOf('source_path'), cArch = hdr.indexOf('archive_urls'),
         cSite = hdr.indexOf('site_path'), cSrc = hdr.indexOf('map_source'),
         cPend = hdr.indexOf('Pending');
+    if (cPath < 0 || cArch < 0 || cSite < 0 || cSrc < 0) {
+      return json_({ ok: false, rows: [],
+        error: 'Header mismatch on sheet "' + sh.getName() + '": got [' + hdr.join(',') +
+          '], expected source_path,archive_urls,site_path,map_source(,Pending). ' +
+          'This Apps Script is likely bound to the wrong spreadsheet — bind it to the spreadsheet that contains the pdf-lib map (tab "' + SHEET_NAME + '").' });
+    }
     var rows = [];
     for (var i = 1; i < data.length; i++) {
       var r = data[i];
-      if (cPath >= 0 && !r[cPath]) continue; // skip blank rows
+      if (!String(r[cPath] || '').trim()) continue; // skip blank rows
       rows.push({
         source_path:  cPath >= 0 ? String(r[cPath])  : '',
         archive_urls: cArch >= 0 ? String(r[cArch])  : '',
