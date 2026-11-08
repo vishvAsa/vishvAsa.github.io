@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>pdf-lib browser</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+body{font-family:system-ui,sans-serif;margin:16px;color:#222}
+header{display:flex;flex-wrap:wrap;gap:8px;align-items:end;margin-bottom:10px}
+label{display:flex;flex-direction:column;font-size:12px;gap:2px}
+input,select,textarea{font:inherit;font-size:14px;padding:5px 6px;border:1px solid #bbb;border-radius:4px}
+input[type=text]{width:220px}
+#q{width:340px}
+#appUrl{width:360px}
+table{border-collapse:collapse;font-size:13px;width:100%}
+th,td{border:1px solid #ddd;padding:4px 6px;vertical-align:top;word-break:break-all;white-space:pre-wrap}
+th{background:#f2f2f2;text-align:left;position:sticky;top:0}
+td.path{font-family:monospace;font-size:12px}
+.pend-replace{background:#fff7cc}
+tr:hover{background:#f9f9f9}
+button{padding:5px 10px;cursor:pointer}
+#status{font-size:13px;margin:8px 0;min-height:18px}
+#pager{margin:6px 0;display:flex;gap:6px;align-items:center;font-size:13px}
+dialog{max-width:640px;width:92%;border:1px solid #ccc;border-radius:8px;padding:14px}
+dialog::backdrop{background:rgba(0,0,0,.25)}
+dialog label{display:block;margin:8px 0}
+dialog textarea{width:100%;min-height:44px}
+.mono{font-family:monospace;font-size:12px}
+</style>
+</head>
+<body>
+<header>
+  <label>filter (regex, any field)
+    <input id="q" type="text" placeholder="e.g. bellamkoNDa|kANe.*\\.pdf|archive.*details" oninput="applyFilter()">
+  </label>
+  <label>your id (map_source)
+    <input id="uidsel" list="uidlist" type="text" placeholder="e.g. vvasuki">
+    <datalist id="uidlist"></datalist>
+  </label>
+  <label>Apps Script URL (loads sheet live; blank = local map.csv only)
+    <input id="appUrl" type="text" value="https://script.google.com/macros/s/AKfycbxN0DMuFrQRspr1fLMkAiN9-dgllGUQBRaRIaWvAgJcBb6iEVJQt1kRvOo10OBAbWdK/exec">
+  </label>
+  <button id="loadBtn" onclick="load()">Reload</button>
+  <span id="count"></span>
+</header>
+
+<div id="status"></div>
+
+<div id="pager">
+  <button onclick="page(-1)">Prev</button>
+  <span id="pinfo"></span>
+  <button onclick="page(1)">Next</button>
+  <label style="flex-direction:row"> per page
+    <select id="perPage" onchange="render()">
+      <option>50</option><option selected>200</option><option>500</option>
+    </select>
+  </label>
+</div>
+
+<table id="tbl">
+<thead><tr>
+  <th>source_path</th><th>archive_urls</th><th>site_path</th><th>map_source</th><th>Pending</th><th></th>
+</tr></thead>
+<tbody></tbody>
+</table>
+
+<dialog id="editDlg">
+  <h3 style="margin:0 0 8px">Suggest replacement</h3>
+  <div style="font-size:13px;color:#555;margin-bottom:6px">
+    A new row will be inserted <em>immediately below</em> the original in the sheet,
+    with <code>Pending=replace</code> and <code>map_source</code> set to your id.
+    The original row is kept.
+  </div>
+  <label>source_path (anchor, usually unchanged)<input id="f_path" class="mono" type="text"></label>
+  <label>archive_urls (newline-separated)<textarea id="f_arch"></textarea></label>
+  <label>site_path (newline-separated)<textarea id="f_site"></textarea></label>
+  <div style="display:flex;gap:8px;margin-top:10px">
+    <button onclick="submitEdit()">Submit</button>
+    <button type="button" onclick="closeDlg()">Cancel</button>
+  </div>
+</dialog>
+
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<script src="browse.js"></script>
+</body>
+</html>
