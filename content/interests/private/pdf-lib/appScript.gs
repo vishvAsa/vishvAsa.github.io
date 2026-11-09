@@ -1,5 +1,5 @@
 /**
- * pdf-lib endpoint (bound to the map.csv sheet).
+ * pdf-lib endpoint (bound to the Google Sheet).
  *
  * Sheet layout (header row 1):
  *   A source_path | B archive_urls | C site_path | D map_source | E Pending

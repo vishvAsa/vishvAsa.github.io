@@ -51,36 +51,20 @@ $('appUrl').addEventListener('change', e=>localStorage.setItem(LS_URL, e.target.
 
 async function load(){
   const scriptUrl = $('appUrl').value.trim();
-  if(scriptUrl){
-    try{
-      setStatus('loading from Apps Script sheet …');
-      const loaded = await loadRowsFromAppsScript(scriptUrl);
-      if(loaded){
-        applyFilter();
-        setStatus(`loaded ${rows.length} rows from Apps Script sheet`);
-        return;
-      }
-    }catch(e){
-      setStatus('Apps Script load failed: '+e.message+' — falling back to local map.csv');
-    }
+  if(!scriptUrl){
+    setStatus('No Apps Script URL configured.');
+    return;
   }
-  setStatus('loading map.csv …');
   try{
-    const r = await fetch('map.csv', {cache:'no-store'});
-    if(!r.ok) throw new Error('HTTP '+r.status);
-    const txt = await r.text();
-    const parsed = Papa.parse(txt, {header:true, skipEmptyLines:false});
-    rows = parsed.data.filter(r=>r['source_path']!=null).map((r,i)=>({
-      __row: i+2, // csv row (1-based, header is row 1)
-      source_path: r['source_path']||'',
-      archive_urls: r['archive_urls']||'',
-      site_path: r['site_path']||'',
-      map_source: r['map_source']||'',
-      Pending: r['Pending']||'',
-    }));
-    applyFilter();
-    setStatus(`loaded ${rows.length} rows from local map.csv`);
-  }catch(e){ setStatus('failed to load map.csv: '+e.message+' — serve folder with e.g. python -m http.server, or check Apps Script URL'); }
+    setStatus('loading from Apps Script sheet …');
+    const loaded = await loadRowsFromAppsScript(scriptUrl);
+    if(loaded){
+      applyFilter();
+      setStatus(`loaded ${rows.length} rows from Apps Script sheet`);
+    }
+  }catch(e){
+    setStatus('Apps Script load failed: '+e.message);
+  }
 }
 
 function parseAppsScriptText(txt){
