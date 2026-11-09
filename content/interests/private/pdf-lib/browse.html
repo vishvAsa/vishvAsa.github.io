@@ -19,6 +19,7 @@ td.path{font-family:monospace;font-size:12px}
 td a{color:#0645ad;text-decoration:underline}
 td a:hover{color:#0b57d0}
 .pend-replace{background:#fff7cc}
+.pend-add{background:#e8f5e9}
 tr:hover{background:#f9f9f9}
 button{padding:5px 10px;cursor:pointer}
 #status{font-size:13px;margin:8px 0;min-height:18px}
@@ -70,7 +71,8 @@ dialog textarea{width:100%;min-height:44px}
   <h3 style="margin:0 0 8px">Suggest replacement</h3>
   <div style="font-size:13px;color:#555;margin-bottom:6px">
     A new row will be inserted <em>immediately below</em> the original in the sheet,
-    with <code>Pending=replace</code> and <code>map_source</code> set to your id.
+    with <code>Pending=replace</code> (or <code>add</code> if you rename to a brand-new
+    <code>source_path</code>) and <code>map_source</code> set to your id.
     The original row is kept.
   </div>
   <label>source_path (anchor, usually unchanged)<input id="f_path" class="mono" type="text"></label>
@@ -83,6 +85,6 @@ dialog textarea{width:100%;min-height:44px}
 </dialog>
 
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
-<script src="/interests/private/pdf-lib/browse.js"></script>
+<script src="browse.js" onerror="var s=document.createElement('script');s.src='/interests/private/pdf-lib/browse.js';document.body.appendChild(s)"></script>
 </body>
 </html>

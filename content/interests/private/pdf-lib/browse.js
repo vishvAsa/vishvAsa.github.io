@@ -214,7 +214,8 @@ function render(){
   const slice = filtered.slice(pageNum*per, (pageNum+1)*per);
   $('tbl').querySelector('tbody').innerHTML = slice.map((r,i)=> {
     const gi = filtered.indexOf(r);
-    return `<tr class="${r.Pending==='replace'?'pend-replace':''}">
+    const pendCls = r.Pending==='add' ? 'pend-add' : r.Pending==='replace' ? 'pend-replace' : '';
+    return `<tr class="${pendCls}">
       <td class="path">${esc(r.source_path)}</td>
       <td>${linkCell(r.archive_urls, shortenArchiveUrl)}</td>
       <td>${linkCell(r.site_path, shortenSiteUrl)}</td>
@@ -259,7 +260,7 @@ async function submitEdit(){
   setStatus('posting …');
   try{
     await fetch(url, {method:'POST', mode:'no-cors', headers:{'Content-Type':'text/plain'}, body: payload});
-    setStatus(`suggestion queued for ${r.source_path} (Pending=replace, map_source=${uid}) — reload the sheet to see the new row below the original`);
+    setStatus(`suggestion queued for ${r.source_path} (Pending=add/replace, map_source=${uid}) — reload the sheet to see the new row below the original`);
   }catch(e){ setStatus('post failed: '+e.message); }
 }
 

@@ -6,10 +6,19 @@
  *
  * GET  -> JSON { ok:true, header:[...], rows:[{source_path,archive_urls,site_path,map_source,Pending,__row},...] }
  *         Supports JSONP: GET ?callback=myFn -> myFn({...})
- * POST JSON:
+ * Pending convention: "add" for brand-new source_path rows, "replace" for
+ * corrections to an existing source_path, blank once approved/cleared.
+ * POST JSON (edit suggestion):
  *   { source_path, archive_urls, site_path, userId, originalSourcePath, originalRow }
- * Inserts the edited row immediately below the original row, sets Pending="replace"
- * and map_source=userId. Original row is untouched.
+ * Inserts the edited row immediately below the original row and sets
+ * map_source=userId. Pending is "add" if source_path is new (not already in
+ * the sheet), else "replace". Original row is untouched.
+ *
+ * POST JSON (clean append — new UT rows, etc.):
+ *   { action:"append", source_path, archive_urls, site_path, map_source }
+ *   or { action:"appendRows", rows:[{source_path, archive_urls, site_path, map_source}, ...] }
+ * Appends new rows at the end with Pending="add" (existing source_path values
+ * are skipped, returns skipped count).
  */
 
 var SHEET_NAME = 'map'; // ← change if your sheet is named differently
@@ -92,6 +101,38 @@ function doPost(e) {
       return json_({ ok: false, error: 'missing header column (need source_path,archive_urls,site_path,map_source,Pending)' });
     }
 
+    if (body.action === "append" || body.action === "appendRows") {
+      var toAdd = body.action === "appendRows" && Array.isArray(body.rows)
+        ? body.rows
+        : [{ source_path: body.source_path, archive_urls: body.archive_urls,
+             site_path: body.site_path, map_source: body.map_source || body.userId }];
+      var seen = {};
+      for (var i = 1; i < data.length; i++) seen[data[i][cPath]] = true;
+      var added = 0, skipped = 0, lastRow = 0;
+      var batch = [];
+      for (var j = 0; j < toAdd.length; j++) {
+        var r0 = toAdd[j] || {};
+        var sp = String(r0.source_path || '').trim();
+        if (!sp) { skipped++; continue; }
+        if (seen[sp]) { skipped++; continue; }
+        var vals = new Array(HDR.length).fill('');
+        vals[cPath] = sp;
+        vals[cArch] = r0.archive_urls || '';
+        vals[cSite] = r0.site_path || '';
+        vals[cSrc] = r0.map_source || r0.userId || '';
+        vals[cPend] = 'add';
+        batch.push(vals);
+      }
+      if (batch.length) {
+        var startRow = sh.getLastRow() + 1;
+        sh.getRange(startRow, 1, batch.length, HDR.length).setValues(batch);
+        lastRow = sh.getLastRow();
+        added = batch.length;
+      }
+      return json_({ ok: true, action: "appendRows", added: added, skipped: skipped,
+                     sheetRows: sh.getLastRow(), lastRow: lastRow });
+    }
+
     // locate original row: prefer submitted row number, else match source_path
     var anchor = -1; // 0-based index into data
     if (body.originalRow && body.originalRow >= 1 && body.originalRow <= data.length) {
@@ -108,6 +149,11 @@ function doPost(e) {
     var uid = String(body.userId || '').trim();
     if (!uid) return json_({ ok: false, error: 'userId required' });
     var newPath = String(body.source_path || data[anchor][cPath]);
+    var isNew = true;
+    for (var k = 1; k < data.length; k++) {
+      if (data[k][cPath] === newPath) { isNew = false; break; }
+    }
+    var pending = isNew ? 'add' : 'replace';
 
     // insert a blank row below the anchor and fill it
     sh.insertRowAfter(anchor + 1); // sheet rows are 1-based; data idx 0 == sheet row 1
@@ -117,10 +163,10 @@ function doPost(e) {
     vals[cArch] = body.archive_urls || '';
     vals[cSite] = body.site_path || '';
     vals[cSrc] = uid;          // map_source = user's id
-    vals[cPend] = 'replace';   // Pending marker
+    vals[cPend] = pending;     // Pending: "add" for new source_path, else "replace"
     r.setValues([vals]);
 
-    return json_({ ok: true, insertedAfterSheetRow: anchor + 1, source_path: newPath, map_source: uid });
+    return json_({ ok: true, insertedAfterSheetRow: anchor + 1, source_path: newPath, map_source: uid, Pending: pending });
   } catch (err) {
     return json_({ ok: false, error: err.message });
   }
