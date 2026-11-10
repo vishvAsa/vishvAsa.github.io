@@ -1,0 +1,3 @@
+*.json
+.archive_cache.json
+map.csv
