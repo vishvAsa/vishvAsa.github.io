@@ -89,6 +89,9 @@ Continue the kANe proofreading tasks in antigravity.
 ### Greek epics
 save https://www.gutenberg.org/files/1727/1727-h/1727-h.htm to /home/vvasuki/gitland/vishvAsa/AgamaH/content/AryaH/mediterranian/purANam/odyssey/en/butler/  (split by chapters using splitter)
 
+## Clocking
+People with daily max 0 in the sheet are able to log in.
+
 ## General Software
 Find and fix TODOs.
 
