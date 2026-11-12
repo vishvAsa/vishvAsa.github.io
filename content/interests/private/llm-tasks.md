@@ -8,7 +8,25 @@ Find and fix TODOs.
 Review existing code.
 
 ## vedAH yajuH
+brAhmaNa processing - explain finer divisions with examples, and finish the splitting. 
+
+Finish Dumont md cleanup.
+
+AraNyaka and kAThaka - make vishvAsa prastutiH and mUla details as was done elsewhere. Interleave bhaTTa-bhAskara commentary. 
+
+Existing sAyaNa commentary blocks - move brAHmaNa-statement commentary to corresponding brAhmaNa-statement blocks in the indicated files.
+
+sAyaNa commentary - fill in mantra-statement commentary and brAHmaNa-statement commentary respectively.
+
+pdf to md AraNyaka translation. Check if it follows sAyaNa-pATha.
+
+Interleave translation to AraNyaka.
+
+Interleave translation to brAHmaNa.
+
 Fill and update Arsheya krama files, by fixing and extending /home/vvasuki/gitland/sanskrit-coders/doc_curation/doc_curation_projects/veda/yajuH/taittiriiyam/aarsheya.py (spreadsheet at https://docs.google.com/spreadsheets/d/1xFXhg__yitgiECypnO5KAc9Xbe8cTzt-9dZD3AqpmtU/)
+
+use a pristine version of sAyaNa-commentary to add मन्त्र-ब्रह्मण-सबन्धः blocks below corresponding mantra-statements and brAhmaNa-statements. The blocks should express both sArasvata and ArSheya numbering, with links.
 
 ## LLM configuration
 Move the below from global instructions to a new md_to_pdf skill -
@@ -26,13 +44,16 @@ dump_google_groups - Fix it to pick up start url from the last messaged saved in
 
 add code to scrape blogspot sites like https://koenraadelst.blogspot.com/ and call it to dump to koenraadelst dir in the usual location.
 
+Archive taligeri's blogspot site.
+
 IN our catalog, where source path points to pdf location under granthasangraha, prefix "vv-pdfs:". Update scripts accordingly.
 
 Using /home/vvasuki/gitland/sanskrit-coders/doc_curation/doc_curation_projects/misc/muktabodha.py, Update our archive and copy over files to our site. Map new text locii to pages in our site in our drive catalog, with prefix muktabodha: FILE_NAME. For muktabodha sources missing in the map, find them by looking for muktabodha metadata (and if necessary, seeking unique contents) - add and use a function for this. 
 
 pdf to md major rAmAnujIya texts.
 
-
+## kalpAntaram
+Continue the kANe proofreading tasks in antigravity.
 
 ## AgamaH
 ### Greek epics
