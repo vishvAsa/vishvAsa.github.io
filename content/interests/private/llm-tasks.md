@@ -25,9 +25,9 @@ Existing sAyaNa commentary blocks - move brAHmaNa-statement commentary to corres
 
 sAyaNa commentary - fill in mantra-statement commentary and brAHmaNa-statement commentary respectively.
 
-pdf to md AraNyaka translation. Check if it follows sAyaNa-pATha.
+pdf to md AraNyaka translations (file:///media/vvasuki/vData/text/granthasangrahaH/vedAH/taittirIyam/tribhuvana_AraNyaka-english.pdf, file:///media/vvasuki/vData/text/granthasangrahaH/vedAH/taittirIyam/houben_AraNyaka-english.pdf). Check if it follows sAyaNa-pATha.
 
-Interleave translation to AraNyaka.
+Interleave translations to AraNyaka.
 
 Interleave translation to brAHmaNa.
 
