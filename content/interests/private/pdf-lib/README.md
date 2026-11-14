@@ -17,9 +17,10 @@ The canonical database is maintained in Google Sheets via the Apps Script Web Ap
 | [`.archive_cache.json`](.archive_cache.json) | Cached archive.org metadata (auto-generated, do not edit) |
 
 > [!NOTE]
-> `local_library.py` and the Apps Script client helpers live in doc_curation:
-> `~/gitland/sanskrit-coders/doc_curation/hugo_site/`:
-> `local_library.py`, `appscript_client.py`, `check_sheet.py`. The Apps Script
+> `vv_pdf_library.py` and the Apps Script client helpers live in doc_curation:
+> `~/gitland/sanskrit-coders/doc_curation/doc_curation/hugo_site/`:
+> `vv_pdf_library.py`, `appscript_client.py`, `check_sheet.py` (import as
+> `doc_curation.hugo_site`). The Apps Script
 > *server* code (`appScript.gs`) stays here — paste it into Google Apps Script
 > and deploy it as a Web App; the Python in `hugo_site/` calls its `/exec` URL.
 
@@ -30,11 +31,11 @@ The canonical database is maintained in Google Sheets via the Apps Script Web Ap
 Columns:
 `source_path`, `archive_urls`, `site_path`, `map_source`, `Pending`
 
-- **`source_path`** — PDF path relative to `granthasangrahaH/`
+- **`source_path`** — catalog key built with `get_catalog_source_path()`: `vv-pdfs:<pdf-path-relative-to-granthasangrahaH/>`, `ut-dharma:<slug>`, or `muktabodha:<catalog-code-or-slug>`
 - **`archive_urls`** — archive.org item detail pages (not download links), newline-separated when multiple
 - **`site_path`** — Hugo site URL, e.g. `https://vishvasa.github.io/AgamaH_vaiShNavaH/vaikhAnasaH/AgamaH/atri-saMhitA/samUrtArchanAdhikaraNam/`
   (derived from `AgamaH_vaiShNavaH/content/vaikhAnasaH/AgamaH/atri-saMhitA/samUrtArchanAdhikaraNam.md` by dropping `/content/` and `.md`, adding a trailing `/`; `_index.md` / `index.md` map to the directory URL), newline-separated when multiple
-- **`map_source`** — how the mapping was found. Algorithmic rows use real sources (e.g. `size:<file>` / `md:<match>` / `ocr:<score>` / `correspondence:<score>`). LLM-curated rows are stamped with the backend label, e.g. `LLM-crouton` (current; default for fallback and Apps Script `userId`), `LLM-claude` (historical), etc. UT-Austin rows use `ut-dharma:<slug>`; fully manual PDF rows use `manual`.
+- **`map_source`** — how the mapping was found. Algorithmic rows use real sources (e.g. `size:<file>` / `md:<match>` / `ocr:<score>` / `correspondence:<score>`). LLM-curated rows are stamped with the backend label, e.g. `LLM-crouton` (current; default for fallback and Apps Script `userId`), `LLM-claude` (historical), etc. Fully manual PDF rows use `manual`.
 - **`Pending`** — `add` for newly appended rows, `replace` for corrections to an existing `source_path`, blank once approved.
 
 A PDF may appear with an empty cell for one field if only one mapping is known.
@@ -43,10 +44,10 @@ A PDF may appear with an empty cell for one field if only one mapping is known.
 
 ## Updating the Sheet from Local Library / Sites
 
-Use `local_library` functions:
+Use `vv_pdf_library` functions:
 
 ```python
-from hugo_site import local_library
+from doc_curation.hugo_site import vv_pdf_library as local_library
 
 # Get all current spreadsheet entries:
 entries = local_library.get_sheet_entries()
@@ -61,11 +62,11 @@ local_library.sync_new_pdfs_to_sheet(dry_run=True)
 To inspect the Google Sheet via CLI:
 ```bash
 # inspect (header / counts / last rows / --q regex)
-~/gitland/python_venv/bin/python ~/gitland/sanskrit-coders/doc_curation/hugo_site/check_sheet.py --tail 5
+~/gitland/python_venv/bin/python ~/gitland/sanskrit-coders/doc_curation/doc_curation/hugo_site/check_sheet.py --tail 5
 ```
 
-Helpers: `local_library.py`, `appscript_client.py` (GET / POST edit / POST appendRows), `check_sheet.py`
-— all in `hugo_site/`. The script URL is read from `browse.html` (or `--script-url` / `PDF_LIB_SCRIPT_URL`).
+Helpers: `vv_pdf_library.py`, `appscript_client.py` (GET / POST edit / POST appendRows), `check_sheet.py`
+— all in `doc_curation/hugo_site/`. The script URL is read from `browse.html` (or `--script-url` / `PDF_LIB_SCRIPT_URL`).
 
 The matcher uses four strategies in order:
 

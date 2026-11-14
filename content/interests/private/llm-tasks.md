@@ -74,8 +74,6 @@ Continue stalled substack date cleanup task.
 
 add code to scrape blogspot sites like https://koenraadelst.blogspot.com/ and call it to dump to koenraadelst dir in the usual location.
 
-dump_google_groups - Fix it to pick up start url from the last messaged saved in the archive
-
 Archive taligeri's blogspot site.
 
 IN our catalog, where source path points to pdf location under granthasangraha, prefix "vv-pdfs:". Update scripts accordingly.
