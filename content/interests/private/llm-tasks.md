@@ -10,13 +10,21 @@ Add and apply a function wrap_in_detail(details_included=".*", details_excluded=
 similarly, wrap "भास्करोक्त-विनियोगः", "सायणोक्त-विनियोगः" into विनियोगः.
 </details>
 
-
-Apply the sentence splitting principles specified in /home/vvasuki/gitland/vishvAsa/vedAH_yajuH/content/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/_index.md to /home/vvasuki/gitland/vishvAsa/vedAH_yajuH/content/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH . 
-
-Finish Dumont md cleanup.
-
 AraNyaka and kAThaka - make vishvAsa prastutiH and mUla details as was done elsewhere (applying the sentence splitting principles specified in /home/vvasuki/gitland/vishvAsa/vedAH_yajuH/content/taittirIyam/sArasvata-vibhAgaH/brAhmaNam/sarva-prastutiH/_index.md). 
 Interleave bhaTTa-bhAskara commentary (which would identify Rks as well). 
+
+
+<details><summary>LLM Prompt</summary>
+
+Check all mUla beginnings and terminations for accent errors. For example -
+
+> "सम्मा॑ऽऽसिञ्चन्तु म॒रुत॒स् समिन्द्र॒स् सं बृह॒स्पतिः॑ । सम्मा॒यम॒ग्निस् सि॑ञ्च॒त्वायु॑षा च॒ बले॑न॒ चायु॑ष्मन्तङ् करोत॒ मा" इति।
+
+has a missing svarita in the end.  
+These errors arose because of faulty splitting by a human.  
+Where an error is found, fix it - even in the corresponding विश्वास-प्रस्तितिः block.  
+
+</details>
 
 
 Replace all Apo hi ShThA etc. Rks with corresponding shAkala includes - be sure to record any fresh commentary in the included files.
@@ -41,6 +49,8 @@ Fill and update Arsheya krama files, by fixing and extending /home/vvasuki/gitla
 at https://docs.google.com/spreadsheets/d/1xFXhg__yitgiECypnO5KAc9Xbe8cTzt-9dZD3AqpmtU/)
 
 use a pristine version of sAyaNa-commentary to add मन्त्र-ब्रह्मण-सबन्धः blocks below corresponding mantra-statements and brAhmaNa-statements. The blocks should express both sArasvata and ArSheya numbering, with links.
+
+Highlight pratIka-s in all sanskrit commentaries.
 
 ## Website
 https://vishvasa.github.io/rAmAnujIyam/ takes about 20s to load. Make the theme snappier.
@@ -70,20 +80,19 @@ pdf to md major rAmAnujIya texts.
 Create taittirIya text pdfs in ArSheya krama - 1 for each kANDa. Call accent.add_dependent_accents , and add a function to tag udAtta-s red while making the md (pass a new argument to supply md_transformer to the functions called in md_to_pdf skill for this.) in the epub css, ensure that the red tags used are made to appear red.
 
 ## Archiving
-Continue stalled substack date cleanup task.
-
 add code to scrape blogspot sites like https://koenraadelst.blogspot.com/ and call it to dump to koenraadelst dir in the usual location.
 
 Archive taligeri's blogspot site.
 
-IN our catalog, where source path points to pdf location under granthasangraha, prefix "vv-pdfs:". Update scripts accordingly.
-
 Using /home/vvasuki/gitland/sanskrit-coders/doc_curation/doc_curation_projects/misc/muktabodha.py, Update our archive and copy over files to our site. Map new text locii to pages in our site in our drive catalog, with prefix muktabodha: FILE_NAME. For muktabodha sources missing in the map, find them by looking for muktabodha metadata (and if necessary, seeking unique contents) - add and use a function for this. 
 
-Update sandoc archive using /home/vvasuki/gitland/sanskrit-coders/doc_curation/doc_curation_projects/misc/sanskrit_docs.py .
 
 ## kalpAntaram
 Continue the kANe proofreading tasks in antigravity.
+
+## chitra-vedAH
+Illustrating vedas for learners. 
+Dialog - https://meta.ai/share/c/wbBlNXrPQm .
 
 ## AgamaH
 ### Greek epics
