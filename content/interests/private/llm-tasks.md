@@ -72,7 +72,9 @@ Interleave /home/vvasuki/gitland/vishvAsa/rAmAnujIyam/content/tattvam/venkaTa-nA
 Interleave other TIkA-s.
 
 ### Misc
-pdf to md major rAmAnujIya texts.
+pdf to md major rAmAnujIya texts.  
+kumbhakoNANDavan_tiruvAymoLHi-sAra  
+shrauta-kosha.
 
 ## Pdf making
 Create taittirIya text pdfs in ArSheya krama - 1 for each kANDa. Call accent.add_dependent_accents , and add a function to tag udAtta-s red while making the md (pass a new argument to supply md_transformer to the functions called in md_to_pdf skill for this.) in the epub css, ensure that the red tags used are made to appear red.
