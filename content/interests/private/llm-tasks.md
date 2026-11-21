@@ -41,8 +41,6 @@ sAyaNa commentary - fill in mantra-statement commentary and brAHmaNa-statement c
 
 pdf to md AraNyaka translations (file:///media/vvasuki/vData/text/granthasangrahaH/vedAH/taittirIyam/tribhuvana_AraNyaka-english.pdf, file:///media/vvasuki/vData/text/granthasangrahaH/vedAH/taittirIyam/houben_AraNyaka-english.pdf). Check if it follows sAyaNa-pATha.
 
-Interleave translations to AraNyaka.
-
 Interleave translation to brAHmaNa.
 
 Fill and update Arsheya krama files, by fixing and extending /home/vvasuki/gitland/sanskrit-coders/doc_curation/doc_curation_projects/veda/yajuH/taittiriiyam/aarsheya.py (spreadsheet 
