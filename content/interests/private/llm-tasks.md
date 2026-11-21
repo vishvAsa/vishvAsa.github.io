@@ -3,6 +3,8 @@ title = "LLM tasks"
 +++
 
 ## vedAH yajuH
+Accenting fix - report !! errors.
+
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
 Add and apply a function wrap_in_detail(details_included=".*", details_excluded=["विश्वास-प्रस्तुतिः", "भास्करोक्त-विनियोगः", "सायणोक्त-विनियोगः"], wrapper_title="सर्वाष् टीकाः", wrapper_params=None) in details.maker, with these arguments being default values, except details_excluded=["विश्वास-प्रस्तुतिः"] being default. Note that the argument strings are all patterns.
@@ -75,6 +77,9 @@ Interleave other TIkA-s.
 pdf to md major rAmAnujIya texts.  
 kumbhakoNANDavan_tiruvAymoLHi-sAra  
 shrauta-kosha.
+
+## rAmAyaNam
+collate souther recension - https://itihasa.io/ramayana/ 
 
 ## Pdf making
 Create taittirIya text pdfs in ArSheya krama - 1 for each kANDa. Call accent.add_dependent_accents , and add a function to tag udAtta-s red while making the md (pass a new argument to supply md_transformer to the functions called in md_to_pdf skill for this.) in the epub css, ensure that the red tags used are made to appear red.
